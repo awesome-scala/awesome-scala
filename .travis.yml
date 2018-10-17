@@ -1,8 +1,9 @@
-
 language: generic
-
 deploy:
   provider: script
   script: bash scripts/deploy.sh
   on:
     branch: master
+env:
+  global:
+    secure: F7mmAIDQgsqD3BL9GOw/aetP5UkJXzL6+8j1A8Ce4TmYG245scphXgJPj1Um1UlV8IZyQVx6f0op9YxW/SxsksXE23xDdIElXpQl6+KauUL1gclXf8gLOYYIzL4tW5299o8jsisjtd89+E7UPEWsRmrIi8qHy+eNcsrLdh/5eT4LJEO2rJY521UWMXl/ibyJq48l52AD25qIi8b3AzEJYz01KvDTRqLyNL4M9eJh3Hl9sPI8ybtb1yIsS7Yw59tZvQo4lit0J6JWW0rrEXRdB2kWLKLhlB26RLYsx/VNHAJExgfOW/hAYhCL0exBhsbTqLMtFmNmx5IEBrjpWnNLUVzZOHYwIc3fKEnvSGqlezuNDCboKvkpBIzE+heVi7nw7fYDRkOyXLLMHc+OyFyWZJF4T5okI1pZwzAdYfrIUIVhiwNPOXCYCUVqbnQFWsfgkUilL85dnEqU8E1YNSFaZctSdoBeNhQ30n1CyAab8aPLn3JDwp6Dp1b2s8UvxgwiuKlUgS0iPPpplUsirzW4RxFJhj/KYSKbQIjmOTRcX7hEGLsxehwQHTpO2H+Mj89pugqp7fL1NjWOLPcl2oN9fnoI8r5D+suqR7J8d22jgzIUoACrSn9I+DZTHPSG++PIDcinvCufNR63A5NEjrklVaNG844XuupJ6IDqnC0O1IQ=
