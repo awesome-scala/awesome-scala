@@ -54,6 +54,8 @@ full_update = False
 # right now.
 now = datetime.datetime.now()
 
+max_days_inactive = 365
+
 # ask github for the number of stargazers, and days since last
 # activity, for the given github project.
 def query(owner, name):
