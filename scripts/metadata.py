@@ -32,7 +32,7 @@ import urllib2
 
 # we use these regexes when "parsing" README.md
 empty_regex = re.compile(r"^ *\n$")
-section_regex = re.compile(r"^###? (.+)\n$")
+section_regex = re.compile(r"^###? (?:(?!Table of Contents)(.+))\n$")
 repo_regex = re.compile(r"^\* (?:\*\*)?\[?([^*★]+[^ ★])(?: ★ ([^ ]+) ⧗ ([^ *]+))?\]\((.+?)\)(?:\*\*)?(?: (?:-|—|–) (.+))?\n$")
 end_regex = re.compile(r"^# .+\n$")
 github_regex = re.compile(r"^https://github.com/(.+?)/(.+?)(?:/?)$")
@@ -82,7 +82,10 @@ def output_repo(outf, name, stars, days, link, rdesc):
         title = name
     else:
         title = '%s ★ %s ⧗ %s' % (name, stars, days)
-    if popular:
+        
+    if days is not None and int(days) > max_days_inactive:
+        print '    {0}: inactive for {1} days (max={2})'.format(link, days, max_days_inactive)
+    elif popular:
         outf.write('* **[{0}]({1})** - {2}\n'.format(title, link, rdesc))
     else:
         outf.write('* [{0}]({1}) - {2}\n'.format(title, link, rdesc))
