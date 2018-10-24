@@ -65,6 +65,7 @@ Projects with over 500 stargazers are in bold.
 
 *Databases implemented in Scala.*
 
+* [Atlas ★ 1 ⧗ 0](https://github.com/Netflix/atlas) - In-memory dimensional time series database built by Netflix.
 * **[FiloDB ★ 1029 ⧗ 0](https://github.com/filodb/FiloDB)** - Prometheus-compatible distributed time series database.
 * [SwayDB](http://www.swaydb.io/) - A Type-safe & non-blocking key-value storage library for single/multiple disks and in-memory storage.
 
@@ -409,6 +410,7 @@ Projects with over 500 stargazers are in bold.
 
 * [Agora](https://gitlab.com/aossie/Agora/) - Library of vote-counting algorithms for elections.
 * [Ammonite-REPL](http://lihaoyi.github.io/Ammonite/#Ammonite-REPL) - An improved Scala REPL: syntax highlighting, output formatting, multi-line input, and more.
+* [ApiBuilder ★ 378 ⧗ 8](https://github.com/apicollective/apibuilder) - Simple, Comprehensive Tooling for Modern APIs 
 * [BootZooka ★ 378 ⧗ 8](https://github.com/softwaremill/bootzooka) - Simple project to quickly start developing a web application using AngularJS and Akka HTTP, without the need to write login, user registration etc.
 * **[Eclair ★ 678 ⧗ 0](https://github.com/ACINQ/eclair)** - ACINQ's Lightning Network implementation written in Scala.  Lightning Network is a second layer protocol built on top of bitcoin to address scalability, privacy, confirmation time and many other issues.
 * [Fansi ★ 137 ⧗ 7](https://github.com/lihaoyi/fansi) - Scala/Scala.js library for manipulating Fancy Ansi colored strings
@@ -422,6 +424,7 @@ Projects with over 500 stargazers are in bold.
 * [Play Swagger ★ 266 ⧗ 4](https://github.com/iheartradio/play-swagger) - Automatically create Swagger documentation for your Play REST API
 * [powerscala ★ 14 ⧗ 348](https://github.com/outr/powerscala) - Powerful framework providing many useful utilities and features on top of the Scala language.
 * [pprint ★ 63 ⧗ 9](https://github.com/lihaoyi/pprint) - Pretty-printer for Scala values and types for easier reading and debugging
+* [Prisma ★ 1 ⧗ 0](https://github.com/prisma/prisma) - Prisma turns your database into a realtime GraphQL API 
 * **[PureConfig ★ 693 ⧗ 0](https://github.com/melrief/pureconfig)** - A boilerplate-free Scala library for loading configuration files.
 * [REPLesent ★ 367 ⧗ 6](https://github.com/marconilanna/REPLesent) - A presentation tool built inside the Scala REPL. Runs code straight from your slides with a single keystroke.
 * [scala-debugger ★ 82 ⧗ 25](https://github.com/ensime/scala-debugger) - Scala libraries and tooling utilizing the Java Debugger Interface.
