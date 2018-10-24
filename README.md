@@ -61,7 +61,7 @@ Projects with over 500 stargazers are in bold.
 
 * [CIlibtutorial ★ 3 ⧗ 25](https://github.com/cirg-up/cilib-tutorial) - A tutorial book for cilib.
 
-## Databses
+## Databases
 
 *Databases implemented in Scala.*
 
