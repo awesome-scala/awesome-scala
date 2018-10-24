@@ -20,7 +20,8 @@ Projects with over 500 stargazers are in bold.
     - [Cryptography](#cryptography)
     - [CSV](#csv)
     - [Data Binding and Validation](#data-binding-and-validation)
-    - [Database](#database)
+    - [Databases](#databases)
+    - [Database Access](#database-access)
     - [DevOps](#devops)
     - [Distributed Systems](#distributed-systems)
     - [Extensions](#extensions)
@@ -64,6 +65,7 @@ Projects with over 500 stargazers are in bold.
 
 *Databases implemented in Scala.*
 
+* [SwayDB](http://www.swaydb.io/) - A Type-safe & non-blocking key-value storage library for single/multiple disks and in-memory storage.
 * **[FiloDB ★ 1029 ⧗ 0](https://github.com/filodb/FiloDB)** - Prometheus-compatible distributed time series database.
 
 ## Database Access
