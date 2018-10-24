@@ -60,7 +60,13 @@ Projects with over 500 stargazers are in bold.
 
 * [CIlibtutorial ★ 3 ⧗ 21](https://github.com/cirg-up/cilib-tutorial) - A tutorial book for cilib.
 
-## Database
+## Databses
+
+*Databases implemented in Scala.*
+
+* [FiloDB ★ 1000 ⧗ 2](https://github.com/filodb/FiloDB) - Prometheus-compatible distributed time series database.
+
+## Database Access
 
 *Database access libraries in Scala.*
 
@@ -604,6 +610,7 @@ Projects with over 500 stargazers are in bold.
 
 *DevOps related tools and libraries.*
 
+* [Orkestra ★ 80 ⧗ 1](https://github.com/Orkestra-Tech/orkestra) - Functional DevOps with Scala and Kubernetes
 * [Skuber ★ 146 ⧗ 2](https://github.com/doriordan/skuber) - Kubernetes client in Scala
 
 # Resources
