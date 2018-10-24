@@ -65,8 +65,8 @@ Projects with over 500 stargazers are in bold.
 
 *Databases implemented in Scala.*
 
-* [SwayDB](http://www.swaydb.io/) - A Type-safe & non-blocking key-value storage library for single/multiple disks and in-memory storage.
 * **[FiloDB ★ 1029 ⧗ 0](https://github.com/filodb/FiloDB)** - Prometheus-compatible distributed time series database.
+* [SwayDB](http://www.swaydb.io/) - A Type-safe & non-blocking key-value storage library for single/multiple disks and in-memory storage.
 
 ## Database Access
 
@@ -103,7 +103,7 @@ Projects with over 500 stargazers are in bold.
 * [scredis ★ 151 ⧗ 106](https://github.com/Livestream/scredis) - Non-blocking Redis client built on top of Akka IO (used by Livestream)
 * [Shade ★ 96 ⧗ 9](https://github.com/alexandru/shade) - Memcached client for Scala, based on Spymemcached
 * **[Slick ★ 2116 ⧗ 3](https://github.com/slick/slick)** - Modern database query and access library for Scala.
-* [Sorm ★ 239 ⧗ 18](https://github.com/sorm/sorm) - A functional boilerplate-free Scala ORM.
+* [Sorm ★ 239 ⧗ 19](https://github.com/sorm/sorm) - A functional boilerplate-free Scala ORM.
 * **[Squeryl ★ 512 ⧗ 5](https://github.com/squeryl/squeryl)** - A Scala DSL for talking with databases with minimum verbosity and maximum type safety.
 * [Tepkin ★ 83 ⧗ 335](https://github.com/fehmicansaglam/tepkin) - Reactive MongoDB Driver for Scala built on top of Akka IO and Akka Streams.
 
@@ -582,7 +582,7 @@ Projects with over 500 stargazers are in bold.
 * [Scalafix]https://github.com/scalacenter/scalafix) - Refactoring and linting tool
 
 * [Codacy](https://www.codacy.com/) - Automated Code Reviews for Scala
-* [fast-string-interpolator ★ 50 ⧗ 2](https://github.com/Sizmek/fast-string-interpolator) - Scala macro that generates ultra-fast string interpolators
+* [fast-string-interpolator ★ 50 ⧗ 3](https://github.com/Sizmek/fast-string-interpolator) - Scala macro that generates ultra-fast string interpolators
 * [Fastring ★ 109 ⧗ 13](https://github.com/Atry/fastring) - Extremely fast string formatting
 * **[Gitbucket ★ 7381 ⧗ 0](https://github.com/gitbucket/gitbucket)** - The easily installable GitHub clone powered by Scala
 * [Giter8](http://www.foundweekends.org/giter8/) - command line tool to generate files and directories from templates published on Github
