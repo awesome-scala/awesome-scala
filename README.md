@@ -21,7 +21,7 @@ Projects with over 500 stargazers are in bold.
     - [CSV](#csv)
     - [Data Binding and Validation](#data-binding-and-validation)
     - [Databases](#databases)
-     - [Database Access](#database-access)
+    - [Database Access](#database-access)
     - [DevOps](#devops)
     - [Distributed Systems](#distributed-systems)
     - [Extensions](#extensions)
