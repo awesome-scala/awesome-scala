@@ -65,6 +65,7 @@ Projects with over 500 stargazers are in bold.
 *Databases implemented in Scala.*
 
 * [FiloDB ★ 1000 ⧗ 2](https://github.com/filodb/FiloDB) - Prometheus-compatible distributed time series database.
+* [SwayDB](http://www.swaydb.io/) - A Type-safe & non-blocking key-value storage library for single/multiple disks and in-memory storage.
 
 ## Database Access
 
