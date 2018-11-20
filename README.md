@@ -297,7 +297,7 @@ Projects with over 500 stargazers are in bold.
 * **[Flink ★ 4957 ⧗ 0](https://github.com/apache/flink)** - Processing framework with powerful stream- and batch-processing capabilities.
 * [Gearpump ★ 303 ⧗ 3](https://github.com/apache/incubator-gearpump) - Lightweight real-time big data streaming engine
 * [GridScale ★ 16 ⧗ 4](https://github.com/openmole/gridscale) - A Scala API for computing clusters and grids.
-* **[Kafka ★ 10204 ⧗ 0](https://github.com/apache/kafka)** - Kafka is a message broker project and aims to provide a unified, high-throughput, low-latency platform for handling real-time data feeds.
+* **[Kafka ★ 10205 ⧗ 0](https://github.com/apache/kafka)** - Kafka is a message broker project and aims to provide a unified, high-throughput, low-latency platform for handling real-time data feeds.
 * **[Reactive-kafka ★ 1092 ⧗ 1](https://github.com/akka/reactive-kafka)** - Reactive Streams API for Apache Kafka.
 * **[Scalding ★ 3079 ⧗ 0](https://github.com/twitter/scalding)** - A Scala binding for the Cascading abstraction of Hadoop MapReduce.
 * [Schemer ★ 55 ⧗ 0](https://github.com/indix/schemer) - Schema registry for CSV, TSV, JSON, AVRO and Parquet schema. Supports schema inference and GraphQL API.
