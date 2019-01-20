@@ -189,7 +189,7 @@ Projects with over 500 stargazers are in bold.
 *Cryptography and Encryption Libraries.*
 
 * [Scrypto ★ 155 ⧗ 6](https://github.com/ScorexProject/scrypto) - All-purpose cryptographic framework.
-* [TSec ★ 218 ⧗ 1](https://github.com/jmcardon/tsec) - Type-safe, functional, general-cryptography library
+* [TSec ★ 218 ⧗ 2](https://github.com/jmcardon/tsec) - Type-safe, functional, general-cryptography library
 
 ## Testing
 
