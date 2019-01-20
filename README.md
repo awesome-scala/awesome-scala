@@ -398,7 +398,7 @@ Projects with over 500 stargazers are in bold.
 * **[Scalaz ★ 4004 ⧗ 0](https://github.com/scalaz/scalaz)** - An extension to the core Scala library for functional programming.
 * [scribe ★ 191 ⧗ 1](https://github.com/outr/scribe) - Practical logging framework that doesn't depend on any other logging framework and can be completely configured programmatically.
 * **[Shapeless ★ 2668 ⧗ 0](https://github.com/milessabin/shapeless)** - A type class and dependent type based generic programming library for Scala.
-* **[Simulacrum ★ 743 ⧗ 0](https://github.com/mpilquist/simulacrum)** - First class syntax support for type classes in Scala.
+* **[Simulacrum ★ 743 ⧗ 1](https://github.com/mpilquist/simulacrum)** - First class syntax support for type classes in Scala.
 * [Squid ★ 138 ⧗ 1](https://github.com/epfldata/squid) - Type-safe metaprogramming framework with typed, hygienic quasiquotes.
 * [Stateless Future ★ 177 ⧗ 1](https://github.com/qifun/stateless-future) - Asynchronous programming in fully featured Scala syntax.
 * **[Twitter Util ★ 2217 ⧗ 1](https://github.com/twitter/util)** - General-purpose Scala libraries, including a future implementation and other concurrency tools.
