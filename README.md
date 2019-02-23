@@ -68,6 +68,7 @@ Projects with over 500 stargazers are in bold.
 * **[Atlas ★ 2258 ⧗ 0](https://github.com/Netflix/atlas)** - In-memory dimensional time series database built by Netflix.
 * **[FiloDB ★ 1071 ⧗ 1](https://github.com/filodb/FiloDB)** - Prometheus-compatible distributed time series database.
 * [SwayDB](http://www.swaydb.io/) - A Type-safe & non-blocking key-value storage library for single/multiple disks and in-memory storage.
+* [L-space ★ 2 ⧗ 0](https://github.com/L-space/L-space) - A pure Scala (and Scala.js) Linked Data graph computing framework, database (both in-memory and persistent) and rest-APIs (support for Json-ld).
 
 ## Database Access
 
