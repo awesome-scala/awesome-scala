@@ -74,7 +74,7 @@ Projects with over 500 stargazers are in bold.
 
 *Database access libraries in Scala.*
 
-* [Anorm](https://github.com/playframework/anorm) - Simple SQL data access.
+* [Anorm ★ 172 ⧗ 4](https://github.com/playframework/anorm) - Simple SQL data access.
 * [Casbah](http://mongodb.github.io/casbah/) ([repo](https://github.com/mongodb/casbah)) - Officially supported Scala driver for MongoDB
 * [CouchDB-Scala ★ 62 ⧗ 23](https://github.com/beloglazov/couchdb-scala) - Purely functional Scala client for CouchDB
 * **[doobie ★ 1389 ⧗ 0](https://github.com/tpolecat/doobie)** - Pure functional JDBC layer for Scala.
@@ -132,7 +132,7 @@ Projects with over 500 stargazers are in bold.
 * **[Play ★ 11040 ⧗ 0](https://github.com/playframework/playframework)** - Makes it easy to build scalable, fast and real-time web applications with Java & Scala.
 * [Play Pagelets ★ 72 ⧗ 7](https://github.com/splink/pagelets) - A Module for the Play Framework to build resilient and modular Play applications in an elegant and concise manner.
 * [Reactive ★ 207 ⧗ 0](https://github.com/nafg/reactive) - FRP and web abstractions, which can be plugged into any web framework (currently only has bindings for Lift).
-* **[Scalatra ★ 2379 ⧗ 0](https://github.com/scalatra/scalatra)** - Tiny Scala high-performance, async web framework, inspired by Sinatra.
+* **[Scalatra ★ 2379 ⧗ 1](https://github.com/scalatra/scalatra)** - Tiny Scala high-performance, async web framework, inspired by Sinatra.
 * **[Skinny Framework ★ 696 ⧗ 8](https://github.com/skinny-framework/skinny-framework)** - A full-stack web app framework upon Scalatra for rapid Development in Scala.
 * [suzaku ★ 102 ⧗ 23](https://github.com/suzaku-io/suzaku) - Suzaku web UI framework for Scala
 * **[Unfiltered ★ 698 ⧗ 3](https://github.com/unfiltered/unfiltered)** - A modular set of unopinionated primitives for servicing HTTP and WebSocket requests in Scala.
@@ -584,7 +584,7 @@ Projects with over 500 stargazers are in bold.
 * [Fastring ★ 112 ⧗ 35](https://github.com/Atry/fastring) - Extremely fast string formatting
 * **[Gitbucket ★ 7613 ⧗ 1](https://github.com/gitbucket/gitbucket)** - The easily installable GitHub clone powered by Scala
 * [Giter8](http://www.foundweekends.org/giter8/) - command line tool to generate files and directories from templates published on Github
-* [Hepek ★ 39 ⧗ 7](https://github.com/sake92/hepek) - Static content generator for developers. Intuitive, scalable, powerful. 
+* [Hepek ★ 39 ⧗ 8](https://github.com/sake92/hepek) - Static content generator for developers. Intuitive, scalable, powerful. 
 * [Mill](http://www.lihaoyi.com/mill/) - A better Scala build tool
 * [sbt](http://www.scala-sbt.org/) ([repo](https://github.com/sbt/sbt)) - The interactive build tool for Scala
 * [Scala @LibHunt](https://scala.libhunt.com) - The go-to Scala Toolbox.
