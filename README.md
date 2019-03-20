@@ -74,7 +74,7 @@ Projects with over 500 stargazers are in bold.
 
 *Database access libraries in Scala.*
 
-* [Anorm ★ 172 ⧗ 4](https://github.com/playframework/anorm) - Simple SQL data access.
+* [Anorm](https://github.com/playframework/anorm) - Simple SQL data access.
 * [Casbah](http://mongodb.github.io/casbah/) ([repo](https://github.com/mongodb/casbah)) - Officially supported Scala driver for MongoDB
 * [CouchDB-Scala ★ 62 ⧗ 23](https://github.com/beloglazov/couchdb-scala) - Purely functional Scala client for CouchDB
 * **[doobie ★ 1389 ⧗ 0](https://github.com/tpolecat/doobie)** - Pure functional JDBC layer for Scala.
@@ -280,7 +280,7 @@ Projects with over 500 stargazers are in bold.
 * [Numsca ★ 72 ⧗ 2](https://github.com/botkop/numsca) - Numsca is Numpy for Scala.
 * [OpenMOLE ★ 95 ⧗ 1](https://github.com/openmole/openmole) - OpenMOLE (Open MOdeL Experiment) is a workflow engine designed to leverage the computing power of distributed execution environments for naturally parallel processes.
 * [OscaR](https://bitbucket.org/oscarlib/oscar/wiki/Home) - a Scala toolkit for solving Operations Research problems
-* **[PredictionIO ★ 11694 ⧗ 0](https://github.com/PredictionIO/PredictionIO)** - machine learning server for developers and data scientists. Built on Apache Spark, HBase and Spray
+* **[PredictionIO ★ 11695 ⧗ 0](https://github.com/PredictionIO/PredictionIO)** - machine learning server for developers and data scientists. Built on Apache Spark, HBase and Spray
 * [Rings ★ 36 ⧗ 1](https://github.com/PoslavskySV/rings) - An efficient library for polynomial rings. Commutative algebra, polynomial GCDs, polynomial factorization and other sci things at a really high speed.
 * [Saddle ★ 496 ⧗ 29](https://github.com/saddle/saddle) - A minimalist port of Pandas to Scala
 * [Smile](http://haifengl.github.io/smile/) - Statistical Machine Intelligence and Learning Engine. Smile is a fast and comprehensive machine learning system.
