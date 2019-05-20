@@ -314,7 +314,7 @@ Projects with over 500 stargazers are in bold.
 *2D and 3D image processing and image analysis*
 
 * [scalismo ★ 133 ⧗ 3](https://github.com/unibas-gravis/scalismo) - Shape modelling and  model-based image analysis.
-* **[scrimage ★ 662 ⧗ 14](https://github.com/sksamuel/scrimage)** - Image io, resize, manipulation and thumbnails.
+* **[scrimage ★ 662 ⧗ 15](https://github.com/sksamuel/scrimage)** - Image io, resize, manipulation and thumbnails.
 
 ## Sound processing and music
 
