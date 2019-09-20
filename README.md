@@ -496,7 +496,7 @@ Projects with over 500 stargazers are in bold.
 * [sbt-ide-settings ★ 42 ⧗ 189](https://github.com/Jetbrains/sbt-ide-settings) - SBT plugin for tweaking various IDE settings
 * **[sbt-native-packager ★ 1264 ⧗ 4](https://github.com/sbt/sbt-native-packager)** - Bundle up Scala software for native packaging systems, like deb, rpm, homebrew, msi..
 * [sbt-pack ★ 393 ⧗ 8](https://github.com/xerial/sbt-pack) - A sbt plugin for creating distributable Scala packages.
-* **[sbt-revolver ★ 713 ⧗ 0](https://github.com/spray/sbt-revolver)** - Fork & Stop processes from sbt.
+* **[sbt-revolver ★ 713 ⧗ 1](https://github.com/spray/sbt-revolver)** - Fork & Stop processes from sbt.
 * [sbt-robovm ★ 111 ⧗ 38](https://github.com/roboscala/sbt-robovm) - An sbt plugin for iOS development in Scala
 * [sbt-scala-js-map ★ 23 ⧗ 9](https://github.com/ThoughtWorksInc/sbt-scala-js-map) - A sbt plugin that configures source mapping for Scala.js projects hosted on Github
 * [sbt-sublime ★ 139 ⧗ 38](https://github.com/orrsella/sbt-sublime) - Create Sublime Text projects with library dependencies sources
