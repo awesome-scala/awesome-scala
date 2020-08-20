@@ -329,7 +329,7 @@ Projects with over 500 stargazers are in bold.
 
 *Modularization of applications, dependency injection, etc.*
 
-* [Airframe ★ 410 ⧗ 1](https://github.com/wvlet/airframe) - Dependency injection library tailored to Scala.
+* [Airframe ★ 410 ⧗ 0](https://github.com/wvlet/airframe) - Dependency injection library tailored to Scala.
 * [DIStage ★ 341 ⧗ 0](https://github.com/pshirshov/izumi-r2) - Staged Dependency Injection with higher-kinded polymorphism.
 * [Grafter ★ 241 ⧗ 10](https://github.com/zalando/grafter) - Grafter is a library to configure and wire Scala applications.
 * **[MacWire ★ 1072 ⧗ 1](https://github.com/adamw/macwire)** - Scala Macro to generate wiring code for class instantiation. DI container replacement.
@@ -476,7 +476,7 @@ Projects with over 500 stargazers are in bold.
 *Sbt plugins to make your life easier.*
 
 * [coursier ★ 2 ⧗ 282](https://github.com/alexarchambault/coursier) - A Scala library to fetch dependencies from Maven / Ivy repositories
-* [sbt-api-mappings ★ 75 ⧗ 49](https://github.com/ThoughtWorksInc/sbt-api-mappings) - A Sbt plugin that resolves external API links to common Scala libraries.
+* [sbt-api-mappings ★ 75 ⧗ 50](https://github.com/ThoughtWorksInc/sbt-api-mappings) - A Sbt plugin that resolves external API links to common Scala libraries.
 * [sbt-buildinfo ★ 470 ⧗ 10](https://github.com/sbt/sbt-buildinfo) - Generates Scala source from build definition.
 * **[sbt-dependency-graph ★ 1191 ⧗ 1](https://github.com/jrudolph/sbt-dependency-graph)** - Create a dependency graph for your project.
 * **[sbt-docker ★ 675 ⧗ 1](https://github.com/marcuslonnberg/sbt-docker)** - Create Docker images directly from sbt
