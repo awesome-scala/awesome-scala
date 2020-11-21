@@ -125,7 +125,7 @@ Projects with over 500 stargazers are in bold.
 * **[Finatra ★ 2040 ⧗ 0](https://github.com/twitter/finatra)** - A sinatra-inspired web framework for scala, running on top of Finagle.
 * **[Lift ★ 1219 ⧗ 5](https://github.com/lift/framework)** - Secure and powerful full stack web framework ([discussion](https://github.com/lauris/awesome-scala/pull/19)).
 * [peregine ★ 14 ⧗ 19](https://github.com/dvarelap/peregrine) - A simple and async lightweight Scala web framework.
-* **[Play ★ 11739 ⧗ 1](https://github.com/playframework/playframework)** - Makes it easy to build scalable, fast and real-time web applications with Java & Scala.
+* **[Play ★ 11740 ⧗ 0](https://github.com/playframework/playframework)** - Makes it easy to build scalable, fast and real-time web applications with Java & Scala.
 * [Play Pagelets ★ 76 ⧗ 6](https://github.com/splink/pagelets) - A Module for the Play Framework to build resilient and modular Play applications in an elegant and concise manner.
 * [Reactive ★ 214 ⧗ 5](https://github.com/nafg/reactive) - FRP and web abstractions, which can be plugged into any web framework (currently only has bindings for Lift).
 * **[Scalatra ★ 2478 ⧗ 0](https://github.com/scalatra/scalatra)** - Tiny Scala high-performance, async web framework, inspired by Sinatra.
@@ -150,7 +150,7 @@ Projects with over 500 stargazers are in bold.
 *Scala libraries for data binding and validation*
 
 * **[Accord ★ 513 ⧗ 19](https://github.com/wix/accord)** - A sane validation library for Scala
-* [Monkeytail ★ 87 ⧗ 29](https://github.com/sksamuel/monkeytail) - A set of validation macros and helpers for cats.Validated
+* [Monkeytail ★ 87 ⧗ 30](https://github.com/sksamuel/monkeytail) - A set of validation macros and helpers for cats.Validated
 * [Octopus ★ 132 ⧗ 6](https://github.com/krzemin/octopus) - Scala library for boilerplate-free validation
 
 ## i18n
@@ -234,7 +234,7 @@ Projects with over 500 stargazers are in bold.
 *Libraries for work with CSV.*
 
 * [fm-flatfile ★ 9 ⧗ 102](https://github.com/frugalmechanic/fm-flatfile) - Very flexible, Flat File (CSV, TSV, Excel, etc) Reader for Scala.
-* [kantan.csv ★ 297 ⧗ 3](https://github.com/nrinaudo/kantan.csv) - CSV handling library for Scala with multiple backends.
+* [kantan.csv ★ 297 ⧗ 4](https://github.com/nrinaudo/kantan.csv) - CSV handling library for Scala with multiple backends.
 * **[Scala-CSV ★ 584 ⧗ 0](https://github.com/tototoshi/scala-csv)** - CSV Reader/Writer for Scala.
 
 ## Serialization
@@ -320,7 +320,7 @@ Projects with over 500 stargazers are in bold.
 * **[Monix ★ 1721 ⧗ 0](https://github.com/monifu/monix)** - Extensions to Scala’s standard library for multi-threading primitives and functional reactive programming. Scala.js compatible.
 * [REScala](http://www.rescala-lang.com/) - REScala is a library for functional reactive programming on the JVM and the Web. It provides a rich API for event stream transformations and signal composition with managed consistent up-to-date state and minimal syntactic overhead.
 * **[RxScala ★ 884 ⧗ 7](https://github.com/ReactiveX/RxScala)** - Reactive Extensions for Scala – a library for composing asynchronous and event-based programs using observable sequences
-* **[Scala.Rx ★ 958 ⧗ 9](https://github.com/lihaoyi/scala.rx)** - An experimental library for Functional Reactive Programming in Scala (reactive variables). Scala.js compatible.
+* **[Scala.Rx ★ 958 ⧗ 10](https://github.com/lihaoyi/scala.rx)** - An experimental library for Functional Reactive Programming in Scala (reactive variables). Scala.js compatible.
 * [SynapseGrid ★ 122 ⧗ 102](https://github.com/Primetalk/SynapseGrid) - an FRP framework for constructing reactive real-time immutable data flow systems. It implements an original way of running and organizing event-driven systems based on Petri nets. The topology can be viewed as a .dot graph. The library is compatible with Akka and can seamlessly communicate with other actors.
 * [Vert.x](http://vertx.io/) - A polyglot reactive application platform for the JVM which aims to be an alternative to node.js. Its concurrency model resembles actors. It supports [Scala](http://vertx.io/docs/vertx-core/scala/), Clojure, Java, Javascript, Ruby, Groovy and Python.
 
@@ -365,7 +365,7 @@ Projects with over 500 stargazers are in bold.
 * **[Enumeratum ★ 987 ⧗ 4](https://github.com/lloydmeta/enumeratum)** - A macro to replace Scala enumerations with a sealed family of case objects. This allows additional checks for the compiler, e.g. for missing cases in a match statement. Has additinal support for Json libraries and the Play framework.
 * [Freasy-Monad ★ 112 ⧗ 17](https://github.com/Thangiee/Freasy-Monad) - Easy way to create Free Monad for Cats and Scalaz using Scala macros with first-class Intellij support.
 * **[Freestyle ★ 622 ⧗ 2](https://github.com/frees-io/freestyle)** - A cohesive & pragmatic framework of FP centric Scala libraries.
-* [Hamsters ★ 294 ⧗ 95](https://github.com/scala-hamsters/hamsters) - A mini Scala utility library. Compatible with functional programming beginners. Featuring validation, monad transformers, HLists, Union types.
+* [Hamsters ★ 294 ⧗ 96](https://github.com/scala-hamsters/hamsters) - A mini Scala utility library. Compatible with functional programming beginners. Featuring validation, monad transformers, HLists, Union types.
 * [idid ★ 14 ⧗ 165](https://github.com/lucastorri/idid) - A library to define common interfaces for different Id types.
 * [Lamma ★ 87 ⧗ 157](https://github.com/maxcellent/lamma) - A Scala date library for date and schedule generation.
 * [LArray ★ 359 ⧗ 9](https://github.com/xerial/larray) - Large off-heap arrays (> 2GB) and mmap files.
@@ -475,7 +475,7 @@ Projects with over 500 stargazers are in bold.
 *Sbt plugins to make your life easier.*
 
 * [coursier ★ 2 ⧗ 44](https://github.com/alexarchambault/coursier) - A Scala library to fetch dependencies from Maven / Ivy repositories
-* [sbt-api-mappings ★ 76 ⧗ 88](https://github.com/ThoughtWorksInc/sbt-api-mappings) - A Sbt plugin that resolves external API links to common Scala libraries.
+* [sbt-api-mappings ★ 76 ⧗ 89](https://github.com/ThoughtWorksInc/sbt-api-mappings) - A Sbt plugin that resolves external API links to common Scala libraries.
 * [sbt-buildinfo ★ 474 ⧗ 10](https://github.com/sbt/sbt-buildinfo) - Generates Scala source from build definition.
 * **[sbt-dependency-graph ★ 1211 ⧗ 3](https://github.com/jrudolph/sbt-dependency-graph)** - Create a dependency graph for your project.
 * **[sbt-docker ★ 680 ⧗ 0](https://github.com/marcuslonnberg/sbt-docker)** - Create Docker images directly from sbt
