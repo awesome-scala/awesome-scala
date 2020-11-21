@@ -87,7 +87,7 @@ Projects with over 500 stargazers are in bold.
 * [Pulsar4s ★ 166 ⧗ 5](https://github.com/sksamuel/pulsar4s) - Scala client for Apache Pulsar.
 * **[Quill ★ 1761 ⧗ 0](https://github.com/getquill/quill)** - Compile-time Language Integrated Query for Scala
 * [ReactiveCouchbase](http://reactivecouchbase.org/) - Reactive Scala Driver for Couchbase. Also includes a Play plug-in. An official plug-in is also in development.
-* **[ReactiveMongo ★ 824 ⧗ 4](https://github.com/ReactiveMongo/ReactiveMongo)** - Reactive Scala Driver for MongoDB.
+* **[ReactiveMongo ★ 825 ⧗ 0](https://github.com/ReactiveMongo/ReactiveMongo)** - Reactive Scala Driver for MongoDB.
 * **[rediscala ★ 790 ⧗ 59](https://github.com/etaty/rediscala)** - Non-blocking, Reactive Redis driver for Scala (with Sentinel support)
 * [Relate ★ 163 ⧗ 106](https://github.com/lucidsoftware/relate) - Lightweight, blazing-fast database access layer for Scala that abstracts the idiosyncricies of the JDBC while keeping complete control over the SQL.
 * [Salat ★ 488 ⧗ 39](https://github.com/salat/salat/) - ORM for MongoDB. A related Play-plugin is also available.
@@ -208,8 +208,8 @@ Projects with over 500 stargazers are in bold.
 *Libraries for work with json.*
 
 * [argonaut](http://argonaut.io/) - Purely Functional JSON in Scala.
-* **[circe ★ 2046 ⧗ 0](https://github.com/travisbrown/circe)** - JSON library based on Argonaut, depends on Cats
-* [diffson ★ 248 ⧗ 0](https://github.com/gnieh/diffson) - A scala diff/patch library for Json
+* **[circe ★ 2047 ⧗ 0](https://github.com/travisbrown/circe)** - JSON library based on Argonaut, depends on Cats
+* [diffson ★ 248 ⧗ 1](https://github.com/gnieh/diffson) - A scala diff/patch library for Json
 * [jackson-module-scala ★ 421 ⧗ 0](https://github.com/FasterXML/jackson-module-scala) - Add-on module for Jackson to support Scala-specific datatypes.
 * [jawn ★ 387 ⧗ 4](https://github.com/non/jawn) - Fast json parser (According to them, competetive with java gson/jackson speed).
 * **[json4s ★ 1326 ⧗ 0](https://github.com/json4s/json4s)** - Project aims to provide a single AST to be used by other scala json libraries.
@@ -299,7 +299,7 @@ Projects with over 500 stargazers are in bold.
 * [spark-deployer ★ 76 ⧗ 79](https://github.com/KKBOX/spark-deployer) - A sbt plugin which helps deploying Apache Spark stand-alone cluster and submitting job on cloud system like AWS EC2.
 * [Sparkplug ★ 23 ⧗ 67](https://github.com/indix/sparkplug) - Spark package to "plug" holes in data using SQL based rules
 * **[Sparkta ★ 511 ⧗ 6](https://github.com/Stratio/sparkta)** - Real Time Aggregation based on Spark Streaming.
-* **[Summingbird ★ 2087 ⧗ 7](https://github.com/twitter/summingbird)** - An implementation of the “lambda architecture” as a software abstraction — a single API for Hadoop and Storm.
+* **[Summingbird ★ 2087 ⧗ 8](https://github.com/twitter/summingbird)** - An implementation of the “lambda architecture” as a software abstraction — a single API for Hadoop and Storm.
 * **[Vegas ★ 699 ⧗ 9](https://github.com/vegas-viz/Vegas)** - The missing MatPlotLib for Scala + Spark
 
 ## Image processing and image analysis
@@ -431,7 +431,7 @@ Projects with over 500 stargazers are in bold.
 
 *Scala libraries and wrappers for HTTP clients.*
 
-* **[Akka HTTP ★ 1127 ⧗ 0](https://github.com/akka/akka-http)** - The Streaming-first HTTP server/module of [Akka](https://github.com/akka/akka).
+* **[Akka HTTP ★ 1128 ⧗ 0](https://github.com/akka/akka-http)** - The Streaming-first HTTP server/module of [Akka](https://github.com/akka/akka).
 * [Dispatch ★ 435 ⧗ 39](https://github.com/dispatch/reboot) - Library for asynchronous HTTP interaction. It provides a Scala vocabulary for Java’s [async-http-client](https://github.com/AsyncHttpClient/async-http-client).
 * **[Finch.io ★ 1508 ⧗ 0](https://github.com/finagle/finch)** - Purely Functional REST API atop of [Finagle](https://github.com/twitter/finagle).
 * [Fintrospect ★ 37 ⧗ 0](http://fintrospect.io) - Implement fast, type-safe HTTP webservices for [Finagle](https://github.com/twitter/finagle).
@@ -586,7 +586,7 @@ Projects with over 500 stargazers are in bold.
 * **[Geotrellis ★ 1100 ⧗ 0](https://github.com/locationtech/geotrellis)** - Scalable raster toolkit for GIS processing
 * [osm4scala ★ 45 ⧗ 2](https://github.com/angelcervera/osm4scala) - OpenStreetMap PBF2 file parser
 * [rtree2d ★ 91 ⧗ 0](https://github.com/Sizmek/rtree2d) - RTree2D is a 2D immutable R-tree with STR (Sort-Tile-Recursive) packing for ultra-fast nearest and intersection queries on plane and spherical surfaces
-* [sfcurve ★ 60 ⧗ 17](https://github.com/locationtech/sfcurve) - Space filling curves in Scala for geospatial indexing and query
+* [sfcurve ★ 60 ⧗ 18](https://github.com/locationtech/sfcurve) - Space filling curves in Scala for geospatial indexing and query
 
 ## Devops
 
