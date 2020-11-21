@@ -123,7 +123,7 @@ Projects with over 500 stargazers are in bold.
 * [Chaos ★ 246 ⧗ 19](https://github.com/mesosphere/chaos) - A lightweight framework for writing REST services in Scala.
 * **[Colossus ★ 811 ⧗ 70](http://tumblr.github.io/colossus/)** - lightweight framework for building high-performance applications in Scala that require non-blocking network I/O.
 * **[Finatra ★ 2040 ⧗ 0](https://github.com/twitter/finatra)** - A sinatra-inspired web framework for scala, running on top of Finagle.
-* **[Lift ★ 1219 ⧗ 4](https://github.com/lift/framework)** - Secure and powerful full stack web framework ([discussion](https://github.com/lauris/awesome-scala/pull/19)).
+* **[Lift ★ 1219 ⧗ 5](https://github.com/lift/framework)** - Secure and powerful full stack web framework ([discussion](https://github.com/lauris/awesome-scala/pull/19)).
 * [peregine ★ 14 ⧗ 19](https://github.com/dvarelap/peregrine) - A simple and async lightweight Scala web framework.
 * **[Play ★ 11739 ⧗ 1](https://github.com/playframework/playframework)** - Makes it easy to build scalable, fast and real-time web applications with Java & Scala.
 * [Play Pagelets ★ 76 ⧗ 6](https://github.com/splink/pagelets) - A Module for the Play Framework to build resilient and modular Play applications in an elegant and concise manner.
@@ -245,7 +245,7 @@ Projects with over 500 stargazers are in bold.
 * **[Chill ★ 558 ⧗ 4](https://github.com/twitter/chill)** - Extensions for the Kryo serialization library to ease configuration in systems like Hadoop and Storm.
 * [msgpack ★ 90 ⧗ 44](https://github.com/msgpack/msgpack-scala) - A efficient binary serialization library.
 * **[Pickling ★ 853 ⧗ 60](https://github.com/scala/pickling)** - Fast, customizable, boilerplate-free pickling support.
-* [ScalaBuff ★ 222 ⧗ 152](https://github.com/SandroGrzicic/ScalaBuff) - a Scala Protocol Buffers (protobuf) compiler
+* [ScalaBuff ★ 222 ⧗ 153](https://github.com/SandroGrzicic/ScalaBuff) - a Scala Protocol Buffers (protobuf) compiler
 * **[ScalaPB ★ 705 ⧗ 51](https://scalapb.github.io/)** - Protocol Buffers and gRPC support for Scala
 * **[scodec ★ 700 ⧗ 2](https://github.com/scodec/scodec)** - A combinator library for working with binary data.
 * [Scrooge](http://twitter.github.io/scrooge/) - An Apache Thrift code generator for Scala.
@@ -296,8 +296,8 @@ Projects with over 500 stargazers are in bold.
 * [Scio](https://github.com/spotify/scio) - A Scala API for [Apache Beam](https://beam.apache.org/) and [Google Cloud Dataflow](https://cloud.google.com/dataflow/) - None
 * [Scrunch](http://crunch.apache.org/scrunch.html) - A Scala wrapper for [Apache Crunch](http://crunch.apache.org/index.html) which provides a framework for writing, testing, and running MapReduce pipelines.
 * [Spark](http://spark.apache.org/) - Lightning fast cluster computing — up to 100x faster than Hadoop for iterative algorithms (memory caching) and up to 10x faster than Hadoop for single-pass MapReduce jobs. Compatible with YARN-enabled Hadoop clusters, can run on Mesos and in stand-alone mode as well.
-* [spark-deployer ★ 76 ⧗ 79](https://github.com/KKBOX/spark-deployer) - A sbt plugin which helps deploying Apache Spark stand-alone cluster and submitting job on cloud system like AWS EC2.
-* [Sparkplug ★ 23 ⧗ 67](https://github.com/indix/sparkplug) - Spark package to "plug" holes in data using SQL based rules
+* [spark-deployer ★ 76 ⧗ 80](https://github.com/KKBOX/spark-deployer) - A sbt plugin which helps deploying Apache Spark stand-alone cluster and submitting job on cloud system like AWS EC2.
+* [Sparkplug ★ 23 ⧗ 68](https://github.com/indix/sparkplug) - Spark package to "plug" holes in data using SQL based rules
 * **[Sparkta ★ 511 ⧗ 6](https://github.com/Stratio/sparkta)** - Real Time Aggregation based on Spark Streaming.
 * **[Summingbird ★ 2087 ⧗ 8](https://github.com/twitter/summingbird)** - An implementation of the “lambda architecture” as a software abstraction — a single API for Hadoop and Storm.
 * **[Vegas ★ 699 ⧗ 9](https://github.com/vegas-viz/Vegas)** - The missing MatPlotLib for Scala + Spark
@@ -398,7 +398,7 @@ Projects with over 500 stargazers are in bold.
 * [Ammonite-REPL](http://lihaoyi.github.io/Ammonite/#Ammonite-REPL) - An improved Scala REPL: syntax highlighting, output formatting, multi-line input, and more.
 * [ApiBuilder ★ 421 ⧗ 3](https://github.com/apicollective/apibuilder) - Simple, Comprehensive Tooling for Modern APIs 
 * **[BootZooka ★ 571 ⧗ 4](https://github.com/softwaremill/bootzooka)** - Simple project to quickly start developing a web application using AngularJS and Akka HTTP, without the need to write login, user registration etc.
-* **[Eclair ★ 866 ⧗ 1](https://github.com/ACINQ/eclair)** - ACINQ's Lightning Network implementation written in Scala.  Lightning Network is a second layer protocol built on top of bitcoin to address scalability, privacy, confirmation time and many other issues.
+* **[Eclair ★ 866 ⧗ 2](https://github.com/ACINQ/eclair)** - ACINQ's Lightning Network implementation written in Scala.  Lightning Network is a second layer protocol built on top of bitcoin to address scalability, privacy, confirmation time and many other issues.
 * [Fansi ★ 172 ⧗ 4](https://github.com/lihaoyi/fansi) - Scala/Scala.js library for manipulating Fancy Ansi colored strings
 * [GoogleApiScala ★ 18 ⧗ 94](https://github.com/EckerdCollege/google-api-scala) - A simple scala library offering control of Google Drive, Calendar, and the Admin SDK.
 * [mailgun4s ★ 12 ⧗ 95](https://github.com/outr/mailgun4s) - Scala wrapper around the Mailgun API
@@ -408,7 +408,7 @@ Projects with over 500 stargazers are in bold.
 * [Ostinato ★ 40 ⧗ 22](https://github.com/marianogappa/ostinato) - A chess library that runs on the server (Scala) and on the browser (ScalaJS)
 * [Play Swagger ★ 368 ⧗ 18](https://github.com/iheartradio/play-swagger) - Automatically create Swagger documentation for your Play REST API
 * [pprint ★ 123 ⧗ 0](https://github.com/lihaoyi/pprint) - Pretty-printer for Scala values and types for easier reading and debugging
-* **[Prisma ★ 6342 ⧗ 0](https://github.com/prisma/prisma)** - Prisma turns your database into a realtime GraphQL API 
+* **[Prisma ★ 6343 ⧗ 0](https://github.com/prisma/prisma)** - Prisma turns your database into a realtime GraphQL API 
 * **[PureConfig ★ 1061 ⧗ 0](https://github.com/melrief/pureconfig)** - A boilerplate-free Scala library for loading configuration files.
 * [REPLesent ★ 405 ⧗ 39](https://github.com/marconilanna/REPLesent) - A presentation tool built inside the Scala REPL. Runs code straight from your slides with a single keystroke.
 * [scala-debugger ★ 100 ⧗ 133](https://github.com/ensime/scala-debugger) - Scala libraries and tooling utilizing the Java Debugger Interface.
