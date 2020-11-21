@@ -100,7 +100,7 @@ Projects with over 500 stargazers are in bold.
 * [Scanamo ★ 273 ⧗ 1](https://github.com/guardian/scanamo) - A library to make using DynamoDB with Scala simpler and less error-prone.
 * [scredis ★ 154 ⧗ 308](https://github.com/Livestream/scredis) - Non-blocking Redis client built on top of Akka IO (used by Livestream)
 * [Shade ★ 106 ⧗ 30](https://github.com/alexandru/shade) - Memcached client for Scala, based on Spymemcached
-* **[Slick ★ 2397 ⧗ 0](https://github.com/slick/slick)** - Modern database query and access library for Scala.
+* **[Slick ★ 2397 ⧗ 1](https://github.com/slick/slick)** - Modern database query and access library for Scala.
 * [Sorm ★ 238 ⧗ 4](https://github.com/sorm/sorm) - A functional boilerplate-free Scala ORM.
 * **[Squeryl ★ 551 ⧗ 1](https://github.com/squeryl/squeryl)** - A Scala DSL for talking with databases with minimum verbosity and maximum type safety.
 * [Tepkin ★ 82 ⧗ 29](https://github.com/fehmicansaglam/tepkin) - Reactive MongoDB Driver for Scala built on top of Akka IO and Akka Streams.
@@ -127,7 +127,7 @@ Projects with over 500 stargazers are in bold.
 * [peregine ★ 14 ⧗ 19](https://github.com/dvarelap/peregrine) - A simple and async lightweight Scala web framework.
 * **[Play ★ 11739 ⧗ 1](https://github.com/playframework/playframework)** - Makes it easy to build scalable, fast and real-time web applications with Java & Scala.
 * [Play Pagelets ★ 76 ⧗ 6](https://github.com/splink/pagelets) - A Module for the Play Framework to build resilient and modular Play applications in an elegant and concise manner.
-* [Reactive ★ 214 ⧗ 4](https://github.com/nafg/reactive) - FRP and web abstractions, which can be plugged into any web framework (currently only has bindings for Lift).
+* [Reactive ★ 214 ⧗ 5](https://github.com/nafg/reactive) - FRP and web abstractions, which can be plugged into any web framework (currently only has bindings for Lift).
 * **[Scalatra ★ 2478 ⧗ 0](https://github.com/scalatra/scalatra)** - Tiny Scala high-performance, async web framework, inspired by Sinatra.
 * **[Skinny Framework ★ 717 ⧗ 19](https://github.com/skinny-framework/skinny-framework)** - A full-stack web app framework upon Scalatra for rapid Development in Scala.
 * [suzaku ★ 109 ⧗ 19](https://github.com/suzaku-io/suzaku) - Suzaku web UI framework for Scala
@@ -289,7 +289,7 @@ Projects with over 500 stargazers are in bold.
 * **[Flink ★ 14673 ⧗ 0](https://github.com/apache/flink)** - Processing framework with powerful stream- and batch-processing capabilities.
 * [Gearpump ★ 300 ⧗ 6](https://github.com/apache/incubator-gearpump) - Lightweight real-time big data streaming engine
 * [GridScale ★ 22 ⧗ 77](https://github.com/openmole/gridscale) - A Scala API for computing clusters and grids.
-* **[Kafka ★ 17338 ⧗ 0](https://github.com/apache/kafka)** - Kafka is a message broker project and aims to provide a unified, high-throughput, low-latency platform for handling real-time data feeds.
+* **[Kafka ★ 17339 ⧗ 0](https://github.com/apache/kafka)** - Kafka is a message broker project and aims to provide a unified, high-throughput, low-latency platform for handling real-time data feeds.
 * **[Reactive-kafka ★ 1271 ⧗ 0](https://github.com/akka/reactive-kafka)** - Reactive Streams API for Apache Kafka.
 * **[Scalding ★ 3266 ⧗ 0](https://github.com/twitter/scalding)** - A Scala binding for the Cascading abstraction of Hadoop MapReduce.
 * [Schemer ★ 94 ⧗ 51](https://github.com/indix/schemer) - Schema registry for CSV, TSV, JSON, AVRO and Parquet schema. Supports schema inference and GraphQL API.
@@ -396,7 +396,7 @@ Projects with over 500 stargazers are in bold.
 
 * [Agora](https://gitlab.com/aossie/Agora/) - Library of vote-counting algorithms for elections.
 * [Ammonite-REPL](http://lihaoyi.github.io/Ammonite/#Ammonite-REPL) - An improved Scala REPL: syntax highlighting, output formatting, multi-line input, and more.
-* [ApiBuilder ★ 421 ⧗ 2](https://github.com/apicollective/apibuilder) - Simple, Comprehensive Tooling for Modern APIs 
+* [ApiBuilder ★ 421 ⧗ 3](https://github.com/apicollective/apibuilder) - Simple, Comprehensive Tooling for Modern APIs 
 * **[BootZooka ★ 571 ⧗ 4](https://github.com/softwaremill/bootzooka)** - Simple project to quickly start developing a web application using AngularJS and Akka HTTP, without the need to write login, user registration etc.
 * **[Eclair ★ 866 ⧗ 1](https://github.com/ACINQ/eclair)** - ACINQ's Lightning Network implementation written in Scala.  Lightning Network is a second layer protocol built on top of bitcoin to address scalability, privacy, confirmation time and many other issues.
 * [Fansi ★ 172 ⧗ 4](https://github.com/lihaoyi/fansi) - Scala/Scala.js library for manipulating Fancy Ansi colored strings
@@ -449,7 +449,7 @@ Projects with over 500 stargazers are in bold.
 *Scala libraries for interactions with the Web of Data, and other RDF tools.*
 
 * [Banana-RDF ★ 261 ⧗ 43](https://github.com/banana-rdf/banana-rdf) - Scala-friendly abstractions for RDF and Linked Data technologies. Supports Jena, Sesame and native Scala.
-* [Scowl ★ 43 ⧗ 2](https://github.com/phenoscape/scowl) - Scala DSL allowing a declarative approach to composing OWL expressions and axioms using the OWL API.
+* [Scowl ★ 43 ⧗ 3](https://github.com/phenoscape/scowl) - Scala DSL allowing a declarative approach to composing OWL expressions and axioms using the OWL API.
 
 ## Metrics and Monitoring
 
@@ -555,7 +555,7 @@ Projects with over 500 stargazers are in bold.
 * [Beard ★ 114 ⧗ 36](https://github.com/zalando/beard) - lightweight logicless templating engine inspired by Mustache
 * **[Scalatags ★ 656 ⧗ 19](https://github.com/lihaoyi/scalatags)** - Write html as scala code and have your IDE syntax check it.
 * **[Scalate ★ 558 ⧗ 1](https://github.com/scalate/scalate)** - Scala based template engine which supports HAML, Mustache and JSP, Erb and Velocity style syntaxes
-* [Twirl ★ 495 ⧗ 3](https://github.com/playframework/twirl) - The Play Scala Template Compiler
+* [Twirl ★ 495 ⧗ 0](https://github.com/playframework/twirl) - The Play Scala Template Compiler
 
 ## Tools
 
