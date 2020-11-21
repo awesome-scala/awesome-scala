@@ -78,9 +78,9 @@ Projects with over 500 stargazers are in bold.
 * **[doobie ★ 1741 ⧗ 0](https://github.com/tpolecat/doobie)** - Pure functional JDBC layer for Scala.
 * **[Elastic4s ★ 1525 ⧗ 0](https://github.com/sksamuel/elastic4s)** - A scala DSL / reactive client for Elasticsearch
 * [Finagle ★ 71 ⧗ 24](https://github.com/finagle/finagle-postgres) - PostgreSQL protocol support for Finagle
-* [longevity ★ 101 ⧗ 29](https://github.com/longevityframework/longevity) - A Persistence Framework for Scala and NoSQL with a Domain Driven Design Orientation
+* [longevity ★ 101 ⧗ 30](https://github.com/longevityframework/longevity) - A Persistence Framework for Scala and NoSQL with a Domain Driven Design Orientation
 * [lucene4s ★ 41 ⧗ 9](https://github.com/outr/lucene4s) - Light-weight convenience wrapper around Lucene to simplify complex tasks and add Scala sugar.
-* [Memcontinuationed ★ 50 ⧗ 29](https://github.com/Atry/memcontinuationed) - Memcached client for Scala.
+* [Memcontinuationed ★ 50 ⧗ 30](https://github.com/Atry/memcontinuationed) - Memcached client for Scala.
 * [Morpheus ★ 102 ⧗ 247](https://github.com/outworkers/morpheus) - Reactive type safe Scala Driver for MySQL/Postgres.
 * **[Phantom ★ 1043 ⧗ 0](https://github.com/outworkers/phantom)** - Reactive typed Scala driver for Apache Cassandra.
 * **[PostgreSQL and MySQL async ★ 1440 ⧗ 2](https://github.com/mauricio/postgresql-async)** - Async database drivers to talk to PostgreSQL and MySQL in Scala.
@@ -103,7 +103,7 @@ Projects with over 500 stargazers are in bold.
 * **[Slick ★ 2397 ⧗ 1](https://github.com/slick/slick)** - Modern database query and access library for Scala.
 * [Sorm ★ 238 ⧗ 4](https://github.com/sorm/sorm) - A functional boilerplate-free Scala ORM.
 * **[Squeryl ★ 551 ⧗ 1](https://github.com/squeryl/squeryl)** - A Scala DSL for talking with databases with minimum verbosity and maximum type safety.
-* [Tepkin ★ 82 ⧗ 29](https://github.com/fehmicansaglam/tepkin) - Reactive MongoDB Driver for Scala built on top of Akka IO and Akka Streams.
+* [Tepkin ★ 82 ⧗ 30](https://github.com/fehmicansaglam/tepkin) - Reactive MongoDB Driver for Scala built on top of Akka IO and Akka Streams.
 
 ## Messaging
 
@@ -166,7 +166,7 @@ Projects with over 500 stargazers are in bold.
 * [akka-http-session ★ 426 ⧗ 57](https://github.com/softwaremill/akka-http-session) - Web&mobile client-side sessions for akka-http based applications, with optional JWT support
 * [AWS Request Signer ★ 20 ⧗ 226](https://github.com/ticofab/aws-request-signer) - Helper to evaluate the signing headers for HTTP requests to Amazon Web Services.
 * [Play Google Auth Module ★ 32 ⧗ 2](https://github.com/guardian/play-googleauth) - A very simple implementation of Google OpenID Connect authentication for Play 2 applications.
-* [play-pac4j ★ 371 ⧗ 0](https://github.com/pac4j/play-pac4j) - Security library managing authentication (CAS, OAuth, OpenID, SAML, LDAP, SQL, JWT...), authorizations and logout for Play 2.x in Java and Scala.
+* [play-pac4j ★ 371 ⧗ 1](https://github.com/pac4j/play-pac4j) - Security library managing authentication (CAS, OAuth, OpenID, SAML, LDAP, SQL, JWT...), authorizations and logout for Play 2.x in Java and Scala.
 * **[play-silhouette ★ 817 ⧗ 6](https://github.com/mohiva/play-silhouette)** - Authentication library for Play Framework applications that supports several authentication methods, including OAuth1, OAuth2, OpenID, Credentials or custom authentication schemes.
 * **[play2-auth ★ 621 ⧗ 16](https://github.com/t2v/play2-auth)** - Play2.x Authentication and Authorization module.
 * **[scala-oauth2-provider ★ 514 ⧗ 10](https://github.com/nulab/scala-oauth2-provider)** - OAuth 2.0 server-side implementation written in Scala.
@@ -218,7 +218,7 @@ Projects with over 500 stargazers are in bold.
 * [Pushka ★ 74 ⧗ 79](https://github.com/fomkin/pushka) - Scala JSON serialization library with annotations.
 * [qbproject](https://github.com/qb-project/qbproject) - Scala Libs around JSON and API developement for Play Framework.
 * [rapture-json](https://github.com/propensive/rapture/blob/dev/doc/json.md) - Clean, intuitive, unintrusive, boilerplate-free Scala API
-* [scala-jsonapi ★ 106 ⧗ 29](https://github.com/scala-jsonapi/scala-jsonapi) - Support library for integrating the JSON API spec with Scala and Spray JSON, Play! JSON or Circe.
+* [scala-jsonapi ★ 106 ⧗ 30](https://github.com/scala-jsonapi/scala-jsonapi) - Support library for integrating the JSON API spec with Scala and Spray JSON, Play! JSON or Circe.
 * [scalajack ★ 100 ⧗ 18](https://github.com/gzoller/ScalaJack) - Fast 'n easy JSON serialization with optional MongoDB support.  Uses Jackson under the hood.
 * **[spray-json ★ 901 ⧗ 10](https://github.com/spray/spray-json)** - Lightweight, clean and efficient JSON implementation in Scala.
 * [uJson](http://www.lihaoyi.com/upickle/#uJson) - fast, flexible and intuitive JSON for Scala
@@ -331,7 +331,7 @@ Projects with over 500 stargazers are in bold.
 * [Airframe ★ 431 ⧗ 0](https://github.com/wvlet/airframe) - Dependency injection library tailored to Scala.
 * [DIStage ★ 366 ⧗ 4](https://github.com/pshirshov/izumi-r2) - Staged Dependency Injection with higher-kinded polymorphism.
 * [Grafter ★ 240 ⧗ 59](https://github.com/zalando/grafter) - Grafter is a library to configure and wire Scala applications.
-* **[MacWire ★ 1085 ⧗ 2](https://github.com/adamw/macwire)** - Scala Macro to generate wiring code for class instantiation. DI container replacement.
+* **[MacWire ★ 1085 ⧗ 3](https://github.com/adamw/macwire)** - Scala Macro to generate wiring code for class instantiation. DI container replacement.
 * [Scala-Guice ★ 319 ⧗ 9](https://github.com/codingwell/scala-guice) - Scala extensions for Google Guice
 * [Scaldi ★ 282 ⧗ 4](https://github.com/scaldi/scaldi) - Lightweight Scala Dependency Injection Library.
 * [SubCut ★ 394 ⧗ 63](https://github.com/dickwall/subcut) - Scala Uniquely Bound Classes Under Traits.
@@ -376,7 +376,7 @@ Projects with over 500 stargazers are in bold.
 * [Persist-Logging ★ 38 ⧗ 277](https://github.com/nestorpersist/logging) - Comprehensive logging library for Scala.
 * **[Quicklens ★ 632 ⧗ 8](https://github.com/adamw/quicklens)** - modify deeply nested case class fields with an elegant API
 * [Rapture](http://rapture.io/) ([repo](https://github.com/propensive/rapture)) - a collection of libraries for common, everyday programming tasks (I/O, JSON, i18n, etc.)
-* [Records for Scala ★ 159 ⧗ 29](https://github.com/scala-records/scala-records) - Labeled records for Scala based on structural refinement types and macros.
+* [Records for Scala ★ 159 ⧗ 30](https://github.com/scala-records/scala-records) - Labeled records for Scala based on structural refinement types and macros.
 * **[refined ★ 1250 ⧗ 0](https://github.com/fthomas/refined)** - Simple refinement types with compile- and runtime checking
 * **[Scala Async ★ 1070 ⧗ 3](https://github.com/scala/async)** - An asynchronous programming facility for Scala.
 * [Scala Graph](http://www.scala-graph.org/) - A Scala library with basic graph functionality that seamlessly fits into the Scala standard collections library.
@@ -407,7 +407,7 @@ Projects with over 500 stargazers are in bold.
 * [Openquant ★ 73 ⧗ 0](https://github.com/openquant) - A Scala open source quantitative trading platform
 * [Ostinato ★ 40 ⧗ 22](https://github.com/marianogappa/ostinato) - A chess library that runs on the server (Scala) and on the browser (ScalaJS)
 * [Play Swagger ★ 368 ⧗ 18](https://github.com/iheartradio/play-swagger) - Automatically create Swagger documentation for your Play REST API
-* [pprint ★ 122 ⧗ 27](https://github.com/lihaoyi/pprint) - Pretty-printer for Scala values and types for easier reading and debugging
+* [pprint ★ 123 ⧗ 0](https://github.com/lihaoyi/pprint) - Pretty-printer for Scala values and types for easier reading and debugging
 * **[Prisma ★ 6342 ⧗ 0](https://github.com/prisma/prisma)** - Prisma turns your database into a realtime GraphQL API 
 * **[PureConfig ★ 1061 ⧗ 0](https://github.com/melrief/pureconfig)** - A boilerplate-free Scala library for loading configuration files.
 * [REPLesent ★ 405 ⧗ 39](https://github.com/marconilanna/REPLesent) - A presentation tool built inside the Scala REPL. Runs code straight from your slides with a single keystroke.
@@ -592,7 +592,7 @@ Projects with over 500 stargazers are in bold.
 
 *DevOps related tools and libraries.*
 
-* [Orkestra ★ 103 ⧗ 5](https://github.com/Orkestra-Tech/orkestra) - Functional DevOps with Scala and Kubernetes
+* [Orkestra ★ 103 ⧗ 6](https://github.com/Orkestra-Tech/orkestra) - Functional DevOps with Scala and Kubernetes
 * [Skuber ★ 278 ⧗ 32](https://github.com/doriordan/skuber) - Kubernetes client in Scala
 
 # Resources
