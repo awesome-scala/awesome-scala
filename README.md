@@ -261,7 +261,7 @@ Projects with over 500 stargazers are in bold.
 * **[BigDL ★ 3659 ⧗ 1](https://github.com/intel-analytics/BigDL)** - BigDL is a distributed deep learning library for Apache Spark.
 * **[Breeze ★ 3180 ⧗ 1](https://github.com/scalanlp/breeze)** - Breeze is a numerical processing library for Scala.
 * [Chalk ★ 262 ⧗ 101](https://github.com/scalanlp/chalk) - Chalk is a natural language processing library.
-* [doddle-model ★ 142 ⧗ 7](https://github.com/picnicml/doddle-model) - An in-memory machine learning library built on top of Breeze. It provides immutable objects and exposes its functionality through a scikit-learn-like API.
+* [doddle-model ★ 142 ⧗ 8](https://github.com/picnicml/doddle-model) - An in-memory machine learning library built on top of Breeze. It provides immutable objects and exposes its functionality through a scikit-learn-like API.
 * **[FACTORIE ★ 556 ⧗ 15](https://github.com/factorie/factorie)** - A toolkit for deployable probabilistic modeling, implemented as a software library in Scala.
 * **[Figaro ★ 721 ⧗ 3](https://github.com/p2t2/figaro)** - Figaro is a probabilistic programming language that supports development of very rich probabilistic models.
 * [Libra ★ 193 ⧗ 18](https://github.com/to-ithaca/libra) - Libra is a dimensional analysis library based on shapeless, spire and singleton-ops. It contains out of the box support for SI units for all numeric types.
@@ -408,7 +408,7 @@ Projects with over 500 stargazers are in bold.
 * [Ostinato ★ 40 ⧗ 22](https://github.com/marianogappa/ostinato) - A chess library that runs on the server (Scala) and on the browser (ScalaJS)
 * [Play Swagger ★ 368 ⧗ 18](https://github.com/iheartradio/play-swagger) - Automatically create Swagger documentation for your Play REST API
 * [pprint ★ 123 ⧗ 0](https://github.com/lihaoyi/pprint) - Pretty-printer for Scala values and types for easier reading and debugging
-* **[Prisma ★ 6343 ⧗ 0](https://github.com/prisma/prisma)** - Prisma turns your database into a realtime GraphQL API 
+* **[Prisma ★ 6344 ⧗ 0](https://github.com/prisma/prisma)** - Prisma turns your database into a realtime GraphQL API 
 * **[PureConfig ★ 1061 ⧗ 0](https://github.com/melrief/pureconfig)** - A boilerplate-free Scala library for loading configuration files.
 * [REPLesent ★ 405 ⧗ 39](https://github.com/marconilanna/REPLesent) - A presentation tool built inside the Scala REPL. Runs code straight from your slides with a single keystroke.
 * [scala-debugger ★ 100 ⧗ 133](https://github.com/ensime/scala-debugger) - Scala libraries and tooling utilizing the Java Debugger Interface.
