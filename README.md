@@ -76,18 +76,18 @@ Projects with over 500 stargazers are in bold.
 * [Anorm ★ 205 ⧗ 0](https://github.com/playframework/anorm) - Simple SQL data access.
 * [Casbah](http://mongodb.github.io/casbah/) ([repo](https://github.com/mongodb/casbah)) - Officially supported Scala driver for MongoDB
 * **[doobie ★ 1761 ⧗ 0](https://github.com/tpolecat/doobie)** - Pure functional JDBC layer for Scala.
-* **[Elastic4s ★ 1530 ⧗ 0](https://github.com/sksamuel/elastic4s)** - A scala DSL / reactive client for Elasticsearch
+* **[Elastic4s ★ 1530 ⧗ 1](https://github.com/sksamuel/elastic4s)** - A scala DSL / reactive client for Elasticsearch
 * [Finagle ★ 72 ⧗ 0](https://github.com/finagle/finagle-postgres) - PostgreSQL protocol support for Finagle
 * [longevity ★ 101 ⧗ 90](https://github.com/longevityframework/longevity) - A Persistence Framework for Scala and NoSQL with a Domain Driven Design Orientation
 * [lucene4s ★ 41 ⧗ 69](https://github.com/outr/lucene4s) - Light-weight convenience wrapper around Lucene to simplify complex tasks and add Scala sugar.
 * [Memcontinuationed ★ 50 ⧗ 90](https://github.com/Atry/memcontinuationed) - Memcached client for Scala.
-* [Morpheus ★ 102 ⧗ 307](https://github.com/outworkers/morpheus) - Reactive type safe Scala Driver for MySQL/Postgres.
+* [Morpheus ★ 102 ⧗ 308](https://github.com/outworkers/morpheus) - Reactive type safe Scala Driver for MySQL/Postgres.
 * **[Phantom ★ 1047 ⧗ 0](https://github.com/outworkers/phantom)** - Reactive typed Scala driver for Apache Cassandra.
 * **[PostgreSQL and MySQL async ★ 1441 ⧗ 11](https://github.com/mauricio/postgresql-async)** - Async database drivers to talk to PostgreSQL and MySQL in Scala.
 * [Pulsar4s ★ 171 ⧗ 8](https://github.com/sksamuel/pulsar4s) - Scala client for Apache Pulsar.
 * **[Quill ★ 1795 ⧗ 0](https://github.com/getquill/quill)** - Compile-time Language Integrated Query for Scala
 * [ReactiveCouchbase](http://reactivecouchbase.org/) - Reactive Scala Driver for Couchbase. Also includes a Play plug-in. An official plug-in is also in development.
-* **[ReactiveMongo ★ 823 ⧗ 1](https://github.com/ReactiveMongo/ReactiveMongo)** - Reactive Scala Driver for MongoDB.
+* **[ReactiveMongo ★ 823 ⧗ 2](https://github.com/ReactiveMongo/ReactiveMongo)** - Reactive Scala Driver for MongoDB.
 * **[rediscala ★ 794 ⧗ 0](https://github.com/etaty/rediscala)** - Non-blocking, Reactive Redis driver for Scala (with Sentinel support)
 * [Relate ★ 162 ⧗ 23](https://github.com/lucidsoftware/relate) - Lightweight, blazing-fast database access layer for Scala that abstracts the idiosyncricies of the JDBC while keeping complete control over the SQL.
 * [Salat ★ 488 ⧗ 59](https://github.com/salat/salat/) - ORM for MongoDB. A related Play-plugin is also available.
@@ -150,7 +150,7 @@ Projects with over 500 stargazers are in bold.
 
 * **[Accord ★ 516 ⧗ 2](https://github.com/wix/accord)** - A sane validation library for Scala
 * [Monkeytail ★ 87 ⧗ 90](https://github.com/sksamuel/monkeytail) - A set of validation macros and helpers for cats.Validated
-* [Octopus ★ 136 ⧗ 52](https://github.com/krzemin/octopus) - Scala library for boilerplate-free validation
+* [Octopus ★ 136 ⧗ 53](https://github.com/krzemin/octopus) - Scala library for boilerplate-free validation
 
 ## i18n
 
@@ -175,13 +175,13 @@ Projects with over 500 stargazers are in bold.
 
 *Libraries for implementing authorization strategies.*
 
-* [deadbolt-2 ★ 494 ⧗ 30](https://github.com/schaloner/deadbolt-2) - A Play 2.x module supporting role-based and proprietary authorization; idiomatic APIs for Scala and Java APIs are provided.
+* [deadbolt-2 ★ 494 ⧗ 31](https://github.com/schaloner/deadbolt-2) - A Play 2.x module supporting role-based and proprietary authorization; idiomatic APIs for Scala and Java APIs are provided.
 
 ## Cryptography
 
 *Cryptography and Encryption Libraries.*
 
-* [Scrypto ★ 172 ⧗ 11](https://github.com/ScorexProject/scrypto) - All-purpose cryptographic framework.
+* [Scrypto ★ 172 ⧗ 12](https://github.com/ScorexProject/scrypto) - All-purpose cryptographic framework.
 * [TSec ★ 333 ⧗ 6](https://github.com/jmcardon/tsec) - Type-safe, functional, general-cryptography library
 
 ## Testing
@@ -195,7 +195,7 @@ Projects with over 500 stargazers are in bold.
 * [ScalaMeter](https://scalameter.github.io/) - Performance &  memory footprint measuring, regression testing.
 * [ScalaMock](http://scalamock.org) - Scala native mocking framework
 * [scalaprops ★ 261 ⧗ 0](https://github.com/scalaprops/scalaprops) - Another property based testing library for Scala
-* **[ScalaTest ★ 937 ⧗ 1](https://github.com/scalatest/scalatest)** - A testing tool for Scala and Java developers.
+* **[ScalaTest ★ 937 ⧗ 2](https://github.com/scalatest/scalatest)** - A testing tool for Scala and Java developers.
 * [Scalive ★ 203 ⧗ 174](https://github.com/xitrum-framework/scalive) - Connect a Scala REPL to running JVM processes without any prior setup; this library is used for inspecting systems in production mode.
 * **[Specs2 ★ 690 ⧗ 0](https://github.com/etorreborre/specs2)** - Software Specifications for Scala.
 * [Stryker4s ★ 107 ⧗ 0](https://github.com/stryker-mutator/stryker4s) - Test your tests with mutation testing.
@@ -208,9 +208,9 @@ Projects with over 500 stargazers are in bold.
 
 * [argonaut](http://argonaut.io/) - Purely Functional JSON in Scala.
 * **[circe ★ 2073 ⧗ 1](https://github.com/travisbrown/circe)** - JSON library based on Argonaut, depends on Cats
-* [diffson ★ 255 ⧗ 7](https://github.com/gnieh/diffson) - A scala diff/patch library for Json
+* [diffson ★ 255 ⧗ 8](https://github.com/gnieh/diffson) - A scala diff/patch library for Json
 * [jackson-module-scala ★ 425 ⧗ 0](https://github.com/FasterXML/jackson-module-scala) - Add-on module for Jackson to support Scala-specific datatypes.
-* [jawn ★ 390 ⧗ 15](https://github.com/non/jawn) - Fast json parser (According to them, competetive with java gson/jackson speed).
+* [jawn ★ 390 ⧗ 16](https://github.com/non/jawn) - Fast json parser (According to them, competetive with java gson/jackson speed).
 * **[json4s ★ 1336 ⧗ 1](https://github.com/json4s/json4s)** - Project aims to provide a single AST to be used by other scala json libraries.
 * [jsoniter-scala ★ 399 ⧗ 1](https://github.com/plokhotnyuk/jsoniter-scala) - Scala macros for compile-time generation of ultra-fast JSON codecs.
 * [play-json ★ 251 ⧗ 16](https://github.com/playframework/play-json) - Flexible and powerful JSON manipulation, validation and serialization, with no reflection at runtime.
@@ -234,7 +234,7 @@ Projects with over 500 stargazers are in bold.
 
 * [fm-flatfile ★ 9 ⧗ 163](https://github.com/frugalmechanic/fm-flatfile) - Very flexible, Flat File (CSV, TSV, Excel, etc) Reader for Scala.
 * [kantan.csv ★ 302 ⧗ 1](https://github.com/nrinaudo/kantan.csv) - CSV handling library for Scala with multiple backends.
-* **[Scala-CSV ★ 595 ⧗ 0](https://github.com/tototoshi/scala-csv)** - CSV Reader/Writer for Scala.
+* **[Scala-CSV ★ 595 ⧗ 1](https://github.com/tototoshi/scala-csv)** - CSV Reader/Writer for Scala.
 
 ## Serialization
 
@@ -256,9 +256,9 @@ Projects with over 500 stargazers are in bold.
 *Libraries for scientific computing, data analysis and numerical processing.*
 
 * **[Algebird ★ 2028 ⧗ 1](https://github.com/twitter/algebird)** - Abstract Algebra for Scala.
-* [Axle ★ 63 ⧗ 19](https://github.com/axlelang/axle) - A Spire-based DSL for scientific cloud computing.
+* [Axle ★ 63 ⧗ 20](https://github.com/axlelang/axle) - A Spire-based DSL for scientific cloud computing.
 * **[BigDL ★ 3695 ⧗ 0](https://github.com/intel-analytics/BigDL)** - BigDL is a distributed deep learning library for Apache Spark.
-* **[Breeze ★ 3203 ⧗ 1](https://github.com/scalanlp/breeze)** - Breeze is a numerical processing library for Scala.
+* **[Breeze ★ 3204 ⧗ 0](https://github.com/scalanlp/breeze)** - Breeze is a numerical processing library for Scala.
 * [Chalk ★ 262 ⧗ 7](https://github.com/scalanlp/chalk) - Chalk is a natural language processing library.
 * [doddle-model ★ 142 ⧗ 68](https://github.com/picnicml/doddle-model) - An in-memory machine learning library built on top of Breeze. It provides immutable objects and exposes its functionality through a scikit-learn-like API.
 * **[FACTORIE ★ 556 ⧗ 38](https://github.com/factorie/factorie)** - A toolkit for deployable probabilistic modeling, implemented as a software library in Scala.
@@ -267,7 +267,7 @@ Projects with over 500 stargazers are in bold.
 * [MGO ★ 62 ⧗ 15](https://github.com/openmole/mgo) - Modular multi-objective evolutionary algorithm optimization library enforcing immutability.
 * [MLLib](https://spark.apache.org/mllib/) - Machine Learning framework for Spark
 * [ND4S ★ 298 ⧗ 4](https://github.com/deeplearning4j/nd4s) - N-Dimensional arrays and linear algebra for Scala with an API similar to Numpy.  ND4S is a scala wrapper around [ND4J](http://nd4j.org/).
-* [Numsca ★ 156 ⧗ 30](https://github.com/botkop/numsca) - Numsca is Numpy for Scala.
+* [Numsca ★ 156 ⧗ 31](https://github.com/botkop/numsca) - Numsca is Numpy for Scala.
 * [OpenMOLE ★ 120 ⧗ 1](https://github.com/openmole/openmole) - OpenMOLE (Open MOdeL Experiment) is a workflow engine designed to leverage the computing power of distributed execution environments for naturally parallel processes.
 * [OscaR](https://bitbucket.org/oscarlib/oscar/wiki/Home) - a Scala toolkit for solving Operations Research problems
 * **[PredictionIO ★ 12476 ⧗ 1](https://github.com/PredictionIO/PredictionIO)** - machine learning server for developers and data scientists. Built on Apache Spark, HBase and Spray
@@ -276,7 +276,7 @@ Projects with over 500 stargazers are in bold.
 * [Smile](http://haifengl.github.io/smile/) - Statistical Machine Intelligence and Learning Engine. Smile is a fast and comprehensive machine learning system.
 * **[Spark Notebook ★ 3000 ⧗ 1](https://github.com/andypetrella/spark-notebook)** - Scalable and stable Scala and Spark focused notebook bridging the gap between JVM and Data Scientists (incl. extendable, typesafe and reactive charts).
 * **[Spire ★ 1604 ⧗ 1](https://github.com/non/spire)** - Powerful new number types and numeric abstractions for Scala.
-* **[Squants ★ 753 ⧗ 8](https://github.com/garyKeorkunian/squants)** - The Scala API for Quantities, Units of Measure and Dimensional Analysis.
+* **[Squants ★ 753 ⧗ 9](https://github.com/garyKeorkunian/squants)** - The Scala API for Quantities, Units of Measure and Dimensional Analysis.
 * [SwiftLearner ★ 38 ⧗ 73](https://github.com/valdanylchuk/swiftlearner) - Simply written algorithms to help study Machine Learning or write your own implementations.
 * **[Tensorflow_scala ★ 834 ⧗ 1](https://github.com/eaplatanios/tensorflow_scala)** - TensorFlow API for the Scala Programming Language
 * [Tyche ★ 97 ⧗ 227](https://github.com/neysofu/tyche) - Probability distributions, stochastic & Markov processes, lattice walks, simple random sampling. A simple yet robust Scala library.
@@ -400,14 +400,14 @@ Projects with over 500 stargazers are in bold.
 * **[Eclair ★ 881 ⧗ 0](https://github.com/ACINQ/eclair)** - ACINQ's Lightning Network implementation written in Scala.  Lightning Network is a second layer protocol built on top of bitcoin to address scalability, privacy, confirmation time and many other issues.
 * [Fansi ★ 173 ⧗ 8](https://github.com/lihaoyi/fansi) - Scala/Scala.js library for manipulating Fancy Ansi colored strings
 * [GoogleApiScala ★ 18 ⧗ 154](https://github.com/EckerdCollege/google-api-scala) - A simple scala library offering control of Google Drive, Calendar, and the Admin SDK.
-* [mailgun4s ★ 14 ⧗ 44](https://github.com/outr/mailgun4s) - Scala wrapper around the Mailgun API
+* [mailgun4s ★ 14 ⧗ 45](https://github.com/outr/mailgun4s) - Scala wrapper around the Mailgun API
 * [media4s ★ 24 ⧗ 10](https://github.com/outr/media4s) - Scala command-line wrapper around ffmpeg, ffprobe, ImageMagick, and other tools relating to media.
 * [Miniboxing](https://github.com/miniboxing/miniboxing-plugin) - A Scala compiler plugin that improves program performance -- [see the project web site](http://scala-miniboxing.org) - Less boxes
 * [Openquant ★ 73 ⧗ 0](https://github.com/openquant) - A Scala open source quantitative trading platform
 * [Ostinato ★ 42 ⧗ 21](https://github.com/marianogappa/ostinato) - A chess library that runs on the server (Scala) and on the browser (ScalaJS)
 * [Play Swagger ★ 372 ⧗ 30](https://github.com/iheartradio/play-swagger) - Automatically create Swagger documentation for your Play REST API
 * [pprint ★ 124 ⧗ 55](https://github.com/lihaoyi/pprint) - Pretty-printer for Scala values and types for easier reading and debugging
-* **[Prisma ★ 7581 ⧗ 0](https://github.com/prisma/prisma)** - Prisma turns your database into a realtime GraphQL API 
+* **[Prisma ★ 7582 ⧗ 0](https://github.com/prisma/prisma)** - Prisma turns your database into a realtime GraphQL API 
 * **[PureConfig ★ 1082 ⧗ 0](https://github.com/melrief/pureconfig)** - A boilerplate-free Scala library for loading configuration files.
 * [REPLesent ★ 405 ⧗ 34](https://github.com/marconilanna/REPLesent) - A presentation tool built inside the Scala REPL. Runs code straight from your slides with a single keystroke.
 * [scala-debugger ★ 100 ⧗ 193](https://github.com/ensime/scala-debugger) - Scala libraries and tooling utilizing the Java Debugger Interface.
@@ -466,7 +466,7 @@ Projects with over 500 stargazers are in bold.
 * [decline ★ 431 ⧗ 18](https://github.com/bkirwi/decline) - composable command-line parser for Scala, built on Cats
 * **[Fast Parse ★ 924 ⧗ 2](https://github.com/lihaoyi/fastparse)** - Fast to write, Fast running Parsers in Scala
 * **[Parboiled2 ★ 658 ⧗ 0](https://github.com/sirthias/parboiled2)** - A Fast Parser Generator for Scala 2.10.3+.
-* **[Scala Parser Combinators ★ 513 ⧗ 1](https://github.com/scala/scala-parser-combinators)** - Scala Standard Parser Combinator Library.
+* **[Scala Parser Combinators ★ 513 ⧗ 0](https://github.com/scala/scala-parser-combinators)** - Scala Standard Parser Combinator Library.
 * **[Scopt ★ 1257 ⧗ 0](https://github.com/scopt/scopt)** - Simple scala command line options parsing.
 
 ## Sbt plugins
@@ -481,7 +481,7 @@ Projects with over 500 stargazers are in bold.
 * [sbt-doctest ★ 168 ⧗ 0](https://github.com/tkawachi/sbt-doctest) - Plugin for sbt that generates tests from examples in ScalaDoc.
 * [sbt-ensime ★ 244 ⧗ 6](https://github.com/ensime/ensime-sbt) - Generates .ensime config files for SBT projects [http://ensime.org/build_tools/sbt](http://ensime.org/build_tools/sbt)
 * [sbt-groll ★ 129 ⧗ 132](https://github.com/sbt/sbt-groll) - sbt plugin to roll the Git history.
-* [sbt-hepek ★ 16 ⧗ 307](https://github.com/sake92/sbt-hepek) - Make static websites in Scala code (render `object` to file!).
+* [sbt-hepek ★ 16 ⧗ 308](https://github.com/sake92/sbt-hepek) - Make static websites in Scala code (render `object` to file!).
 * [sbt-ide-settings ★ 45 ⧗ 36](https://github.com/Jetbrains/sbt-ide-settings) - SBT plugin for tweaking various IDE settings
 * **[sbt-native-packager ★ 1413 ⧗ 3](https://github.com/sbt/sbt-native-packager)** - Bundle up Scala software for native packaging systems, like deb, rpm, homebrew, msi..
 * [sbt-pack ★ 437 ⧗ 6](https://github.com/xerial/sbt-pack) - A sbt plugin for creating distributable Scala packages.
@@ -490,7 +490,7 @@ Projects with over 500 stargazers are in bold.
 * [sbt-scala-js-map ★ 26 ⧗ 90](https://github.com/ThoughtWorksInc/sbt-scala-js-map) - A sbt plugin that configures source mapping for Scala.js projects hosted on Github
 * [sbt-sublime ★ 139 ⧗ 213](https://github.com/orrsella/sbt-sublime) - Create Sublime Text projects with library dependencies sources
 * **[sbt-updates ★ 648 ⧗ 4](https://github.com/rtimush/sbt-updates)** - Shows sbt project's dependency updates.
-* **[sbteclipse ★ 728 ⧗ 14](https://github.com/typesafehub/sbteclipse)** - Create Eclipse project definitions from sbt builds.
+* **[sbteclipse ★ 727 ⧗ 0](https://github.com/typesafehub/sbteclipse)** - Create Eclipse project definitions from sbt builds.
 * [scala-clippy ★ 311 ⧗ 22](https://github.com/softwaremill/scala-clippy) - Good advice and coloring for Scala compiler errors
 * [ScalaKata2 ★ 99 ⧗ 132](https://github.com/MasseGuillaume/ScalaKata2) - Scala playground & Documentation tool.
 * [splain ★ 350 ⧗ 28](https://github.com/tek/splain) - Better implicit errors for Scala.
