@@ -93,7 +93,7 @@ Projects with over 500 stargazers are in bold.
 * [Salat ★ 488 ⧗ 59](https://github.com/salat/salat/) - ORM for MongoDB. A related Play-plugin is also available.
 * [Scala ActiveRecord ★ 319 ⧗ 4](https://github.com/aselab/scala-activerecord) - ORM library for scala, inspired by ActiveRecord of Ruby on Rails.
 * [Scala-Forklift ★ 179 ⧗ 89](https://github.com/lastland/scala-forklift) - Type-safe database migration for Slick, Git, etc.
-* **[scala-redis ★ 982 ⧗ 6](https://github.com/debasishg/scala-redis)** - A Scala library for connecting to a redis server, with clustering support
+* **[scala-redis ★ 983 ⧗ 0](https://github.com/debasishg/scala-redis)** - A Scala library for connecting to a redis server, with clustering support
 * [scala-sql ★ 71 ⧗ 155](https://github.com/wangzaixiang/scala-sql) - Yet another SQL-based DB access library for scala language
 * [ScalaRelational ★ 55 ⧗ 194](https://github.com/outr/scalarelational) - Type-Safe framework for defining, modifying, and querying SQL databases.
 * **[ScalikeJDBC ★ 1132 ⧗ 0](https://github.com/scalikejdbc/scalikejdbc)** - A tidy SQL-based DB access library for Scala developers.
@@ -101,7 +101,7 @@ Projects with over 500 stargazers are in bold.
 * [Shade ★ 107 ⧗ 17](https://github.com/alexandru/shade) - Memcached client for Scala, based on Spymemcached
 * **[Slick ★ 2412 ⧗ 0](https://github.com/slick/slick)** - Modern database query and access library for Scala.
 * [Sorm ★ 238 ⧗ 65](https://github.com/sorm/sorm) - A functional boilerplate-free Scala ORM.
-* **[Squeryl ★ 551 ⧗ 3](https://github.com/squeryl/squeryl)** - A Scala DSL for talking with databases with minimum verbosity and maximum type safety.
+* **[Squeryl ★ 551 ⧗ 4](https://github.com/squeryl/squeryl)** - A Scala DSL for talking with databases with minimum verbosity and maximum type safety.
 * [Tepkin ★ 82 ⧗ 91](https://github.com/fehmicansaglam/tepkin) - Reactive MongoDB Driver for Scala built on top of Akka IO and Akka Streams.
 
 ## Messaging
@@ -197,7 +197,7 @@ Projects with over 500 stargazers are in bold.
 * [scalaprops ★ 261 ⧗ 0](https://github.com/scalaprops/scalaprops) - Another property based testing library for Scala
 * **[ScalaTest ★ 937 ⧗ 2](https://github.com/scalatest/scalatest)** - A testing tool for Scala and Java developers.
 * [Scalive ★ 203 ⧗ 175](https://github.com/xitrum-framework/scalive) - Connect a Scala REPL to running JVM processes without any prior setup; this library is used for inspecting systems in production mode.
-* **[Specs2 ★ 690 ⧗ 0](https://github.com/etorreborre/specs2)** - Software Specifications for Scala.
+* **[Specs2 ★ 690 ⧗ 1](https://github.com/etorreborre/specs2)** - Software Specifications for Scala.
 * [Stryker4s ★ 107 ⧗ 0](https://github.com/stryker-mutator/stryker4s) - Test your tests with mutation testing.
 * [testcontainers-scala ★ 393 ⧗ 5](https://github.com/testcontainers/testcontainers-scala) - Docker containers for testing in Scala.
 * [µTest ★ 418 ⧗ 0](https://github.com/lihaoyi/utest) - A tiny, portable testing library for Scala.
@@ -262,7 +262,7 @@ Projects with over 500 stargazers are in bold.
 * [Chalk ★ 262 ⧗ 7](https://github.com/scalanlp/chalk) - Chalk is a natural language processing library.
 * [doddle-model ★ 142 ⧗ 69](https://github.com/picnicml/doddle-model) - An in-memory machine learning library built on top of Breeze. It provides immutable objects and exposes its functionality through a scikit-learn-like API.
 * **[FACTORIE ★ 556 ⧗ 39](https://github.com/factorie/factorie)** - A toolkit for deployable probabilistic modeling, implemented as a software library in Scala.
-* **[Figaro ★ 721 ⧗ 35](https://github.com/p2t2/figaro)** - Figaro is a probabilistic programming language that supports development of very rich probabilistic models.
+* **[Figaro ★ 721 ⧗ 36](https://github.com/p2t2/figaro)** - Figaro is a probabilistic programming language that supports development of very rich probabilistic models.
 * [Libra ★ 195 ⧗ 47](https://github.com/to-ithaca/libra) - Libra is a dimensional analysis library based on shapeless, spire and singleton-ops. It contains out of the box support for SI units for all numeric types.
 * [MGO ★ 62 ⧗ 16](https://github.com/openmole/mgo) - Modular multi-objective evolutionary algorithm optimization library enforcing immutability.
 * [MLLib](https://spark.apache.org/mllib/) - Machine Learning framework for Spark
@@ -364,7 +364,7 @@ Projects with over 500 stargazers are in bold.
 * **[Enumeratum ★ 995 ⧗ 3](https://github.com/lloydmeta/enumeratum)** - A macro to replace Scala enumerations with a sealed family of case objects. This allows additional checks for the compiler, e.g. for missing cases in a match statement. Has additinal support for Json libraries and the Play framework.
 * [Freasy-Monad ★ 112 ⧗ 79](https://github.com/Thangiee/Freasy-Monad) - Easy way to create Free Monad for Cats and Scalaz using Scala macros with first-class Intellij support.
 * **[Freestyle ★ 628 ⧗ 3](https://github.com/frees-io/freestyle)** - A cohesive & pragmatic framework of FP centric Scala libraries.
-* [Hamsters ★ 293 ⧗ 60](https://github.com/scala-hamsters/hamsters) - A mini Scala utility library. Compatible with functional programming beginners. Featuring validation, monad transformers, HLists, Union types.
+* [Hamsters ★ 293 ⧗ 61](https://github.com/scala-hamsters/hamsters) - A mini Scala utility library. Compatible with functional programming beginners. Featuring validation, monad transformers, HLists, Union types.
 * [idid ★ 14 ⧗ 226](https://github.com/lucastorri/idid) - A library to define common interfaces for different Id types.
 * [Lamma ★ 87 ⧗ 218](https://github.com/maxcellent/lamma) - A Scala date library for date and schedule generation.
 * [LArray ★ 367 ⧗ 6](https://github.com/xerial/larray) - Large off-heap arrays (> 2GB) and mmap files.
@@ -407,7 +407,7 @@ Projects with over 500 stargazers are in bold.
 * [Ostinato ★ 42 ⧗ 21](https://github.com/marianogappa/ostinato) - A chess library that runs on the server (Scala) and on the browser (ScalaJS)
 * [Play Swagger ★ 372 ⧗ 30](https://github.com/iheartradio/play-swagger) - Automatically create Swagger documentation for your Play REST API
 * [pprint ★ 124 ⧗ 55](https://github.com/lihaoyi/pprint) - Pretty-printer for Scala values and types for easier reading and debugging
-* **[Prisma ★ 7596 ⧗ 0](https://github.com/prisma/prisma)** - Prisma turns your database into a realtime GraphQL API 
+* **[Prisma ★ 7597 ⧗ 0](https://github.com/prisma/prisma)** - Prisma turns your database into a realtime GraphQL API 
 * **[PureConfig ★ 1082 ⧗ 0](https://github.com/melrief/pureconfig)** - A boilerplate-free Scala library for loading configuration files.
 * [REPLesent ★ 405 ⧗ 34](https://github.com/marconilanna/REPLesent) - A presentation tool built inside the Scala REPL. Runs code straight from your slides with a single keystroke.
 * [scala-debugger ★ 100 ⧗ 194](https://github.com/ensime/scala-debugger) - Scala libraries and tooling utilizing the Java Debugger Interface.
@@ -480,7 +480,7 @@ Projects with over 500 stargazers are in bold.
 * **[sbt-docker ★ 684 ⧗ 28](https://github.com/marcuslonnberg/sbt-docker)** - Create Docker images directly from sbt
 * [sbt-doctest ★ 168 ⧗ 0](https://github.com/tkawachi/sbt-doctest) - Plugin for sbt that generates tests from examples in ScalaDoc.
 * [sbt-ensime ★ 244 ⧗ 7](https://github.com/ensime/ensime-sbt) - Generates .ensime config files for SBT projects [http://ensime.org/build_tools/sbt](http://ensime.org/build_tools/sbt)
-* [sbt-groll ★ 129 ⧗ 132](https://github.com/sbt/sbt-groll) - sbt plugin to roll the Git history.
+* [sbt-groll ★ 129 ⧗ 133](https://github.com/sbt/sbt-groll) - sbt plugin to roll the Git history.
 * [sbt-hepek ★ 16 ⧗ 308](https://github.com/sake92/sbt-hepek) - Make static websites in Scala code (render `object` to file!).
 * [sbt-ide-settings ★ 45 ⧗ 36](https://github.com/Jetbrains/sbt-ide-settings) - SBT plugin for tweaking various IDE settings
 * **[sbt-native-packager ★ 1413 ⧗ 3](https://github.com/sbt/sbt-native-packager)** - Bundle up Scala software for native packaging systems, like deb, rpm, homebrew, msi..
@@ -570,7 +570,7 @@ Projects with over 500 stargazers are in bold.
 * [sbt](http://www.scala-sbt.org/) ([repo](https://github.com/sbt/sbt)) - The interactive build tool for Scala
 * [Scala @LibHunt](https://scala.libhunt.com) - The go-to Scala Toolbox.
 * [scala-trace-debug ★ 110 ⧗ 65](https://github.com/JohnReedLOL/scala-trace-debug) - Multithreaded print debug tool
-* [Scalariform ★ 114 ⧗ 42](https://github.com/daniel-trinh/scalariform) - Scala source code formatter
+* [Scalariform ★ 114 ⧗ 43](https://github.com/daniel-trinh/scalariform) - Scala source code formatter
 * **[Scalastyle ★ 678 ⧗ 2](https://github.com/scalastyle/scalastyle)** - Scala style checker.
 * [Scalatex ★ 285 ⧗ 49](https://github.com/lihaoyi/Scalatex) - Programmable, Typesafe Document Generation
 * [Scapegoat ★ 409 ⧗ 0](https://github.com/sksamuel/scapegoat) - Scala compiler plugin for static code analysis
