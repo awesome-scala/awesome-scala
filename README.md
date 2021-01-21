@@ -375,7 +375,7 @@ Projects with over 500 stargazers are in bold.
 * [Persist-Logging ★ 38 ⧗ 338](https://github.com/nestorpersist/logging) - Comprehensive logging library for Scala.
 * **[Quicklens ★ 634 ⧗ 3](https://github.com/adamw/quicklens)** - modify deeply nested case class fields with an elegant API
 * [Rapture](http://rapture.io/) ([repo](https://github.com/propensive/rapture)) - a collection of libraries for common, everyday programming tasks (I/O, JSON, i18n, etc.)
-* [Records for Scala ★ 159 ⧗ 90](https://github.com/scala-records/scala-records) - Labeled records for Scala based on structural refinement types and macros.
+* [Records for Scala ★ 159 ⧗ 91](https://github.com/scala-records/scala-records) - Labeled records for Scala based on structural refinement types and macros.
 * **[refined ★ 1287 ⧗ 0](https://github.com/fthomas/refined)** - Simple refinement types with compile- and runtime checking
 * **[Scala Async ★ 1074 ⧗ 0](https://github.com/scala/async)** - An asynchronous programming facility for Scala.
 * [Scala Graph](http://www.scala-graph.org/) - A Scala library with basic graph functionality that seamlessly fits into the Scala standard collections library.
