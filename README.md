@@ -211,7 +211,7 @@ Projects with over 500 stargazers are in bold.
 * [diffson ★ 255 ⧗ 8](https://github.com/gnieh/diffson) - A scala diff/patch library for Json
 * [jackson-module-scala ★ 425 ⧗ 1](https://github.com/FasterXML/jackson-module-scala) - Add-on module for Jackson to support Scala-specific datatypes.
 * [jawn ★ 390 ⧗ 16](https://github.com/non/jawn) - Fast json parser (According to them, competetive with java gson/jackson speed).
-* **[json4s ★ 1336 ⧗ 1](https://github.com/json4s/json4s)** - Project aims to provide a single AST to be used by other scala json libraries.
+* **[json4s ★ 1336 ⧗ 0](https://github.com/json4s/json4s)** - Project aims to provide a single AST to be used by other scala json libraries.
 * [jsoniter-scala ★ 399 ⧗ 1](https://github.com/plokhotnyuk/jsoniter-scala) - Scala macros for compile-time generation of ultra-fast JSON codecs.
 * [play-json ★ 251 ⧗ 16](https://github.com/playframework/play-json) - Flexible and powerful JSON manipulation, validation and serialization, with no reflection at runtime.
 * [Pushka ★ 74 ⧗ 140](https://github.com/fomkin/pushka) - Scala JSON serialization library with annotations.
@@ -521,7 +521,7 @@ Projects with over 500 stargazers are in bold.
 * [Functional Works / Learn](https://functional.works-hub.com/learn/) - Quality resources maintained by functional works
 * [Get Programming with Scala](https://www.manning.com/books/get-programming-with-scala) - Tutorial-driven introduction to Scala
 * [Introduction to programming with dependent types in Scala](https://stepik.org/course/2294/) - Video Course by Dmytro Mitin
-* **[Learn-by-doing functional programming course on Scala ★ 536 ⧗ 6](https://github.com/dehun/learn-fp/)** - Covers type classes, functors, applicatives, monads, monad transformers, free monad
+* **[Learn-by-doing functional programming course on Scala ★ 536 ⧗ 7](https://github.com/dehun/learn-fp/)** - Covers type classes, functors, applicatives, monads, monad transformers, free monad
 * [Programming Community Curated Resources for Learning Scala](https://hackr.io/tutorials/learn-scala) - None
 * [Reactive Programming with Scala and Akka](http://www.foxebook.net/reactive-programming-with-scala-and-akka/) - Use the concepts of reactive programming to build distributed systems running on multiple nodes
 * [Resources by [Dr. Mark Lewis](http://www.cs.trinity.edu/~mlewis/) >> [Website](http://www.programmingusingscala.net/) | [Youtube Playlists](https://www.youtube.com/user/DrMarkCLewis/playlists) - None
@@ -573,7 +573,7 @@ Projects with over 500 stargazers are in bold.
 * [Scalariform ★ 114 ⧗ 42](https://github.com/daniel-trinh/scalariform) - Scala source code formatter
 * **[Scalastyle ★ 678 ⧗ 2](https://github.com/scalastyle/scalastyle)** - Scala style checker.
 * [Scalatex ★ 285 ⧗ 48](https://github.com/lihaoyi/Scalatex) - Programmable, Typesafe Document Generation
-* [Scapegoat ★ 408 ⧗ 1](https://github.com/sksamuel/scapegoat) - Scala compiler plugin for static code analysis
+* [Scapegoat ★ 409 ⧗ 0](https://github.com/sksamuel/scapegoat) - Scala compiler plugin for static code analysis
 * [Scaps](http://scala-search.org/) ([repo](https://github.com/scala-search/scaps)) - A search engine for Scala libraries
 * [Scoverage](https://github.com/scoverage) - Scala Code Coverage tool
 * **[Wartremover ★ 944 ⧗ 5](https://github.com/puffnfresh/wartremover)** - Wartremover a flexible Scala code linting tool
