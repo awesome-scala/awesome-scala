@@ -96,7 +96,7 @@ Projects with over 500 stargazers are in bold.
 * **[scala-redis ★ 982 ⧗ 6](https://github.com/debasishg/scala-redis)** - A Scala library for connecting to a redis server, with clustering support
 * [scala-sql ★ 71 ⧗ 155](https://github.com/wangzaixiang/scala-sql) - Yet another SQL-based DB access library for scala language
 * [ScalaRelational ★ 55 ⧗ 194](https://github.com/outr/scalarelational) - Type-Safe framework for defining, modifying, and querying SQL databases.
-* **[ScalikeJDBC ★ 1131 ⧗ 1](https://github.com/scalikejdbc/scalikejdbc)** - A tidy SQL-based DB access library for Scala developers.
+* **[ScalikeJDBC ★ 1131 ⧗ 2](https://github.com/scalikejdbc/scalikejdbc)** - A tidy SQL-based DB access library for Scala developers.
 * [Scanamo ★ 276 ⧗ 0](https://github.com/guardian/scanamo) - A library to make using DynamoDB with Scala simpler and less error-prone.
 * [Shade ★ 107 ⧗ 16](https://github.com/alexandru/shade) - Memcached client for Scala, based on Spymemcached
 * **[Slick ★ 2412 ⧗ 0](https://github.com/slick/slick)** - Modern database query and access library for Scala.
@@ -382,7 +382,7 @@ Projects with over 500 stargazers are in bold.
 * [scala.meta](http://scalameta.org/) - A clean-room implementation of a metaprogramming toolkit for Scala.
 * [Scalactic](http://www.scalactic.org/) - Small library of utilities related to quality that helps keeping code clear and correct.
 * **[Scalaz ★ 4422 ⧗ 0](https://github.com/scalaz/scalaz)** - An extension to the core Scala library for functional programming.
-* [scribe ★ 288 ⧗ 0](https://github.com/outr/scribe) - Practical logging framework that doesn't depend on any other logging framework and can be completely configured programmatically.
+* [scribe ★ 288 ⧗ 1](https://github.com/outr/scribe) - Practical logging framework that doesn't depend on any other logging framework and can be completely configured programmatically.
 * **[Shapeless ★ 3110 ⧗ 1](https://github.com/milessabin/shapeless)** - A type class and dependent type based generic programming library for Scala.
 * **[Simulacrum ★ 907 ⧗ 2](https://github.com/mpilquist/simulacrum)** - First class syntax support for type classes in Scala.
 * [Squid ★ 172 ⧗ 56](https://github.com/epfldata/squid) - Type-safe metaprogramming framework with typed, hygienic quasiquotes.
