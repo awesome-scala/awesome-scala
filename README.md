@@ -95,7 +95,7 @@ Projects with over 500 stargazers are in bold.
 * [Scala-Forklift ★ 179 ⧗ 89](https://github.com/lastland/scala-forklift) - Type-safe database migration for Slick, Git, etc.
 * **[scala-redis ★ 983 ⧗ 0](https://github.com/debasishg/scala-redis)** - A Scala library for connecting to a redis server, with clustering support
 * [scala-sql ★ 71 ⧗ 155](https://github.com/wangzaixiang/scala-sql) - Yet another SQL-based DB access library for scala language
-* [ScalaRelational ★ 55 ⧗ 194](https://github.com/outr/scalarelational) - Type-Safe framework for defining, modifying, and querying SQL databases.
+* [ScalaRelational ★ 55 ⧗ 195](https://github.com/outr/scalarelational) - Type-Safe framework for defining, modifying, and querying SQL databases.
 * **[ScalikeJDBC ★ 1132 ⧗ 0](https://github.com/scalikejdbc/scalikejdbc)** - A tidy SQL-based DB access library for Scala developers.
 * [Scanamo ★ 276 ⧗ 0](https://github.com/guardian/scanamo) - A library to make using DynamoDB with Scala simpler and less error-prone.
 * [Shade ★ 107 ⧗ 17](https://github.com/alexandru/shade) - Memcached client for Scala, based on Spymemcached
@@ -366,11 +366,11 @@ Projects with over 500 stargazers are in bold.
 * **[Freestyle ★ 628 ⧗ 3](https://github.com/frees-io/freestyle)** - A cohesive & pragmatic framework of FP centric Scala libraries.
 * [Hamsters ★ 293 ⧗ 61](https://github.com/scala-hamsters/hamsters) - A mini Scala utility library. Compatible with functional programming beginners. Featuring validation, monad transformers, HLists, Union types.
 * [idid ★ 14 ⧗ 226](https://github.com/lucastorri/idid) - A library to define common interfaces for different Id types.
-* [Lamma ★ 87 ⧗ 218](https://github.com/maxcellent/lamma) - A Scala date library for date and schedule generation.
+* [Lamma ★ 87 ⧗ 219](https://github.com/maxcellent/lamma) - A Scala date library for date and schedule generation.
 * [LArray ★ 367 ⧗ 6](https://github.com/xerial/larray) - Large off-heap arrays (> 2GB) and mmap files.
 * [Log4s](http://www.log4s.org/) - Fast, Scala-friendly logging bindings on top of [SLF4J](http://slf4j.org/). Uses macros for extreme performance.
 * [LogStage ★ 410 ⧗ 0](https://github.com/pshirshov/izumi-r2) - Zero-cost structural logger for Scala with [SLF4J] integration.
-* **[Monocle ★ 1318 ⧗ 0](https://github.com/julien-truffaut/Monocle)** - An Optics/Lens library for purely functional manipulation of immutable objects.
+* **[Monocle ★ 1318 ⧗ 1](https://github.com/julien-truffaut/Monocle)** - An Optics/Lens library for purely functional manipulation of immutable objects.
 * **[n-scala ★ 829 ⧗ 2](https://github.com/nscala-time/nscala-time)** - Scala wrapper for Joda Time.
 * [Persist-Logging ★ 38 ⧗ 339](https://github.com/nestorpersist/logging) - Comprehensive logging library for Scala.
 * **[Quicklens ★ 634 ⧗ 3](https://github.com/adamw/quicklens)** - modify deeply nested case class fields with an elegant API
@@ -407,7 +407,7 @@ Projects with over 500 stargazers are in bold.
 * [Ostinato ★ 42 ⧗ 21](https://github.com/marianogappa/ostinato) - A chess library that runs on the server (Scala) and on the browser (ScalaJS)
 * [Play Swagger ★ 372 ⧗ 30](https://github.com/iheartradio/play-swagger) - Automatically create Swagger documentation for your Play REST API
 * [pprint ★ 124 ⧗ 55](https://github.com/lihaoyi/pprint) - Pretty-printer for Scala values and types for easier reading and debugging
-* **[Prisma ★ 7598 ⧗ 0](https://github.com/prisma/prisma)** - Prisma turns your database into a realtime GraphQL API 
+* **[Prisma ★ 7600 ⧗ 0](https://github.com/prisma/prisma)** - Prisma turns your database into a realtime GraphQL API 
 * **[PureConfig ★ 1082 ⧗ 1](https://github.com/melrief/pureconfig)** - A boilerplate-free Scala library for loading configuration files.
 * [REPLesent ★ 405 ⧗ 34](https://github.com/marconilanna/REPLesent) - A presentation tool built inside the Scala REPL. Runs code straight from your slides with a single keystroke.
 * [scala-debugger ★ 100 ⧗ 194](https://github.com/ensime/scala-debugger) - Scala libraries and tooling utilizing the Java Debugger Interface.
@@ -464,9 +464,9 @@ Projects with over 500 stargazers are in bold.
 * [atto ★ 338 ⧗ 5](https://github.com/tpolecat/atto) - Pure functional incremental text parsing library for Scala, based on Attoparsec.
 * [CLIST ★ 100 ⧗ 83](https://github.com/backuity/clist) - Command Line Interface Scala Toolkit
 * [decline ★ 431 ⧗ 18](https://github.com/bkirwi/decline) - composable command-line parser for Scala, built on Cats
-* **[Fast Parse ★ 924 ⧗ 2](https://github.com/lihaoyi/fastparse)** - Fast to write, Fast running Parsers in Scala
+* **[Fast Parse ★ 925 ⧗ 0](https://github.com/lihaoyi/fastparse)** - Fast to write, Fast running Parsers in Scala
 * **[Parboiled2 ★ 658 ⧗ 0](https://github.com/sirthias/parboiled2)** - A Fast Parser Generator for Scala 2.10.3+.
-* **[Scala Parser Combinators ★ 513 ⧗ 0](https://github.com/scala/scala-parser-combinators)** - Scala Standard Parser Combinator Library.
+* **[Scala Parser Combinators ★ 514 ⧗ 0](https://github.com/scala/scala-parser-combinators)** - Scala Standard Parser Combinator Library.
 * **[Scopt ★ 1257 ⧗ 1](https://github.com/scopt/scopt)** - Simple scala command line options parsing.
 
 ## Sbt plugins
@@ -561,7 +561,7 @@ Projects with over 500 stargazers are in bold.
 * [Scalafix]https://github.com/scalacenter/scalafix) - Refactoring and linting tool
 
 * [Codacy](https://www.codacy.com/) - Automated Code Reviews for Scala
-* [fast-string-interpolator ★ 63 ⧗ 27](https://github.com/Sizmek/fast-string-interpolator) - Scala macro that generates ultra-fast string interpolators
+* [fast-string-interpolator ★ 63 ⧗ 28](https://github.com/Sizmek/fast-string-interpolator) - Scala macro that generates ultra-fast string interpolators
 * [Fastring ★ 123 ⧗ 9](https://github.com/Atry/fastring) - Extremely fast string formatting
 * **[Gitbucket ★ 8249 ⧗ 0](https://github.com/gitbucket/gitbucket)** - The easily installable GitHub clone powered by Scala
 * [Giter8](http://www.foundweekends.org/giter8/) - command line tool to generate files and directories from templates published on Github
