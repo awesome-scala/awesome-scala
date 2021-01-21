@@ -207,7 +207,7 @@ Projects with over 500 stargazers are in bold.
 *Libraries for work with json.*
 
 * [argonaut](http://argonaut.io/) - Purely Functional JSON in Scala.
-* **[circe ★ 2073 ⧗ 1](https://github.com/travisbrown/circe)** - JSON library based on Argonaut, depends on Cats
+* **[circe ★ 2074 ⧗ 0](https://github.com/travisbrown/circe)** - JSON library based on Argonaut, depends on Cats
 * [diffson ★ 255 ⧗ 8](https://github.com/gnieh/diffson) - A scala diff/patch library for Json
 * [jackson-module-scala ★ 425 ⧗ 1](https://github.com/FasterXML/jackson-module-scala) - Add-on module for Jackson to support Scala-specific datatypes.
 * [jawn ★ 390 ⧗ 16](https://github.com/non/jawn) - Fast json parser (According to them, competetive with java gson/jackson speed).
@@ -260,7 +260,7 @@ Projects with over 500 stargazers are in bold.
 * **[BigDL ★ 3695 ⧗ 0](https://github.com/intel-analytics/BigDL)** - BigDL is a distributed deep learning library for Apache Spark.
 * **[Breeze ★ 3204 ⧗ 0](https://github.com/scalanlp/breeze)** - Breeze is a numerical processing library for Scala.
 * [Chalk ★ 262 ⧗ 7](https://github.com/scalanlp/chalk) - Chalk is a natural language processing library.
-* [doddle-model ★ 142 ⧗ 68](https://github.com/picnicml/doddle-model) - An in-memory machine learning library built on top of Breeze. It provides immutable objects and exposes its functionality through a scikit-learn-like API.
+* [doddle-model ★ 142 ⧗ 69](https://github.com/picnicml/doddle-model) - An in-memory machine learning library built on top of Breeze. It provides immutable objects and exposes its functionality through a scikit-learn-like API.
 * **[FACTORIE ★ 556 ⧗ 39](https://github.com/factorie/factorie)** - A toolkit for deployable probabilistic modeling, implemented as a software library in Scala.
 * **[Figaro ★ 721 ⧗ 35](https://github.com/p2t2/figaro)** - Figaro is a probabilistic programming language that supports development of very rich probabilistic models.
 * [Libra ★ 195 ⧗ 47](https://github.com/to-ithaca/libra) - Libra is a dimensional analysis library based on shapeless, spire and singleton-ops. It contains out of the box support for SI units for all numeric types.
@@ -285,10 +285,10 @@ Projects with over 500 stargazers are in bold.
 ## Big Data
 
 * **[BIDMach ★ 908 ⧗ 12](https://github.com/BIDData/BIDMach)** - CPU and GPU machine learning library, using JNI for GPU computation.
-* **[Flink ★ 15302 ⧗ 0](https://github.com/apache/flink)** - Processing framework with powerful stream- and batch-processing capabilities.
+* **[Flink ★ 15303 ⧗ 0](https://github.com/apache/flink)** - Processing framework with powerful stream- and batch-processing capabilities.
 * [Gearpump ★ 301 ⧗ 18](https://github.com/apache/incubator-gearpump) - Lightweight real-time big data streaming engine
 * [GridScale ★ 22 ⧗ 49](https://github.com/openmole/gridscale) - A Scala API for computing clusters and grids.
-* **[Kafka ★ 17837 ⧗ 0](https://github.com/apache/kafka)** - Kafka is a message broker project and aims to provide a unified, high-throughput, low-latency platform for handling real-time data feeds.
+* **[Kafka ★ 17838 ⧗ 0](https://github.com/apache/kafka)** - Kafka is a message broker project and aims to provide a unified, high-throughput, low-latency platform for handling real-time data feeds.
 * **[Reactive-kafka ★ 1285 ⧗ 3](https://github.com/akka/reactive-kafka)** - Reactive Streams API for Apache Kafka.
 * **[Scalding ★ 3278 ⧗ 4](https://github.com/twitter/scalding)** - A Scala binding for the Cascading abstraction of Hadoop MapReduce.
 * [Schemer ★ 95 ⧗ 50](https://github.com/indix/schemer) - Schema registry for CSV, TSV, JSON, AVRO and Parquet schema. Supports schema inference and GraphQL API.
@@ -319,7 +319,7 @@ Projects with over 500 stargazers are in bold.
 * **[Monix ★ 1748 ⧗ 0](https://github.com/monifu/monix)** - Extensions to Scala’s standard library for multi-threading primitives and functional reactive programming. Scala.js compatible.
 * [REScala](http://www.rescala-lang.com/) - REScala is a library for functional reactive programming on the JVM and the Web. It provides a rich API for event stream transformations and signal composition with managed consistent up-to-date state and minimal syntactic overhead.
 * **[RxScala ★ 884 ⧗ 12](https://github.com/ReactiveX/RxScala)** - Reactive Extensions for Scala – a library for composing asynchronous and event-based programs using observable sequences
-* **[Scala.Rx ★ 959 ⧗ 16](https://github.com/lihaoyi/scala.rx)** - An experimental library for Functional Reactive Programming in Scala (reactive variables). Scala.js compatible.
+* **[Scala.Rx ★ 959 ⧗ 17](https://github.com/lihaoyi/scala.rx)** - An experimental library for Functional Reactive Programming in Scala (reactive variables). Scala.js compatible.
 * [SynapseGrid ★ 122 ⧗ 163](https://github.com/Primetalk/SynapseGrid) - an FRP framework for constructing reactive real-time immutable data flow systems. It implements an original way of running and organizing event-driven systems based on Petri nets. The topology can be viewed as a .dot graph. The library is compatible with Akka and can seamlessly communicate with other actors.
 * [Vert.x](http://vertx.io/) - A polyglot reactive application platform for the JVM which aims to be an alternative to node.js. Its concurrency model resembles actors. It supports [Scala](http://vertx.io/docs/vertx-core/scala/), Clojure, Java, Javascript, Ruby, Groovy and Python.
 
@@ -476,7 +476,7 @@ Projects with over 500 stargazers are in bold.
 * [coursier ★ 2 ⧗ 22](https://github.com/alexarchambault/coursier) - A Scala library to fetch dependencies from Maven / Ivy repositories
 * [sbt-api-mappings ★ 76 ⧗ 149](https://github.com/ThoughtWorksInc/sbt-api-mappings) - A Sbt plugin that resolves external API links to common Scala libraries.
 * [sbt-buildinfo ★ 479 ⧗ 3](https://github.com/sbt/sbt-buildinfo) - Generates Scala source from build definition.
-* **[sbt-dependency-graph ★ 1215 ⧗ 0](https://github.com/jrudolph/sbt-dependency-graph)** - Create a dependency graph for your project.
+* **[sbt-dependency-graph ★ 1215 ⧗ 1](https://github.com/jrudolph/sbt-dependency-graph)** - Create a dependency graph for your project.
 * **[sbt-docker ★ 684 ⧗ 28](https://github.com/marcuslonnberg/sbt-docker)** - Create Docker images directly from sbt
 * [sbt-doctest ★ 168 ⧗ 0](https://github.com/tkawachi/sbt-doctest) - Plugin for sbt that generates tests from examples in ScalaDoc.
 * [sbt-ensime ★ 244 ⧗ 7](https://github.com/ensime/ensime-sbt) - Generates .ensime config files for SBT projects [http://ensime.org/build_tools/sbt](http://ensime.org/build_tools/sbt)
@@ -513,7 +513,7 @@ Projects with over 500 stargazers are in bold.
 *Nice books, blogs and other resources to learn Scala*
 
 * [A Tour of Scala](http://docs.scala-lang.org/tour/tour-of-scala.html) - Bite-sized introductions to some of the core language concepts.
-* **[Demos and Examples in Scala (Chinese) ★ 1066 ⧗ 5](https://github.com/jacksu/utils4s)** - repo of sample Scala library usage, written in Chinese
+* **[Demos and Examples in Scala (Chinese) ★ 1066 ⧗ 6](https://github.com/jacksu/utils4s)** - repo of sample Scala library usage, written in Chinese
 * [Essential Scala](https://underscore.io/books/essential-scala/) - None
 * [Exercism - Scala Exercises](http://exercism.io/languages/scala/exercises) - Community-driven Scala exercises.
 * [Functional Programming for Mortals](https://leanpub.com/fpmortals/read) - None
@@ -551,7 +551,7 @@ Projects with over 500 stargazers are in bold.
 
 *Web templating engines.*
 
-* [Beard ★ 114 ⧗ 16](https://github.com/zalando/beard) - lightweight logicless templating engine inspired by Mustache
+* [Beard ★ 114 ⧗ 17](https://github.com/zalando/beard) - lightweight logicless templating engine inspired by Mustache
 * **[Scalatags ★ 662 ⧗ 0](https://github.com/lihaoyi/scalatags)** - Write html as scala code and have your IDE syntax check it.
 * **[Scalate ★ 563 ⧗ 1](https://github.com/scalate/scalate)** - Scala based template engine which supports HAML, Mustache and JSP, Erb and Velocity style syntaxes
 * [Twirl ★ 496 ⧗ 4](https://github.com/playframework/twirl) - The Play Scala Template Compiler
@@ -584,7 +584,7 @@ Projects with over 500 stargazers are in bold.
 
 * **[Geotrellis ★ 1113 ⧗ 1](https://github.com/locationtech/geotrellis)** - Scalable raster toolkit for GIS processing
 * [osm4scala ★ 46 ⧗ 43](https://github.com/angelcervera/osm4scala) - OpenStreetMap PBF2 file parser
-* [rtree2d ★ 91 ⧗ 5](https://github.com/Sizmek/rtree2d) - RTree2D is a 2D immutable R-tree with STR (Sort-Tile-Recursive) packing for ultra-fast nearest and intersection queries on plane and spherical surfaces
+* [rtree2d ★ 91 ⧗ 6](https://github.com/Sizmek/rtree2d) - RTree2D is a 2D immutable R-tree with STR (Sort-Tile-Recursive) packing for ultra-fast nearest and intersection queries on plane and spherical surfaces
 * [sfcurve ★ 63 ⧗ 36](https://github.com/locationtech/sfcurve) - Space filling curves in Scala for geospatial indexing and query
 
 ## Devops
