@@ -96,7 +96,7 @@ Projects with over 500 stargazers are in bold.
 * **[scala-redis ★ 982 ⧗ 6](https://github.com/debasishg/scala-redis)** - A Scala library for connecting to a redis server, with clustering support
 * [scala-sql ★ 71 ⧗ 155](https://github.com/wangzaixiang/scala-sql) - Yet another SQL-based DB access library for scala language
 * [ScalaRelational ★ 55 ⧗ 194](https://github.com/outr/scalarelational) - Type-Safe framework for defining, modifying, and querying SQL databases.
-* **[ScalikeJDBC ★ 1131 ⧗ 2](https://github.com/scalikejdbc/scalikejdbc)** - A tidy SQL-based DB access library for Scala developers.
+* **[ScalikeJDBC ★ 1132 ⧗ 0](https://github.com/scalikejdbc/scalikejdbc)** - A tidy SQL-based DB access library for Scala developers.
 * [Scanamo ★ 276 ⧗ 0](https://github.com/guardian/scanamo) - A library to make using DynamoDB with Scala simpler and less error-prone.
 * [Shade ★ 107 ⧗ 16](https://github.com/alexandru/shade) - Memcached client for Scala, based on Spymemcached
 * **[Slick ★ 2412 ⧗ 0](https://github.com/slick/slick)** - Modern database query and access library for Scala.
@@ -138,7 +138,7 @@ Projects with over 500 stargazers are in bold.
 
 *Scala libraries for Reactive Web development*
 
-* **[Binding.scala ★ 1517 ⧗ 0](https://github.com/ThoughtWorksInc/Binding.scala)** - A reactive web framework. It enables you use native XML literal syntax to create reactive DOM nodes, which are able to automatically change whenever the data source changes.
+* **[Binding.scala ★ 1517 ⧗ 1](https://github.com/ThoughtWorksInc/Binding.scala)** - A reactive web framework. It enables you use native XML literal syntax to create reactive DOM nodes, which are able to automatically change whenever the data source changes.
 * **[Korolev ★ 935 ⧗ 0](http://github.com/fomkin/korolev/)** - Modern single-page applications running on the server side
 * [Udash](http://udash.io/) - a web framework based on Scala.js with support for property bindings, frontend routing, i18n and much more. It also provides strongly typed client<->server RPC system based on WebSockets.
 * [Vert.x Web](http://vertx.io/docs/vertx-web/scala/) - Toolkit to build Reactive web applications..
@@ -563,7 +563,7 @@ Projects with over 500 stargazers are in bold.
 * [Codacy](https://www.codacy.com/) - Automated Code Reviews for Scala
 * [fast-string-interpolator ★ 63 ⧗ 27](https://github.com/Sizmek/fast-string-interpolator) - Scala macro that generates ultra-fast string interpolators
 * [Fastring ★ 123 ⧗ 9](https://github.com/Atry/fastring) - Extremely fast string formatting
-* **[Gitbucket ★ 8248 ⧗ 0](https://github.com/gitbucket/gitbucket)** - The easily installable GitHub clone powered by Scala
+* **[Gitbucket ★ 8250 ⧗ 0](https://github.com/gitbucket/gitbucket)** - The easily installable GitHub clone powered by Scala
 * [Giter8](http://www.foundweekends.org/giter8/) - command line tool to generate files and directories from templates published on Github
 * [Hepek ★ 75 ⧗ 34](https://github.com/sake92/hepek) - Static content generator for developers. Intuitive, scalable, powerful. 
 * [Mill](http://www.lihaoyi.com/mill/) - A better Scala build tool
