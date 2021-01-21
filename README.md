@@ -213,7 +213,7 @@ Projects with over 500 stargazers are in bold.
 * [jawn ★ 390 ⧗ 16](https://github.com/non/jawn) - Fast json parser (According to them, competetive with java gson/jackson speed).
 * **[json4s ★ 1336 ⧗ 0](https://github.com/json4s/json4s)** - Project aims to provide a single AST to be used by other scala json libraries.
 * [jsoniter-scala ★ 399 ⧗ 1](https://github.com/plokhotnyuk/jsoniter-scala) - Scala macros for compile-time generation of ultra-fast JSON codecs.
-* [play-json ★ 251 ⧗ 16](https://github.com/playframework/play-json) - Flexible and powerful JSON manipulation, validation and serialization, with no reflection at runtime.
+* [play-json ★ 251 ⧗ 0](https://github.com/playframework/play-json) - Flexible and powerful JSON manipulation, validation and serialization, with no reflection at runtime.
 * [Pushka ★ 74 ⧗ 140](https://github.com/fomkin/pushka) - Scala JSON serialization library with annotations.
 * [qbproject](https://github.com/qb-project/qbproject) - Scala Libs around JSON and API developement for Play Framework.
 * [rapture-json](https://github.com/propensive/rapture/blob/dev/doc/json.md) - Clean, intuitive, unintrusive, boilerplate-free Scala API
@@ -244,7 +244,7 @@ Projects with over 500 stargazers are in bold.
 * **[Chill ★ 558 ⧗ 4](https://github.com/twitter/chill)** - Extensions for the Kryo serialization library to ease configuration in systems like Hadoop and Storm.
 * [msgpack ★ 90 ⧗ 105](https://github.com/msgpack/msgpack-scala) - A efficient binary serialization library.
 * **[Pickling ★ 852 ⧗ 4](https://github.com/scala/pickling)** - Fast, customizable, boilerplate-free pickling support.
-* [ScalaBuff ★ 222 ⧗ 213](https://github.com/SandroGrzicic/ScalaBuff) - a Scala Protocol Buffers (protobuf) compiler
+* [ScalaBuff ★ 222 ⧗ 214](https://github.com/SandroGrzicic/ScalaBuff) - a Scala Protocol Buffers (protobuf) compiler
 * **[ScalaPB ★ 705 ⧗ 51](https://scalapb.github.io/)** - Protocol Buffers and gRPC support for Scala
 * **[scodec ★ 708 ⧗ 4](https://github.com/scodec/scodec)** - A combinator library for working with binary data.
 * [Scrooge](http://twitter.github.io/scrooge/) - An Apache Thrift code generator for Scala.
@@ -285,18 +285,18 @@ Projects with over 500 stargazers are in bold.
 ## Big Data
 
 * **[BIDMach ★ 908 ⧗ 12](https://github.com/BIDData/BIDMach)** - CPU and GPU machine learning library, using JNI for GPU computation.
-* **[Flink ★ 15301 ⧗ 0](https://github.com/apache/flink)** - Processing framework with powerful stream- and batch-processing capabilities.
+* **[Flink ★ 15302 ⧗ 0](https://github.com/apache/flink)** - Processing framework with powerful stream- and batch-processing capabilities.
 * [Gearpump ★ 301 ⧗ 18](https://github.com/apache/incubator-gearpump) - Lightweight real-time big data streaming engine
 * [GridScale ★ 22 ⧗ 49](https://github.com/openmole/gridscale) - A Scala API for computing clusters and grids.
-* **[Kafka ★ 17836 ⧗ 0](https://github.com/apache/kafka)** - Kafka is a message broker project and aims to provide a unified, high-throughput, low-latency platform for handling real-time data feeds.
+* **[Kafka ★ 17837 ⧗ 0](https://github.com/apache/kafka)** - Kafka is a message broker project and aims to provide a unified, high-throughput, low-latency platform for handling real-time data feeds.
 * **[Reactive-kafka ★ 1285 ⧗ 3](https://github.com/akka/reactive-kafka)** - Reactive Streams API for Apache Kafka.
 * **[Scalding ★ 3278 ⧗ 4](https://github.com/twitter/scalding)** - A Scala binding for the Cascading abstraction of Hadoop MapReduce.
 * [Schemer ★ 95 ⧗ 50](https://github.com/indix/schemer) - Schema registry for CSV, TSV, JSON, AVRO and Parquet schema. Supports schema inference and GraphQL API.
 * [Scio](https://github.com/spotify/scio) - A Scala API for [Apache Beam](https://beam.apache.org/) and [Google Cloud Dataflow](https://cloud.google.com/dataflow/) - None
 * [Scrunch](http://crunch.apache.org/scrunch.html) - A Scala wrapper for [Apache Crunch](http://crunch.apache.org/index.html) which provides a framework for writing, testing, and running MapReduce pipelines.
 * [Spark](http://spark.apache.org/) - Lightning fast cluster computing — up to 100x faster than Hadoop for iterative algorithms (memory caching) and up to 10x faster than Hadoop for single-pass MapReduce jobs. Compatible with YARN-enabled Hadoop clusters, can run on Mesos and in stand-alone mode as well.
-* [spark-deployer ★ 76 ⧗ 140](https://github.com/KKBOX/spark-deployer) - A sbt plugin which helps deploying Apache Spark stand-alone cluster and submitting job on cloud system like AWS EC2.
-* [Sparkplug ★ 23 ⧗ 128](https://github.com/indix/sparkplug) - Spark package to "plug" holes in data using SQL based rules
+* [spark-deployer ★ 76 ⧗ 141](https://github.com/KKBOX/spark-deployer) - A sbt plugin which helps deploying Apache Spark stand-alone cluster and submitting job on cloud system like AWS EC2.
+* [Sparkplug ★ 23 ⧗ 129](https://github.com/indix/sparkplug) - Spark package to "plug" holes in data using SQL based rules
 * **[Sparkta ★ 514 ⧗ 1](https://github.com/Stratio/sparkta)** - Real Time Aggregation based on Spark Streaming.
 * **[Summingbird ★ 2089 ⧗ 4](https://github.com/twitter/summingbird)** - An implementation of the “lambda architecture” as a software abstraction — a single API for Hadoop and Storm.
 * **[Vegas ★ 706 ⧗ 2](https://github.com/vegas-viz/Vegas)** - The missing MatPlotLib for Scala + Spark
@@ -410,7 +410,7 @@ Projects with over 500 stargazers are in bold.
 * **[Prisma ★ 7591 ⧗ 0](https://github.com/prisma/prisma)** - Prisma turns your database into a realtime GraphQL API 
 * **[PureConfig ★ 1082 ⧗ 0](https://github.com/melrief/pureconfig)** - A boilerplate-free Scala library for loading configuration files.
 * [REPLesent ★ 405 ⧗ 34](https://github.com/marconilanna/REPLesent) - A presentation tool built inside the Scala REPL. Runs code straight from your slides with a single keystroke.
-* [scala-debugger ★ 100 ⧗ 193](https://github.com/ensime/scala-debugger) - Scala libraries and tooling utilizing the Java Debugger Interface.
+* [scala-debugger ★ 100 ⧗ 194](https://github.com/ensime/scala-debugger) - Scala libraries and tooling utilizing the Java Debugger Interface.
 * [scala-ssh ★ 231 ⧗ 0](https://github.com/sirthias/scala-ssh) - Remote shell access via SSH for your Scala applications
 * [Scalan ★ 94 ⧗ 10](https://github.com/scalan/scalan) - A framework for development of domain-specific compilers in Scala
 * [ScalaSTM](https://nbronson.github.io/scala-stm/) - Software Transaction Memory for Scala
@@ -479,7 +479,7 @@ Projects with over 500 stargazers are in bold.
 * **[sbt-dependency-graph ★ 1215 ⧗ 0](https://github.com/jrudolph/sbt-dependency-graph)** - Create a dependency graph for your project.
 * **[sbt-docker ★ 684 ⧗ 28](https://github.com/marcuslonnberg/sbt-docker)** - Create Docker images directly from sbt
 * [sbt-doctest ★ 168 ⧗ 0](https://github.com/tkawachi/sbt-doctest) - Plugin for sbt that generates tests from examples in ScalaDoc.
-* [sbt-ensime ★ 244 ⧗ 6](https://github.com/ensime/ensime-sbt) - Generates .ensime config files for SBT projects [http://ensime.org/build_tools/sbt](http://ensime.org/build_tools/sbt)
+* [sbt-ensime ★ 244 ⧗ 7](https://github.com/ensime/ensime-sbt) - Generates .ensime config files for SBT projects [http://ensime.org/build_tools/sbt](http://ensime.org/build_tools/sbt)
 * [sbt-groll ★ 129 ⧗ 132](https://github.com/sbt/sbt-groll) - sbt plugin to roll the Git history.
 * [sbt-hepek ★ 16 ⧗ 308](https://github.com/sake92/sbt-hepek) - Make static websites in Scala code (render `object` to file!).
 * [sbt-ide-settings ★ 45 ⧗ 36](https://github.com/Jetbrains/sbt-ide-settings) - SBT plugin for tweaking various IDE settings
@@ -488,7 +488,7 @@ Projects with over 500 stargazers are in bold.
 * **[sbt-revolver ★ 761 ⧗ 0](https://github.com/spray/sbt-revolver)** - Fork & Stop processes from sbt.
 * [sbt-robovm ★ 108 ⧗ 124](https://github.com/roboscala/sbt-robovm) - An sbt plugin for iOS development in Scala
 * [sbt-scala-js-map ★ 26 ⧗ 90](https://github.com/ThoughtWorksInc/sbt-scala-js-map) - A sbt plugin that configures source mapping for Scala.js projects hosted on Github
-* [sbt-sublime ★ 139 ⧗ 213](https://github.com/orrsella/sbt-sublime) - Create Sublime Text projects with library dependencies sources
+* [sbt-sublime ★ 139 ⧗ 214](https://github.com/orrsella/sbt-sublime) - Create Sublime Text projects with library dependencies sources
 * **[sbt-updates ★ 648 ⧗ 4](https://github.com/rtimush/sbt-updates)** - Shows sbt project's dependency updates.
 * **[sbteclipse ★ 727 ⧗ 0](https://github.com/typesafehub/sbteclipse)** - Create Eclipse project definitions from sbt builds.
 * [scala-clippy ★ 311 ⧗ 22](https://github.com/softwaremill/scala-clippy) - Good advice and coloring for Scala compiler errors
