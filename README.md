@@ -65,7 +65,7 @@ Projects with over 500 stargazers are in bold.
 *Databases implemented in Scala.*
 
 * **[Atlas ★ 2807 ⧗ 1](https://github.com/Netflix/atlas)** - In-memory dimensional time series database built by Netflix.
-* **[FiloDB ★ 1257 ⧗ 2](https://github.com/filodb/FiloDB)** - Prometheus-compatible distributed time series database.
+* **[FiloDB ★ 1257 ⧗ 3](https://github.com/filodb/FiloDB)** - Prometheus-compatible distributed time series database.
 * [L-space ★ 3 ⧗ 22](https://github.com/L-space/L-space) - A pure Scala (and Scala.js) Linked Data graph computing framework, database (both in-memory and persistent) and rest-APIs (support for Json-ld).
 * [SwayDB](http://www.swaydb.io/) - A Type-safe & non-blocking key-value storage library for single/multiple disks and in-memory storage.
 
@@ -212,9 +212,9 @@ Projects with over 500 stargazers are in bold.
 * [jackson-module-scala ★ 425 ⧗ 1](https://github.com/FasterXML/jackson-module-scala) - Add-on module for Jackson to support Scala-specific datatypes.
 * [jawn ★ 390 ⧗ 16](https://github.com/non/jawn) - Fast json parser (According to them, competetive with java gson/jackson speed).
 * **[json4s ★ 1336 ⧗ 0](https://github.com/json4s/json4s)** - Project aims to provide a single AST to be used by other scala json libraries.
-* [jsoniter-scala ★ 399 ⧗ 1](https://github.com/plokhotnyuk/jsoniter-scala) - Scala macros for compile-time generation of ultra-fast JSON codecs.
+* [jsoniter-scala ★ 399 ⧗ 2](https://github.com/plokhotnyuk/jsoniter-scala) - Scala macros for compile-time generation of ultra-fast JSON codecs.
 * [play-json ★ 250 ⧗ 0](https://github.com/playframework/play-json) - Flexible and powerful JSON manipulation, validation and serialization, with no reflection at runtime.
-* [Pushka ★ 74 ⧗ 140](https://github.com/fomkin/pushka) - Scala JSON serialization library with annotations.
+* [Pushka ★ 74 ⧗ 141](https://github.com/fomkin/pushka) - Scala JSON serialization library with annotations.
 * [qbproject](https://github.com/qb-project/qbproject) - Scala Libs around JSON and API developement for Play Framework.
 * [rapture-json](https://github.com/propensive/rapture/blob/dev/doc/json.md) - Clean, intuitive, unintrusive, boilerplate-free Scala API
 * [scala-jsonapi ★ 106 ⧗ 91](https://github.com/scala-jsonapi/scala-jsonapi) - Support library for integrating the JSON API spec with Scala and Spray JSON, Play! JSON or Circe.
@@ -332,7 +332,7 @@ Projects with over 500 stargazers are in bold.
 * [Grafter ★ 240 ⧗ 120](https://github.com/zalando/grafter) - Grafter is a library to configure and wire Scala applications.
 * **[MacWire ★ 1091 ⧗ 1](https://github.com/adamw/macwire)** - Scala Macro to generate wiring code for class instantiation. DI container replacement.
 * [Scala-Guice ★ 321 ⧗ 5](https://github.com/codingwell/scala-guice) - Scala extensions for Google Guice
-* [Scaldi ★ 282 ⧗ 1](https://github.com/scaldi/scaldi) - Lightweight Scala Dependency Injection Library.
+* [Scaldi ★ 282 ⧗ 2](https://github.com/scaldi/scaldi) - Lightweight Scala Dependency Injection Library.
 * [SubCut ★ 392 ⧗ 1](https://github.com/dickwall/subcut) - Scala Uniquely Bound Classes Under Traits.
 
 ## Distributed Systems
@@ -386,7 +386,7 @@ Projects with over 500 stargazers are in bold.
 * **[Shapeless ★ 3110 ⧗ 1](https://github.com/milessabin/shapeless)** - A type class and dependent type based generic programming library for Scala.
 * **[Simulacrum ★ 907 ⧗ 2](https://github.com/mpilquist/simulacrum)** - First class syntax support for type classes in Scala.
 * [Squid ★ 172 ⧗ 56](https://github.com/epfldata/squid) - Type-safe metaprogramming framework with typed, hygienic quasiquotes.
-* [Stateless Future ★ 178 ⧗ 216](https://github.com/qifun/stateless-future) - Asynchronous programming in fully featured Scala syntax.
+* [Stateless Future ★ 178 ⧗ 217](https://github.com/qifun/stateless-future) - Asynchronous programming in fully featured Scala syntax.
 * **[Twitter Util ★ 2422 ⧗ 1](https://github.com/twitter/util)** - General-purpose Scala libraries, including a future implementation and other concurrency tools.
 
 ## Misc
@@ -407,7 +407,7 @@ Projects with over 500 stargazers are in bold.
 * [Ostinato ★ 42 ⧗ 21](https://github.com/marianogappa/ostinato) - A chess library that runs on the server (Scala) and on the browser (ScalaJS)
 * [Play Swagger ★ 372 ⧗ 30](https://github.com/iheartradio/play-swagger) - Automatically create Swagger documentation for your Play REST API
 * [pprint ★ 124 ⧗ 55](https://github.com/lihaoyi/pprint) - Pretty-printer for Scala values and types for easier reading and debugging
-* **[Prisma ★ 7604 ⧗ 0](https://github.com/prisma/prisma)** - Prisma turns your database into a realtime GraphQL API 
+* **[Prisma ★ 7607 ⧗ 0](https://github.com/prisma/prisma)** - Prisma turns your database into a realtime GraphQL API 
 * **[PureConfig ★ 1082 ⧗ 1](https://github.com/melrief/pureconfig)** - A boilerplate-free Scala library for loading configuration files.
 * [REPLesent ★ 405 ⧗ 34](https://github.com/marconilanna/REPLesent) - A presentation tool built inside the Scala REPL. Runs code straight from your slides with a single keystroke.
 * [scala-debugger ★ 100 ⧗ 194](https://github.com/ensime/scala-debugger) - Scala libraries and tooling utilizing the Java Debugger Interface.
