@@ -97,7 +97,7 @@ Projects with over 500 stargazers are in bold.
 * [scala-sql ★ 71 ⧗ 154](https://github.com/wangzaixiang/scala-sql) - Yet another SQL-based DB access library for scala language
 * [ScalaRelational ★ 55 ⧗ 194](https://github.com/outr/scalarelational) - Type-Safe framework for defining, modifying, and querying SQL databases.
 * **[ScalikeJDBC ★ 1131 ⧗ 1](https://github.com/scalikejdbc/scalikejdbc)** - A tidy SQL-based DB access library for Scala developers.
-* [Scanamo ★ 276 ⧗ 0](https://github.com/guardian/scanamo) - A library to make using DynamoDB with Scala simpler and less error-prone.
+* [Scanamo ★ 276 ⧗ 1](https://github.com/guardian/scanamo) - A library to make using DynamoDB with Scala simpler and less error-prone.
 * [Shade ★ 107 ⧗ 16](https://github.com/alexandru/shade) - Memcached client for Scala, based on Spymemcached
 * **[Slick ★ 2411 ⧗ 1](https://github.com/slick/slick)** - Modern database query and access library for Scala.
 * [Sorm ★ 238 ⧗ 65](https://github.com/sorm/sorm) - A functional boilerplate-free Scala ORM.
@@ -274,7 +274,7 @@ Projects with over 500 stargazers are in bold.
 * [Rings ★ 50 ⧗ 60](https://github.com/PoslavskySV/rings) - An efficient library for polynomial rings. Commutative algebra, polynomial GCDs, polynomial factorization and other sci things at a really high speed.
 * **[Saddle ★ 513 ⧗ 7](https://github.com/saddle/saddle)** - A minimalist port of Pandas to Scala
 * [Smile](http://haifengl.github.io/smile/) - Statistical Machine Intelligence and Learning Engine. Smile is a fast and comprehensive machine learning system.
-* **[Spark Notebook ★ 3000 ⧗ 1](https://github.com/andypetrella/spark-notebook)** - Scalable and stable Scala and Spark focused notebook bridging the gap between JVM and Data Scientists (incl. extendable, typesafe and reactive charts).
+* **[Spark Notebook ★ 3001 ⧗ 0](https://github.com/andypetrella/spark-notebook)** - Scalable and stable Scala and Spark focused notebook bridging the gap between JVM and Data Scientists (incl. extendable, typesafe and reactive charts).
 * **[Spire ★ 1604 ⧗ 1](https://github.com/non/spire)** - Powerful new number types and numeric abstractions for Scala.
 * **[Squants ★ 753 ⧗ 9](https://github.com/garyKeorkunian/squants)** - The Scala API for Quantities, Units of Measure and Dimensional Analysis.
 * [SwiftLearner ★ 38 ⧗ 73](https://github.com/valdanylchuk/swiftlearner) - Simply written algorithms to help study Machine Learning or write your own implementations.
@@ -398,8 +398,8 @@ Projects with over 500 stargazers are in bold.
 * [ApiBuilder ★ 444 ⧗ 0](https://github.com/apicollective/apibuilder) - Simple, Comprehensive Tooling for Modern APIs 
 * **[BootZooka ★ 581 ⧗ 0](https://github.com/softwaremill/bootzooka)** - Simple project to quickly start developing a web application using AngularJS and Akka HTTP, without the need to write login, user registration etc.
 * **[Eclair ★ 881 ⧗ 0](https://github.com/ACINQ/eclair)** - ACINQ's Lightning Network implementation written in Scala.  Lightning Network is a second layer protocol built on top of bitcoin to address scalability, privacy, confirmation time and many other issues.
-* [Fansi ★ 173 ⧗ 8](https://github.com/lihaoyi/fansi) - Scala/Scala.js library for manipulating Fancy Ansi colored strings
-* [GoogleApiScala ★ 18 ⧗ 154](https://github.com/EckerdCollege/google-api-scala) - A simple scala library offering control of Google Drive, Calendar, and the Admin SDK.
+* [Fansi ★ 173 ⧗ 9](https://github.com/lihaoyi/fansi) - Scala/Scala.js library for manipulating Fancy Ansi colored strings
+* [GoogleApiScala ★ 18 ⧗ 155](https://github.com/EckerdCollege/google-api-scala) - A simple scala library offering control of Google Drive, Calendar, and the Admin SDK.
 * [mailgun4s ★ 14 ⧗ 45](https://github.com/outr/mailgun4s) - Scala wrapper around the Mailgun API
 * [media4s ★ 24 ⧗ 10](https://github.com/outr/media4s) - Scala command-line wrapper around ffmpeg, ffprobe, ImageMagick, and other tools relating to media.
 * [Miniboxing](https://github.com/miniboxing/miniboxing-plugin) - A Scala compiler plugin that improves program performance -- [see the project web site](http://scala-miniboxing.org) - Less boxes
@@ -423,7 +423,7 @@ Projects with over 500 stargazers are in bold.
 
 * **[Android SDK Plugin for SBT ★ 749 ⧗ 2](https://github.com/pfn/android-sdk-plugin)** - An sbt plugin that adds tasks for developing Android applications.
 * [Gradle Android Scala Plugin ★ 344 ⧗ 148](https://github.com/saturday06/gradle-android-scala-plugin) - A gradle plugin that allows you to use Scala with Android
-* **[Macroid ★ 540 ⧗ 2](https://github.com/47deg/macroid)** - A modular functional UI language for Android.
+* **[Macroid ★ 540 ⧗ 3](https://github.com/47deg/macroid)** - A modular functional UI language for Android.
 * **[Scaloid ★ 2104 ⧗ 14](https://github.com/pocorall/scaloid)** - Less painful Android development with Scala.
 
 ## HTTP
