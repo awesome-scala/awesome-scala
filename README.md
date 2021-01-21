@@ -190,7 +190,7 @@ Projects with over 500 stargazers are in bold.
 
 * [cornichon ★ 212 ⧗ 0](https://github.com/agourlay/cornichon) - Scala DSL for testing HTTP JSON API.
 * [Gatling](http://gatling.io) - Async Scala-Akka-Netty based Stress Tool.
-* [Minitest ★ 166 ⧗ 0](https://github.com/monix/minitest) - A testing framework with a focus on simplicity.
+* [Minitest ★ 166 ⧗ 1](https://github.com/monix/minitest) - A testing framework with a focus on simplicity.
 * **[ScalaCheck ★ 1686 ⧗ 1](https://github.com/rickynils/scalacheck)** - Property-based testing for Scala.
 * [ScalaMeter](https://scalameter.github.io/) - Performance &  memory footprint measuring, regression testing.
 * [ScalaMock](http://scalamock.org) - Scala native mocking framework
@@ -213,7 +213,7 @@ Projects with over 500 stargazers are in bold.
 * [jawn ★ 390 ⧗ 16](https://github.com/non/jawn) - Fast json parser (According to them, competetive with java gson/jackson speed).
 * **[json4s ★ 1336 ⧗ 0](https://github.com/json4s/json4s)** - Project aims to provide a single AST to be used by other scala json libraries.
 * [jsoniter-scala ★ 399 ⧗ 1](https://github.com/plokhotnyuk/jsoniter-scala) - Scala macros for compile-time generation of ultra-fast JSON codecs.
-* [play-json ★ 251 ⧗ 0](https://github.com/playframework/play-json) - Flexible and powerful JSON manipulation, validation and serialization, with no reflection at runtime.
+* [play-json ★ 250 ⧗ 0](https://github.com/playframework/play-json) - Flexible and powerful JSON manipulation, validation and serialization, with no reflection at runtime.
 * [Pushka ★ 74 ⧗ 140](https://github.com/fomkin/pushka) - Scala JSON serialization library with annotations.
 * [qbproject](https://github.com/qb-project/qbproject) - Scala Libs around JSON and API developement for Play Framework.
 * [rapture-json](https://github.com/propensive/rapture/blob/dev/doc/json.md) - Clean, intuitive, unintrusive, boilerplate-free Scala API
@@ -233,7 +233,7 @@ Projects with over 500 stargazers are in bold.
 *Libraries for work with CSV.*
 
 * [fm-flatfile ★ 9 ⧗ 163](https://github.com/frugalmechanic/fm-flatfile) - Very flexible, Flat File (CSV, TSV, Excel, etc) Reader for Scala.
-* [kantan.csv ★ 302 ⧗ 1](https://github.com/nrinaudo/kantan.csv) - CSV handling library for Scala with multiple backends.
+* [kantan.csv ★ 302 ⧗ 2](https://github.com/nrinaudo/kantan.csv) - CSV handling library for Scala with multiple backends.
 * **[Scala-CSV ★ 595 ⧗ 1](https://github.com/tototoshi/scala-csv)** - CSV Reader/Writer for Scala.
 
 ## Serialization
@@ -285,7 +285,7 @@ Projects with over 500 stargazers are in bold.
 ## Big Data
 
 * **[BIDMach ★ 908 ⧗ 13](https://github.com/BIDData/BIDMach)** - CPU and GPU machine learning library, using JNI for GPU computation.
-* **[Flink ★ 15305 ⧗ 0](https://github.com/apache/flink)** - Processing framework with powerful stream- and batch-processing capabilities.
+* **[Flink ★ 15306 ⧗ 0](https://github.com/apache/flink)** - Processing framework with powerful stream- and batch-processing capabilities.
 * [Gearpump ★ 301 ⧗ 18](https://github.com/apache/incubator-gearpump) - Lightweight real-time big data streaming engine
 * [GridScale ★ 22 ⧗ 49](https://github.com/openmole/gridscale) - A Scala API for computing clusters and grids.
 * **[Kafka ★ 17841 ⧗ 0](https://github.com/apache/kafka)** - Kafka is a message broker project and aims to provide a unified, high-throughput, low-latency platform for handling real-time data feeds.
@@ -563,7 +563,7 @@ Projects with over 500 stargazers are in bold.
 * [Codacy](https://www.codacy.com/) - Automated Code Reviews for Scala
 * [fast-string-interpolator ★ 63 ⧗ 27](https://github.com/Sizmek/fast-string-interpolator) - Scala macro that generates ultra-fast string interpolators
 * [Fastring ★ 123 ⧗ 9](https://github.com/Atry/fastring) - Extremely fast string formatting
-* **[Gitbucket ★ 8250 ⧗ 0](https://github.com/gitbucket/gitbucket)** - The easily installable GitHub clone powered by Scala
+* **[Gitbucket ★ 8249 ⧗ 0](https://github.com/gitbucket/gitbucket)** - The easily installable GitHub clone powered by Scala
 * [Giter8](http://www.foundweekends.org/giter8/) - command line tool to generate files and directories from templates published on Github
 * [Hepek ★ 75 ⧗ 34](https://github.com/sake92/hepek) - Static content generator for developers. Intuitive, scalable, powerful. 
 * [Mill](http://www.lihaoyi.com/mill/) - A better Scala build tool
@@ -591,7 +591,7 @@ Projects with over 500 stargazers are in bold.
 
 *DevOps related tools and libraries.*
 
-* [Orkestra ★ 104 ⧗ 59](https://github.com/Orkestra-Tech/orkestra) - Functional DevOps with Scala and Kubernetes
+* [Orkestra ★ 104 ⧗ 60](https://github.com/Orkestra-Tech/orkestra) - Functional DevOps with Scala and Kubernetes
 * [Skuber ★ 282 ⧗ 3](https://github.com/doriordan/skuber) - Kubernetes client in Scala
 
 # Resources
