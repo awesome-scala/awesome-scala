@@ -91,7 +91,7 @@ Projects with over 500 stargazers are in bold.
 * **[rediscala ★ 794 ⧗ 0](https://github.com/etaty/rediscala)** - Non-blocking, Reactive Redis driver for Scala (with Sentinel support)
 * [Relate ★ 162 ⧗ 23](https://github.com/lucidsoftware/relate) - Lightweight, blazing-fast database access layer for Scala that abstracts the idiosyncricies of the JDBC while keeping complete control over the SQL.
 * [Salat ★ 488 ⧗ 59](https://github.com/salat/salat/) - ORM for MongoDB. A related Play-plugin is also available.
-* [Scala ActiveRecord ★ 319 ⧗ 3](https://github.com/aselab/scala-activerecord) - ORM library for scala, inspired by ActiveRecord of Ruby on Rails.
+* [Scala ActiveRecord ★ 319 ⧗ 4](https://github.com/aselab/scala-activerecord) - ORM library for scala, inspired by ActiveRecord of Ruby on Rails.
 * [Scala-Forklift ★ 179 ⧗ 89](https://github.com/lastland/scala-forklift) - Type-safe database migration for Slick, Git, etc.
 * **[scala-redis ★ 982 ⧗ 6](https://github.com/debasishg/scala-redis)** - A Scala library for connecting to a redis server, with clustering support
 * [scala-sql ★ 71 ⧗ 155](https://github.com/wangzaixiang/scala-sql) - Yet another SQL-based DB access library for scala language
@@ -124,7 +124,7 @@ Projects with over 500 stargazers are in bold.
 * **[Finatra ★ 2045 ⧗ 1](https://github.com/twitter/finatra)** - A sinatra-inspired web framework for scala, running on top of Finagle.
 * **[Lift ★ 1222 ⧗ 0](https://github.com/lift/framework)** - Secure and powerful full stack web framework ([discussion](https://github.com/lauris/awesome-scala/pull/19)).
 * [peregine ★ 13 ⧗ 56](https://github.com/dvarelap/peregrine) - A simple and async lightweight Scala web framework.
-* **[Play ★ 11782 ⧗ 0](https://github.com/playframework/playframework)** - Makes it easy to build scalable, fast and real-time web applications with Java & Scala.
+* **[Play ★ 11783 ⧗ 0](https://github.com/playframework/playframework)** - Makes it easy to build scalable, fast and real-time web applications with Java & Scala.
 * [Play Pagelets ★ 75 ⧗ 56](https://github.com/splink/pagelets) - A Module for the Play Framework to build resilient and modular Play applications in an elegant and concise manner.
 * [Reactive ★ 213 ⧗ 8](https://github.com/nafg/reactive) - FRP and web abstractions, which can be plugged into any web framework (currently only has bindings for Lift).
 * **[Scalatra ★ 2485 ⧗ 0](https://github.com/scalatra/scalatra)** - Tiny Scala high-performance, async web framework, inspired by Sinatra.
@@ -167,9 +167,9 @@ Projects with over 500 stargazers are in bold.
 * [Play Google Auth Module ★ 33 ⧗ 13](https://github.com/guardian/play-googleauth) - A very simple implementation of Google OpenID Connect authentication for Play 2 applications.
 * [play-pac4j ★ 373 ⧗ 0](https://github.com/pac4j/play-pac4j) - Security library managing authentication (CAS, OAuth, OpenID, SAML, LDAP, SQL, JWT...), authorizations and logout for Play 2.x in Java and Scala.
 * **[play-silhouette ★ 824 ⧗ 9](https://github.com/mohiva/play-silhouette)** - Authentication library for Play Framework applications that supports several authentication methods, including OAuth1, OAuth2, OpenID, Credentials or custom authentication schemes.
-* **[play2-auth ★ 623 ⧗ 29](https://github.com/t2v/play2-auth)** - Play2.x Authentication and Authorization module.
+* **[play2-auth ★ 623 ⧗ 30](https://github.com/t2v/play2-auth)** - Play2.x Authentication and Authorization module.
 * **[scala-oauth2-provider ★ 517 ⧗ 1](https://github.com/nulab/scala-oauth2-provider)** - OAuth 2.0 server-side implementation written in Scala.
-* **[SecureSocial ★ 1195 ⧗ 42](https://github.com/jaliss/securesocial)** - A module that provides OAuth, OAuth2 and OpenID authentication for Play Framework applications.
+* **[SecureSocial ★ 1195 ⧗ 43](https://github.com/jaliss/securesocial)** - A module that provides OAuth, OAuth2 and OpenID authentication for Play Framework applications.
 
 ## Authorization
 
@@ -248,7 +248,7 @@ Projects with over 500 stargazers are in bold.
 * **[ScalaPB ★ 705 ⧗ 51](https://scalapb.github.io/)** - Protocol Buffers and gRPC support for Scala
 * **[scodec ★ 708 ⧗ 4](https://github.com/scodec/scodec)** - A combinator library for working with binary data.
 * [Scrooge](http://twitter.github.io/scrooge/) - An Apache Thrift code generator for Scala.
-* [validation ★ 195 ⧗ 42](https://github.com/jto/validation) - Advanced validation & serialization for JSON, HTML form data, etc, with no reflection at runtime.
+* [validation ★ 195 ⧗ 43](https://github.com/jto/validation) - Advanced validation & serialization for JSON, HTML form data, etc, with no reflection at runtime.
 * [µPickle](http://lihaoyi.github.io/upickle/) - A lightweight serialization library for Scala that works in ScalaJS, allowing transfer of structured data between the JVM and JavaScript.
 
 ## Science and Data Analysis
@@ -438,7 +438,7 @@ Projects with over 500 stargazers are in bold.
 * [jefe ★ 5 ⧗ 155](https://github.com/outr/jefe) - Manages installation, updating, downloading, launching, error reporting, proxying, multi-server management, and much more for your stand-alone and web applications.
 * [lolhttp ★ 89 ⧗ 220](https://github.com/criteo/lolhttp) - An HTTP & HTTP/2 Server and Client library for Scala.
 * [RösHTTP ★ 122 ⧗ 50](https://github.com/hmil/RosHTTP) - A lightweight asynchronous HTTP API built with Scala.js in mind. Supports the JVM and Node.js runtimes as well as most browsers.
-* **[scalaj-http ★ 957 ⧗ 13](https://github.com/scalaj/scalaj-http)** - Simple scala wrapper for HttpURLConnection (including OAuth support).
+* **[scalaj-http ★ 957 ⧗ 14](https://github.com/scalaj/scalaj-http)** - Simple scala wrapper for HttpURLConnection (including OAuth support).
 * [Scalaxb ★ 299 ⧗ 23](https://github.com/eed3si9n/scalaxb) - An XML data-binding tool for Scala that supports W3C XML Schema (xsd) and Web Services Description Language (wsdl) as the input file.
 * [Spray](http://spray.io/) - Actor-based library for http interaction.
 * **[sttp ★ 1045 ⧗ 0](https://github.com/softwaremill/sttp)** - The Scala HTTP client you always wanted!
@@ -448,7 +448,7 @@ Projects with over 500 stargazers are in bold.
 *Scala libraries for interactions with the Web of Data, and other RDF tools.*
 
 * [Banana-RDF ★ 261 ⧗ 38](https://github.com/banana-rdf/banana-rdf) - Scala-friendly abstractions for RDF and Linked Data technologies. Supports Jena, Sesame and native Scala.
-* [Scowl ★ 43 ⧗ 63](https://github.com/phenoscape/scowl) - Scala DSL allowing a declarative approach to composing OWL expressions and axioms using the OWL API.
+* [Scowl ★ 43 ⧗ 64](https://github.com/phenoscape/scowl) - Scala DSL allowing a declarative approach to composing OWL expressions and axioms using the OWL API.
 
 ## Metrics and Monitoring
 
