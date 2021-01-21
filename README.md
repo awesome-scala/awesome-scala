@@ -288,7 +288,7 @@ Projects with over 500 stargazers are in bold.
 * **[Flink ★ 15304 ⧗ 0](https://github.com/apache/flink)** - Processing framework with powerful stream- and batch-processing capabilities.
 * [Gearpump ★ 301 ⧗ 18](https://github.com/apache/incubator-gearpump) - Lightweight real-time big data streaming engine
 * [GridScale ★ 22 ⧗ 49](https://github.com/openmole/gridscale) - A Scala API for computing clusters and grids.
-* **[Kafka ★ 17839 ⧗ 0](https://github.com/apache/kafka)** - Kafka is a message broker project and aims to provide a unified, high-throughput, low-latency platform for handling real-time data feeds.
+* **[Kafka ★ 17840 ⧗ 0](https://github.com/apache/kafka)** - Kafka is a message broker project and aims to provide a unified, high-throughput, low-latency platform for handling real-time data feeds.
 * **[Reactive-kafka ★ 1285 ⧗ 3](https://github.com/akka/reactive-kafka)** - Reactive Streams API for Apache Kafka.
 * **[Scalding ★ 3278 ⧗ 4](https://github.com/twitter/scalding)** - A Scala binding for the Cascading abstraction of Hadoop MapReduce.
 * [Schemer ★ 95 ⧗ 50](https://github.com/indix/schemer) - Schema registry for CSV, TSV, JSON, AVRO and Parquet schema. Supports schema inference and GraphQL API.
@@ -305,7 +305,7 @@ Projects with over 500 stargazers are in bold.
 
 *2D and 3D image processing and image analysis*
 
-* [scalismo ★ 181 ⧗ 4](https://github.com/unibas-gravis/scalismo) - Shape modelling and  model-based image analysis.
+* [scalismo ★ 181 ⧗ 5](https://github.com/unibas-gravis/scalismo) - Shape modelling and  model-based image analysis.
 * **[scrimage ★ 782 ⧗ 4](https://github.com/sksamuel/scrimage)** - Image io, resize, manipulation and thumbnails.
 
 ## Sound processing and music
@@ -407,11 +407,11 @@ Projects with over 500 stargazers are in bold.
 * [Ostinato ★ 42 ⧗ 21](https://github.com/marianogappa/ostinato) - A chess library that runs on the server (Scala) and on the browser (ScalaJS)
 * [Play Swagger ★ 372 ⧗ 30](https://github.com/iheartradio/play-swagger) - Automatically create Swagger documentation for your Play REST API
 * [pprint ★ 124 ⧗ 55](https://github.com/lihaoyi/pprint) - Pretty-printer for Scala values and types for easier reading and debugging
-* **[Prisma ★ 7591 ⧗ 0](https://github.com/prisma/prisma)** - Prisma turns your database into a realtime GraphQL API 
+* **[Prisma ★ 7592 ⧗ 0](https://github.com/prisma/prisma)** - Prisma turns your database into a realtime GraphQL API 
 * **[PureConfig ★ 1082 ⧗ 0](https://github.com/melrief/pureconfig)** - A boilerplate-free Scala library for loading configuration files.
 * [REPLesent ★ 405 ⧗ 34](https://github.com/marconilanna/REPLesent) - A presentation tool built inside the Scala REPL. Runs code straight from your slides with a single keystroke.
 * [scala-debugger ★ 100 ⧗ 194](https://github.com/ensime/scala-debugger) - Scala libraries and tooling utilizing the Java Debugger Interface.
-* [scala-ssh ★ 231 ⧗ 0](https://github.com/sirthias/scala-ssh) - Remote shell access via SSH for your Scala applications
+* [scala-ssh ★ 231 ⧗ 1](https://github.com/sirthias/scala-ssh) - Remote shell access via SSH for your Scala applications
 * [Scalan ★ 94 ⧗ 10](https://github.com/scalan/scalan) - A framework for development of domain-specific compilers in Scala
 * [ScalaSTM](https://nbronson.github.io/scala-stm/) - Software Transaction Memory for Scala
 * [Scavenger](https://gitlab.com/aossie/Scavenger) - An experimental automated theorem prover.
@@ -424,7 +424,7 @@ Projects with over 500 stargazers are in bold.
 * **[Android SDK Plugin for SBT ★ 749 ⧗ 2](https://github.com/pfn/android-sdk-plugin)** - An sbt plugin that adds tasks for developing Android applications.
 * [Gradle Android Scala Plugin ★ 344 ⧗ 148](https://github.com/saturday06/gradle-android-scala-plugin) - A gradle plugin that allows you to use Scala with Android
 * **[Macroid ★ 540 ⧗ 3](https://github.com/47deg/macroid)** - A modular functional UI language for Android.
-* **[Scaloid ★ 2104 ⧗ 14](https://github.com/pocorall/scaloid)** - Less painful Android development with Scala.
+* **[Scaloid ★ 2104 ⧗ 15](https://github.com/pocorall/scaloid)** - Less painful Android development with Scala.
 
 ## HTTP
 
@@ -485,7 +485,7 @@ Projects with over 500 stargazers are in bold.
 * [sbt-ide-settings ★ 45 ⧗ 36](https://github.com/Jetbrains/sbt-ide-settings) - SBT plugin for tweaking various IDE settings
 * **[sbt-native-packager ★ 1413 ⧗ 3](https://github.com/sbt/sbt-native-packager)** - Bundle up Scala software for native packaging systems, like deb, rpm, homebrew, msi..
 * [sbt-pack ★ 437 ⧗ 6](https://github.com/xerial/sbt-pack) - A sbt plugin for creating distributable Scala packages.
-* **[sbt-revolver ★ 761 ⧗ 0](https://github.com/spray/sbt-revolver)** - Fork & Stop processes from sbt.
+* **[sbt-revolver ★ 761 ⧗ 1](https://github.com/spray/sbt-revolver)** - Fork & Stop processes from sbt.
 * [sbt-robovm ★ 108 ⧗ 124](https://github.com/roboscala/sbt-robovm) - An sbt plugin for iOS development in Scala
 * [sbt-scala-js-map ★ 26 ⧗ 90](https://github.com/ThoughtWorksInc/sbt-scala-js-map) - A sbt plugin that configures source mapping for Scala.js projects hosted on Github
 * [sbt-sublime ★ 139 ⧗ 214](https://github.com/orrsella/sbt-sublime) - Create Sublime Text projects with library dependencies sources
@@ -583,7 +583,7 @@ Projects with over 500 stargazers are in bold.
 *Libraries to aid with geospatial calculations and artifacts.*
 
 * **[Geotrellis ★ 1113 ⧗ 2](https://github.com/locationtech/geotrellis)** - Scalable raster toolkit for GIS processing
-* [osm4scala ★ 46 ⧗ 43](https://github.com/angelcervera/osm4scala) - OpenStreetMap PBF2 file parser
+* [osm4scala ★ 46 ⧗ 44](https://github.com/angelcervera/osm4scala) - OpenStreetMap PBF2 file parser
 * [rtree2d ★ 91 ⧗ 6](https://github.com/Sizmek/rtree2d) - RTree2D is a 2D immutable R-tree with STR (Sort-Tile-Recursive) packing for ultra-fast nearest and intersection queries on plane and spherical surfaces
 * [sfcurve ★ 63 ⧗ 36](https://github.com/locationtech/sfcurve) - Space filling curves in Scala for geospatial indexing and query
 
