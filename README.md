@@ -168,7 +168,7 @@ Projects with over 500 stargazers are in bold.
 * [play-pac4j ★ 373 ⧗ 0](https://github.com/pac4j/play-pac4j) - Security library managing authentication (CAS, OAuth, OpenID, SAML, LDAP, SQL, JWT...), authorizations and logout for Play 2.x in Java and Scala.
 * **[play-silhouette ★ 825 ⧗ 0](https://github.com/mohiva/play-silhouette)** - Authentication library for Play Framework applications that supports several authentication methods, including OAuth1, OAuth2, OpenID, Credentials or custom authentication schemes.
 * **[play2-auth ★ 623 ⧗ 30](https://github.com/t2v/play2-auth)** - Play2.x Authentication and Authorization module.
-* **[scala-oauth2-provider ★ 517 ⧗ 1](https://github.com/nulab/scala-oauth2-provider)** - OAuth 2.0 server-side implementation written in Scala.
+* **[scala-oauth2-provider ★ 517 ⧗ 2](https://github.com/nulab/scala-oauth2-provider)** - OAuth 2.0 server-side implementation written in Scala.
 * **[SecureSocial ★ 1195 ⧗ 43](https://github.com/jaliss/securesocial)** - A module that provides OAuth, OAuth2 and OpenID authentication for Play Framework applications.
 
 ## Authorization
@@ -285,7 +285,7 @@ Projects with over 500 stargazers are in bold.
 ## Big Data
 
 * **[BIDMach ★ 908 ⧗ 12](https://github.com/BIDData/BIDMach)** - CPU and GPU machine learning library, using JNI for GPU computation.
-* **[Flink ★ 15299 ⧗ 0](https://github.com/apache/flink)** - Processing framework with powerful stream- and batch-processing capabilities.
+* **[Flink ★ 15301 ⧗ 0](https://github.com/apache/flink)** - Processing framework with powerful stream- and batch-processing capabilities.
 * [Gearpump ★ 301 ⧗ 17](https://github.com/apache/incubator-gearpump) - Lightweight real-time big data streaming engine
 * [GridScale ★ 22 ⧗ 49](https://github.com/openmole/gridscale) - A Scala API for computing clusters and grids.
 * **[Kafka ★ 17835 ⧗ 0](https://github.com/apache/kafka)** - Kafka is a message broker project and aims to provide a unified, high-throughput, low-latency platform for handling real-time data feeds.
@@ -592,7 +592,7 @@ Projects with over 500 stargazers are in bold.
 *DevOps related tools and libraries.*
 
 * [Orkestra ★ 104 ⧗ 59](https://github.com/Orkestra-Tech/orkestra) - Functional DevOps with Scala and Kubernetes
-* [Skuber ★ 282 ⧗ 2](https://github.com/doriordan/skuber) - Kubernetes client in Scala
+* [Skuber ★ 282 ⧗ 3](https://github.com/doriordan/skuber) - Kubernetes client in Scala
 
 # Resources
 
