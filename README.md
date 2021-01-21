@@ -149,7 +149,7 @@ Projects with over 500 stargazers are in bold.
 *Scala libraries for data binding and validation*
 
 * **[Accord ★ 516 ⧗ 3](https://github.com/wix/accord)** - A sane validation library for Scala
-* [Monkeytail ★ 87 ⧗ 90](https://github.com/sksamuel/monkeytail) - A set of validation macros and helpers for cats.Validated
+* [Monkeytail ★ 87 ⧗ 91](https://github.com/sksamuel/monkeytail) - A set of validation macros and helpers for cats.Validated
 * [Octopus ★ 136 ⧗ 53](https://github.com/krzemin/octopus) - Scala library for boilerplate-free validation
 
 ## i18n
@@ -188,7 +188,7 @@ Projects with over 500 stargazers are in bold.
 
 *Libraries for code testing.*
 
-* [cornichon ★ 212 ⧗ 5](https://github.com/agourlay/cornichon) - Scala DSL for testing HTTP JSON API.
+* [cornichon ★ 212 ⧗ 0](https://github.com/agourlay/cornichon) - Scala DSL for testing HTTP JSON API.
 * [Gatling](http://gatling.io) - Async Scala-Akka-Netty based Stress Tool.
 * [Minitest ★ 166 ⧗ 0](https://github.com/monix/minitest) - A testing framework with a focus on simplicity.
 * **[ScalaCheck ★ 1686 ⧗ 1](https://github.com/rickynils/scalacheck)** - Property-based testing for Scala.
@@ -258,7 +258,7 @@ Projects with over 500 stargazers are in bold.
 * **[Algebird ★ 2028 ⧗ 2](https://github.com/twitter/algebird)** - Abstract Algebra for Scala.
 * [Axle ★ 63 ⧗ 20](https://github.com/axlelang/axle) - A Spire-based DSL for scientific cloud computing.
 * **[BigDL ★ 3695 ⧗ 0](https://github.com/intel-analytics/BigDL)** - BigDL is a distributed deep learning library for Apache Spark.
-* **[Breeze ★ 3204 ⧗ 0](https://github.com/scalanlp/breeze)** - Breeze is a numerical processing library for Scala.
+* **[Breeze ★ 3205 ⧗ 0](https://github.com/scalanlp/breeze)** - Breeze is a numerical processing library for Scala.
 * [Chalk ★ 262 ⧗ 7](https://github.com/scalanlp/chalk) - Chalk is a natural language processing library.
 * [doddle-model ★ 142 ⧗ 69](https://github.com/picnicml/doddle-model) - An in-memory machine learning library built on top of Breeze. It provides immutable objects and exposes its functionality through a scikit-learn-like API.
 * **[FACTORIE ★ 556 ⧗ 39](https://github.com/factorie/factorie)** - A toolkit for deployable probabilistic modeling, implemented as a software library in Scala.
@@ -284,11 +284,11 @@ Projects with over 500 stargazers are in bold.
 
 ## Big Data
 
-* **[BIDMach ★ 908 ⧗ 12](https://github.com/BIDData/BIDMach)** - CPU and GPU machine learning library, using JNI for GPU computation.
-* **[Flink ★ 15303 ⧗ 0](https://github.com/apache/flink)** - Processing framework with powerful stream- and batch-processing capabilities.
+* **[BIDMach ★ 908 ⧗ 13](https://github.com/BIDData/BIDMach)** - CPU and GPU machine learning library, using JNI for GPU computation.
+* **[Flink ★ 15304 ⧗ 0](https://github.com/apache/flink)** - Processing framework with powerful stream- and batch-processing capabilities.
 * [Gearpump ★ 301 ⧗ 18](https://github.com/apache/incubator-gearpump) - Lightweight real-time big data streaming engine
 * [GridScale ★ 22 ⧗ 49](https://github.com/openmole/gridscale) - A Scala API for computing clusters and grids.
-* **[Kafka ★ 17838 ⧗ 0](https://github.com/apache/kafka)** - Kafka is a message broker project and aims to provide a unified, high-throughput, low-latency platform for handling real-time data feeds.
+* **[Kafka ★ 17839 ⧗ 0](https://github.com/apache/kafka)** - Kafka is a message broker project and aims to provide a unified, high-throughput, low-latency platform for handling real-time data feeds.
 * **[Reactive-kafka ★ 1285 ⧗ 3](https://github.com/akka/reactive-kafka)** - Reactive Streams API for Apache Kafka.
 * **[Scalding ★ 3278 ⧗ 4](https://github.com/twitter/scalding)** - A Scala binding for the Cascading abstraction of Hadoop MapReduce.
 * [Schemer ★ 95 ⧗ 50](https://github.com/indix/schemer) - Schema registry for CSV, TSV, JSON, AVRO and Parquet schema. Supports schema inference and GraphQL API.
@@ -306,7 +306,7 @@ Projects with over 500 stargazers are in bold.
 *2D and 3D image processing and image analysis*
 
 * [scalismo ★ 181 ⧗ 4](https://github.com/unibas-gravis/scalismo) - Shape modelling and  model-based image analysis.
-* **[scrimage ★ 782 ⧗ 3](https://github.com/sksamuel/scrimage)** - Image io, resize, manipulation and thumbnails.
+* **[scrimage ★ 782 ⧗ 4](https://github.com/sksamuel/scrimage)** - Image io, resize, manipulation and thumbnails.
 
 ## Sound processing and music
 
@@ -474,7 +474,7 @@ Projects with over 500 stargazers are in bold.
 *Sbt plugins to make your life easier.*
 
 * [coursier ★ 2 ⧗ 22](https://github.com/alexarchambault/coursier) - A Scala library to fetch dependencies from Maven / Ivy repositories
-* [sbt-api-mappings ★ 76 ⧗ 149](https://github.com/ThoughtWorksInc/sbt-api-mappings) - A Sbt plugin that resolves external API links to common Scala libraries.
+* [sbt-api-mappings ★ 76 ⧗ 150](https://github.com/ThoughtWorksInc/sbt-api-mappings) - A Sbt plugin that resolves external API links to common Scala libraries.
 * [sbt-buildinfo ★ 479 ⧗ 3](https://github.com/sbt/sbt-buildinfo) - Generates Scala source from build definition.
 * **[sbt-dependency-graph ★ 1215 ⧗ 1](https://github.com/jrudolph/sbt-dependency-graph)** - Create a dependency graph for your project.
 * **[sbt-docker ★ 684 ⧗ 28](https://github.com/marcuslonnberg/sbt-docker)** - Create Docker images directly from sbt
@@ -582,7 +582,7 @@ Projects with over 500 stargazers are in bold.
 
 *Libraries to aid with geospatial calculations and artifacts.*
 
-* **[Geotrellis ★ 1113 ⧗ 1](https://github.com/locationtech/geotrellis)** - Scalable raster toolkit for GIS processing
+* **[Geotrellis ★ 1113 ⧗ 2](https://github.com/locationtech/geotrellis)** - Scalable raster toolkit for GIS processing
 * [osm4scala ★ 46 ⧗ 43](https://github.com/angelcervera/osm4scala) - OpenStreetMap PBF2 file parser
 * [rtree2d ★ 91 ⧗ 6](https://github.com/Sizmek/rtree2d) - RTree2D is a 2D immutable R-tree with STR (Sort-Tile-Recursive) packing for ultra-fast nearest and intersection queries on plane and spherical surfaces
 * [sfcurve ★ 63 ⧗ 36](https://github.com/locationtech/sfcurve) - Space filling curves in Scala for geospatial indexing and query
