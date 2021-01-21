@@ -76,7 +76,7 @@ Projects with over 500 stargazers are in bold.
 * [Anorm ★ 205 ⧗ 0](https://github.com/playframework/anorm) - Simple SQL data access.
 * [Casbah](http://mongodb.github.io/casbah/) ([repo](https://github.com/mongodb/casbah)) - Officially supported Scala driver for MongoDB
 * **[doobie ★ 1761 ⧗ 0](https://github.com/tpolecat/doobie)** - Pure functional JDBC layer for Scala.
-* **[Elastic4s ★ 1530 ⧗ 1](https://github.com/sksamuel/elastic4s)** - A scala DSL / reactive client for Elasticsearch
+* **[Elastic4s ★ 1531 ⧗ 0](https://github.com/sksamuel/elastic4s)** - A scala DSL / reactive client for Elasticsearch
 * [Finagle ★ 72 ⧗ 0](https://github.com/finagle/finagle-postgres) - PostgreSQL protocol support for Finagle
 * [longevity ★ 101 ⧗ 91](https://github.com/longevityframework/longevity) - A Persistence Framework for Scala and NoSQL with a Domain Driven Design Orientation
 * [lucene4s ★ 41 ⧗ 70](https://github.com/outr/lucene4s) - Light-weight convenience wrapper around Lucene to simplify complex tasks and add Scala sugar.
