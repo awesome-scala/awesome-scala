@@ -73,7 +73,7 @@ Projects with over 500 stargazers are in bold.
 
 *Database access libraries in Scala.*
 
-* [Anorm ★ 205 ⧗ 0](https://github.com/playframework/anorm) - Simple SQL data access.
+* [Anorm ★ 205 ⧗ 1](https://github.com/playframework/anorm) - Simple SQL data access.
 * [Casbah](http://mongodb.github.io/casbah/) ([repo](https://github.com/mongodb/casbah)) - Officially supported Scala driver for MongoDB
 * **[doobie ★ 1761 ⧗ 0](https://github.com/tpolecat/doobie)** - Pure functional JDBC layer for Scala.
 * **[Elastic4s ★ 1531 ⧗ 0](https://github.com/sksamuel/elastic4s)** - A scala DSL / reactive client for Elasticsearch
@@ -83,7 +83,7 @@ Projects with over 500 stargazers are in bold.
 * [Memcontinuationed ★ 50 ⧗ 91](https://github.com/Atry/memcontinuationed) - Memcached client for Scala.
 * [Morpheus ★ 102 ⧗ 308](https://github.com/outworkers/morpheus) - Reactive type safe Scala Driver for MySQL/Postgres.
 * **[Phantom ★ 1047 ⧗ 0](https://github.com/outworkers/phantom)** - Reactive typed Scala driver for Apache Cassandra.
-* **[PostgreSQL and MySQL async ★ 1441 ⧗ 11](https://github.com/mauricio/postgresql-async)** - Async database drivers to talk to PostgreSQL and MySQL in Scala.
+* **[PostgreSQL and MySQL async ★ 1441 ⧗ 12](https://github.com/mauricio/postgresql-async)** - Async database drivers to talk to PostgreSQL and MySQL in Scala.
 * [Pulsar4s ★ 171 ⧗ 8](https://github.com/sksamuel/pulsar4s) - Scala client for Apache Pulsar.
 * **[Quill ★ 1795 ⧗ 0](https://github.com/getquill/quill)** - Compile-time Language Integrated Query for Scala
 * [ReactiveCouchbase](http://reactivecouchbase.org/) - Reactive Scala Driver for Couchbase. Also includes a Play plug-in. An official plug-in is also in development.
@@ -242,7 +242,7 @@ Projects with over 500 stargazers are in bold.
 
 * [avro-codegen](https://github.com/Nitro/avro-codegen) - Code generation from avro schemas to serialize/deserialize avro messages, no runtime reflection.
 * **[Chill ★ 558 ⧗ 4](https://github.com/twitter/chill)** - Extensions for the Kryo serialization library to ease configuration in systems like Hadoop and Storm.
-* [msgpack ★ 90 ⧗ 105](https://github.com/msgpack/msgpack-scala) - A efficient binary serialization library.
+* [msgpack ★ 90 ⧗ 106](https://github.com/msgpack/msgpack-scala) - A efficient binary serialization library.
 * **[Pickling ★ 852 ⧗ 4](https://github.com/scala/pickling)** - Fast, customizable, boilerplate-free pickling support.
 * [ScalaBuff ★ 222 ⧗ 214](https://github.com/SandroGrzicic/ScalaBuff) - a Scala Protocol Buffers (protobuf) compiler
 * **[ScalaPB ★ 705 ⧗ 51](https://scalapb.github.io/)** - Protocol Buffers and gRPC support for Scala
@@ -285,7 +285,7 @@ Projects with over 500 stargazers are in bold.
 ## Big Data
 
 * **[BIDMach ★ 908 ⧗ 13](https://github.com/BIDData/BIDMach)** - CPU and GPU machine learning library, using JNI for GPU computation.
-* **[Flink ★ 15304 ⧗ 0](https://github.com/apache/flink)** - Processing framework with powerful stream- and batch-processing capabilities.
+* **[Flink ★ 15305 ⧗ 0](https://github.com/apache/flink)** - Processing framework with powerful stream- and batch-processing capabilities.
 * [Gearpump ★ 301 ⧗ 18](https://github.com/apache/incubator-gearpump) - Lightweight real-time big data streaming engine
 * [GridScale ★ 22 ⧗ 49](https://github.com/openmole/gridscale) - A Scala API for computing clusters and grids.
 * **[Kafka ★ 17841 ⧗ 0](https://github.com/apache/kafka)** - Kafka is a message broker project and aims to provide a unified, high-throughput, low-latency platform for handling real-time data feeds.
@@ -331,7 +331,7 @@ Projects with over 500 stargazers are in bold.
 * [DIStage ★ 410 ⧗ 0](https://github.com/pshirshov/izumi-r2) - Staged Dependency Injection with higher-kinded polymorphism.
 * [Grafter ★ 240 ⧗ 120](https://github.com/zalando/grafter) - Grafter is a library to configure and wire Scala applications.
 * **[MacWire ★ 1091 ⧗ 1](https://github.com/adamw/macwire)** - Scala Macro to generate wiring code for class instantiation. DI container replacement.
-* [Scala-Guice ★ 321 ⧗ 4](https://github.com/codingwell/scala-guice) - Scala extensions for Google Guice
+* [Scala-Guice ★ 321 ⧗ 5](https://github.com/codingwell/scala-guice) - Scala extensions for Google Guice
 * [Scaldi ★ 282 ⧗ 1](https://github.com/scaldi/scaldi) - Lightweight Scala Dependency Injection Library.
 * [SubCut ★ 392 ⧗ 1](https://github.com/dickwall/subcut) - Scala Uniquely Bound Classes Under Traits.
 
@@ -407,8 +407,8 @@ Projects with over 500 stargazers are in bold.
 * [Ostinato ★ 42 ⧗ 21](https://github.com/marianogappa/ostinato) - A chess library that runs on the server (Scala) and on the browser (ScalaJS)
 * [Play Swagger ★ 372 ⧗ 30](https://github.com/iheartradio/play-swagger) - Automatically create Swagger documentation for your Play REST API
 * [pprint ★ 124 ⧗ 55](https://github.com/lihaoyi/pprint) - Pretty-printer for Scala values and types for easier reading and debugging
-* **[Prisma ★ 7597 ⧗ 0](https://github.com/prisma/prisma)** - Prisma turns your database into a realtime GraphQL API 
-* **[PureConfig ★ 1082 ⧗ 0](https://github.com/melrief/pureconfig)** - A boilerplate-free Scala library for loading configuration files.
+* **[Prisma ★ 7598 ⧗ 0](https://github.com/prisma/prisma)** - Prisma turns your database into a realtime GraphQL API 
+* **[PureConfig ★ 1082 ⧗ 1](https://github.com/melrief/pureconfig)** - A boilerplate-free Scala library for loading configuration files.
 * [REPLesent ★ 405 ⧗ 34](https://github.com/marconilanna/REPLesent) - A presentation tool built inside the Scala REPL. Runs code straight from your slides with a single keystroke.
 * [scala-debugger ★ 100 ⧗ 194](https://github.com/ensime/scala-debugger) - Scala libraries and tooling utilizing the Java Debugger Interface.
 * [scala-ssh ★ 231 ⧗ 1](https://github.com/sirthias/scala-ssh) - Remote shell access via SSH for your Scala applications
@@ -421,7 +421,7 @@ Projects with over 500 stargazers are in bold.
 
 *Scala libraries and wrappers for Android development.*
 
-* **[Android SDK Plugin for SBT ★ 749 ⧗ 2](https://github.com/pfn/android-sdk-plugin)** - An sbt plugin that adds tasks for developing Android applications.
+* **[Android SDK Plugin for SBT ★ 749 ⧗ 3](https://github.com/pfn/android-sdk-plugin)** - An sbt plugin that adds tasks for developing Android applications.
 * [Gradle Android Scala Plugin ★ 344 ⧗ 149](https://github.com/saturday06/gradle-android-scala-plugin) - A gradle plugin that allows you to use Scala with Android
 * **[Macroid ★ 540 ⧗ 3](https://github.com/47deg/macroid)** - A modular functional UI language for Android.
 * **[Scaloid ★ 2104 ⧗ 15](https://github.com/pocorall/scaloid)** - Less painful Android development with Scala.
@@ -439,7 +439,7 @@ Projects with over 500 stargazers are in bold.
 * [lolhttp ★ 89 ⧗ 220](https://github.com/criteo/lolhttp) - An HTTP & HTTP/2 Server and Client library for Scala.
 * [RösHTTP ★ 122 ⧗ 50](https://github.com/hmil/RosHTTP) - A lightweight asynchronous HTTP API built with Scala.js in mind. Supports the JVM and Node.js runtimes as well as most browsers.
 * **[scalaj-http ★ 957 ⧗ 14](https://github.com/scalaj/scalaj-http)** - Simple scala wrapper for HttpURLConnection (including OAuth support).
-* [Scalaxb ★ 299 ⧗ 23](https://github.com/eed3si9n/scalaxb) - An XML data-binding tool for Scala that supports W3C XML Schema (xsd) and Web Services Description Language (wsdl) as the input file.
+* [Scalaxb ★ 299 ⧗ 24](https://github.com/eed3si9n/scalaxb) - An XML data-binding tool for Scala that supports W3C XML Schema (xsd) and Web Services Description Language (wsdl) as the input file.
 * [Spray](http://spray.io/) - Actor-based library for http interaction.
 * **[sttp ★ 1045 ⧗ 0](https://github.com/softwaremill/sttp)** - The Scala HTTP client you always wanted!
 
@@ -501,7 +501,7 @@ Projects with over 500 stargazers are in bold.
 
 *XML and HTML generation and processing*
 
-* **[scala-scraper ★ 619 ⧗ 0](https://github.com/ruippeixotog/scala-scraper)** - A library for scraping content from HTML pages.
+* **[scala-scraper ★ 619 ⧗ 1](https://github.com/ruippeixotog/scala-scraper)** - A library for scraping content from HTML pages.
 
 ## Markdown
 
