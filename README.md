@@ -166,7 +166,7 @@ Projects with over 500 stargazers are in bold.
 * [AWS Request Signer ★ 20 ⧗ 287](https://github.com/ticofab/aws-request-signer) - Helper to evaluate the signing headers for HTTP requests to Amazon Web Services.
 * [Play Google Auth Module ★ 33 ⧗ 13](https://github.com/guardian/play-googleauth) - A very simple implementation of Google OpenID Connect authentication for Play 2 applications.
 * [play-pac4j ★ 373 ⧗ 0](https://github.com/pac4j/play-pac4j) - Security library managing authentication (CAS, OAuth, OpenID, SAML, LDAP, SQL, JWT...), authorizations and logout for Play 2.x in Java and Scala.
-* **[play-silhouette ★ 824 ⧗ 9](https://github.com/mohiva/play-silhouette)** - Authentication library for Play Framework applications that supports several authentication methods, including OAuth1, OAuth2, OpenID, Credentials or custom authentication schemes.
+* **[play-silhouette ★ 825 ⧗ 0](https://github.com/mohiva/play-silhouette)** - Authentication library for Play Framework applications that supports several authentication methods, including OAuth1, OAuth2, OpenID, Credentials or custom authentication schemes.
 * **[play2-auth ★ 623 ⧗ 30](https://github.com/t2v/play2-auth)** - Play2.x Authentication and Authorization module.
 * **[scala-oauth2-provider ★ 517 ⧗ 1](https://github.com/nulab/scala-oauth2-provider)** - OAuth 2.0 server-side implementation written in Scala.
 * **[SecureSocial ★ 1195 ⧗ 43](https://github.com/jaliss/securesocial)** - A module that provides OAuth, OAuth2 and OpenID authentication for Play Framework applications.
