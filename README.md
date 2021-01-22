@@ -211,7 +211,7 @@ Projects with over 500 stargazers are in bold.
 * [diffson ★ 255 ⧗ 9](https://github.com/gnieh/diffson) - A scala diff/patch library for Json
 * [jackson-module-scala ★ 425 ⧗ 2](https://github.com/FasterXML/jackson-module-scala) - Add-on module for Jackson to support Scala-specific datatypes.
 * [jawn ★ 390 ⧗ 17](https://github.com/non/jawn) - Fast json parser (According to them, competetive with java gson/jackson speed).
-* **[json4s ★ 1336 ⧗ 0](https://github.com/json4s/json4s)** - Project aims to provide a single AST to be used by other scala json libraries.
+* **[json4s ★ 1336 ⧗ 1](https://github.com/json4s/json4s)** - Project aims to provide a single AST to be used by other scala json libraries.
 * [jsoniter-scala ★ 399 ⧗ 2](https://github.com/plokhotnyuk/jsoniter-scala) - Scala macros for compile-time generation of ultra-fast JSON codecs.
 * [play-json ★ 250 ⧗ 0](https://github.com/playframework/play-json) - Flexible and powerful JSON manipulation, validation and serialization, with no reflection at runtime.
 * [Pushka ★ 74 ⧗ 141](https://github.com/fomkin/pushka) - Scala JSON serialization library with annotations.
@@ -274,8 +274,8 @@ Projects with over 500 stargazers are in bold.
 * [Rings ★ 50 ⧗ 61](https://github.com/PoslavskySV/rings) - An efficient library for polynomial rings. Commutative algebra, polynomial GCDs, polynomial factorization and other sci things at a really high speed.
 * **[Saddle ★ 513 ⧗ 8](https://github.com/saddle/saddle)** - A minimalist port of Pandas to Scala
 * [Smile](http://haifengl.github.io/smile/) - Statistical Machine Intelligence and Learning Engine. Smile is a fast and comprehensive machine learning system.
-* **[Spark Notebook ★ 3001 ⧗ 0](https://github.com/andypetrella/spark-notebook)** - Scalable and stable Scala and Spark focused notebook bridging the gap between JVM and Data Scientists (incl. extendable, typesafe and reactive charts).
-* **[Spire ★ 1604 ⧗ 0](https://github.com/non/spire)** - Powerful new number types and numeric abstractions for Scala.
+* **[Spark Notebook ★ 3001 ⧗ 1](https://github.com/andypetrella/spark-notebook)** - Scalable and stable Scala and Spark focused notebook bridging the gap between JVM and Data Scientists (incl. extendable, typesafe and reactive charts).
+* **[Spire ★ 1605 ⧗ 0](https://github.com/non/spire)** - Powerful new number types and numeric abstractions for Scala.
 * **[Squants ★ 753 ⧗ 10](https://github.com/garyKeorkunian/squants)** - The Scala API for Quantities, Units of Measure and Dimensional Analysis.
 * [SwiftLearner ★ 38 ⧗ 74](https://github.com/valdanylchuk/swiftlearner) - Simply written algorithms to help study Machine Learning or write your own implementations.
 * **[Tensorflow_scala ★ 834 ⧗ 2](https://github.com/eaplatanios/tensorflow_scala)** - TensorFlow API for the Scala Programming Language
@@ -285,10 +285,10 @@ Projects with over 500 stargazers are in bold.
 ## Big Data
 
 * **[BIDMach ★ 908 ⧗ 13](https://github.com/BIDData/BIDMach)** - CPU and GPU machine learning library, using JNI for GPU computation.
-* **[Flink ★ 15307 ⧗ 0](https://github.com/apache/flink)** - Processing framework with powerful stream- and batch-processing capabilities.
+* **[Flink ★ 15308 ⧗ 0](https://github.com/apache/flink)** - Processing framework with powerful stream- and batch-processing capabilities.
 * [Gearpump ★ 301 ⧗ 18](https://github.com/apache/incubator-gearpump) - Lightweight real-time big data streaming engine
 * [GridScale ★ 22 ⧗ 50](https://github.com/openmole/gridscale) - A Scala API for computing clusters and grids.
-* **[Kafka ★ 17844 ⧗ 0](https://github.com/apache/kafka)** - Kafka is a message broker project and aims to provide a unified, high-throughput, low-latency platform for handling real-time data feeds.
+* **[Kafka ★ 17845 ⧗ 0](https://github.com/apache/kafka)** - Kafka is a message broker project and aims to provide a unified, high-throughput, low-latency platform for handling real-time data feeds.
 * **[Reactive-kafka ★ 1285 ⧗ 4](https://github.com/akka/reactive-kafka)** - Reactive Streams API for Apache Kafka.
 * **[Scalding ★ 3278 ⧗ 4](https://github.com/twitter/scalding)** - A Scala binding for the Cascading abstraction of Hadoop MapReduce.
 * [Schemer ★ 95 ⧗ 51](https://github.com/indix/schemer) - Schema registry for CSV, TSV, JSON, AVRO and Parquet schema. Supports schema inference and GraphQL API.
@@ -398,8 +398,8 @@ Projects with over 500 stargazers are in bold.
 * [ApiBuilder ★ 444 ⧗ 1](https://github.com/apicollective/apibuilder) - Simple, Comprehensive Tooling for Modern APIs 
 * **[BootZooka ★ 581 ⧗ 0](https://github.com/softwaremill/bootzooka)** - Simple project to quickly start developing a web application using AngularJS and Akka HTTP, without the need to write login, user registration etc.
 * **[Eclair ★ 881 ⧗ 1](https://github.com/ACINQ/eclair)** - ACINQ's Lightning Network implementation written in Scala.  Lightning Network is a second layer protocol built on top of bitcoin to address scalability, privacy, confirmation time and many other issues.
-* [Fansi ★ 173 ⧗ 9](https://github.com/lihaoyi/fansi) - Scala/Scala.js library for manipulating Fancy Ansi colored strings
-* [GoogleApiScala ★ 18 ⧗ 155](https://github.com/EckerdCollege/google-api-scala) - A simple scala library offering control of Google Drive, Calendar, and the Admin SDK.
+* [Fansi ★ 173 ⧗ 10](https://github.com/lihaoyi/fansi) - Scala/Scala.js library for manipulating Fancy Ansi colored strings
+* [GoogleApiScala ★ 18 ⧗ 156](https://github.com/EckerdCollege/google-api-scala) - A simple scala library offering control of Google Drive, Calendar, and the Admin SDK.
 * [mailgun4s ★ 14 ⧗ 46](https://github.com/outr/mailgun4s) - Scala wrapper around the Mailgun API
 * [media4s ★ 24 ⧗ 11](https://github.com/outr/media4s) - Scala command-line wrapper around ffmpeg, ffprobe, ImageMagick, and other tools relating to media.
 * [Miniboxing](https://github.com/miniboxing/miniboxing-plugin) - A Scala compiler plugin that improves program performance -- [see the project web site](http://scala-miniboxing.org) - Less boxes
@@ -407,7 +407,7 @@ Projects with over 500 stargazers are in bold.
 * [Ostinato ★ 42 ⧗ 22](https://github.com/marianogappa/ostinato) - A chess library that runs on the server (Scala) and on the browser (ScalaJS)
 * [Play Swagger ★ 372 ⧗ 31](https://github.com/iheartradio/play-swagger) - Automatically create Swagger documentation for your Play REST API
 * [pprint ★ 124 ⧗ 56](https://github.com/lihaoyi/pprint) - Pretty-printer for Scala values and types for easier reading and debugging
-* **[Prisma ★ 7616 ⧗ 0](https://github.com/prisma/prisma)** - Prisma turns your database into a realtime GraphQL API 
+* **[Prisma ★ 7617 ⧗ 0](https://github.com/prisma/prisma)** - Prisma turns your database into a realtime GraphQL API 
 * **[PureConfig ★ 1082 ⧗ 1](https://github.com/melrief/pureconfig)** - A boilerplate-free Scala library for loading configuration files.
 * [REPLesent ★ 405 ⧗ 35](https://github.com/marconilanna/REPLesent) - A presentation tool built inside the Scala REPL. Runs code straight from your slides with a single keystroke.
 * [scala-debugger ★ 100 ⧗ 194](https://github.com/ensime/scala-debugger) - Scala libraries and tooling utilizing the Java Debugger Interface.
@@ -423,7 +423,7 @@ Projects with over 500 stargazers are in bold.
 
 * **[Android SDK Plugin for SBT ★ 749 ⧗ 3](https://github.com/pfn/android-sdk-plugin)** - An sbt plugin that adds tasks for developing Android applications.
 * [Gradle Android Scala Plugin ★ 344 ⧗ 149](https://github.com/saturday06/gradle-android-scala-plugin) - A gradle plugin that allows you to use Scala with Android
-* **[Macroid ★ 540 ⧗ 3](https://github.com/47deg/macroid)** - A modular functional UI language for Android.
+* **[Macroid ★ 540 ⧗ 4](https://github.com/47deg/macroid)** - A modular functional UI language for Android.
 * **[Scaloid ★ 2104 ⧗ 15](https://github.com/pocorall/scaloid)** - Less painful Android development with Scala.
 
 ## HTTP
@@ -573,7 +573,7 @@ Projects with over 500 stargazers are in bold.
 * [Scalariform ★ 114 ⧗ 43](https://github.com/daniel-trinh/scalariform) - Scala source code formatter
 * **[Scalastyle ★ 678 ⧗ 3](https://github.com/scalastyle/scalastyle)** - Scala style checker.
 * [Scalatex ★ 285 ⧗ 49](https://github.com/lihaoyi/Scalatex) - Programmable, Typesafe Document Generation
-* [Scapegoat ★ 409 ⧗ 0](https://github.com/sksamuel/scapegoat) - Scala compiler plugin for static code analysis
+* [Scapegoat ★ 409 ⧗ 1](https://github.com/sksamuel/scapegoat) - Scala compiler plugin for static code analysis
 * [Scaps](http://scala-search.org/) ([repo](https://github.com/scala-search/scaps)) - A search engine for Scala libraries
 * [Scoverage](https://github.com/scoverage) - Scala Code Coverage tool
 * **[Wartremover ★ 944 ⧗ 6](https://github.com/puffnfresh/wartremover)** - Wartremover a flexible Scala code linting tool
