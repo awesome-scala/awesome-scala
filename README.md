@@ -96,7 +96,7 @@ Projects with over 500 stargazers are in bold.
 * **[scala-redis ★ 983 ⧗ 0](https://github.com/debasishg/scala-redis)** - A Scala library for connecting to a redis server, with clustering support
 * [scala-sql ★ 72 ⧗ 0](https://github.com/wangzaixiang/scala-sql) - Yet another SQL-based DB access library for scala language
 * [ScalaRelational ★ 55 ⧗ 195](https://github.com/outr/scalarelational) - Type-Safe framework for defining, modifying, and querying SQL databases.
-* **[ScalikeJDBC ★ 1132 ⧗ 0](https://github.com/scalikejdbc/scalikejdbc)** - A tidy SQL-based DB access library for Scala developers.
+* **[ScalikeJDBC ★ 1132 ⧗ 1](https://github.com/scalikejdbc/scalikejdbc)** - A tidy SQL-based DB access library for Scala developers.
 * [Scanamo ★ 276 ⧗ 0](https://github.com/guardian/scanamo) - A library to make using DynamoDB with Scala simpler and less error-prone.
 * [Shade ★ 107 ⧗ 17](https://github.com/alexandru/shade) - Memcached client for Scala, based on Spymemcached
 * **[Slick ★ 2412 ⧗ 1](https://github.com/slick/slick)** - Modern database query and access library for Scala.
@@ -121,7 +121,7 @@ Projects with over 500 stargazers are in bold.
 * [Analogweb ★ 11 ⧗ 57](https://github.com/analogweb/analogweb-scala) - Tiny, simple, and pluggable web framework in Scala.
 * [Chaos ★ 245 ⧗ 57](https://github.com/mesosphere/chaos) - A lightweight framework for writing REST services in Scala.
 * **[Colossus ★ 811 ⧗ 70](http://tumblr.github.io/colossus/)** - lightweight framework for building high-performance applications in Scala that require non-blocking network I/O.
-* **[Finatra ★ 2045 ⧗ 2](https://github.com/twitter/finatra)** - A sinatra-inspired web framework for scala, running on top of Finagle.
+* **[Finatra ★ 2046 ⧗ 0](https://github.com/twitter/finatra)** - A sinatra-inspired web framework for scala, running on top of Finagle.
 * **[Lift ★ 1222 ⧗ 1](https://github.com/lift/framework)** - Secure and powerful full stack web framework ([discussion](https://github.com/lauris/awesome-scala/pull/19)).
 * [peregine ★ 13 ⧗ 57](https://github.com/dvarelap/peregrine) - A simple and async lightweight Scala web framework.
 * **[Play ★ 11783 ⧗ 1](https://github.com/playframework/playframework)** - Makes it easy to build scalable, fast and real-time web applications with Java & Scala.
@@ -168,7 +168,7 @@ Projects with over 500 stargazers are in bold.
 * [play-pac4j ★ 373 ⧗ 0](https://github.com/pac4j/play-pac4j) - Security library managing authentication (CAS, OAuth, OpenID, SAML, LDAP, SQL, JWT...), authorizations and logout for Play 2.x in Java and Scala.
 * **[play-silhouette ★ 825 ⧗ 1](https://github.com/mohiva/play-silhouette)** - Authentication library for Play Framework applications that supports several authentication methods, including OAuth1, OAuth2, OpenID, Credentials or custom authentication schemes.
 * **[play2-auth ★ 623 ⧗ 31](https://github.com/t2v/play2-auth)** - Play2.x Authentication and Authorization module.
-* **[scala-oauth2-provider ★ 517 ⧗ 2](https://github.com/nulab/scala-oauth2-provider)** - OAuth 2.0 server-side implementation written in Scala.
+* **[scala-oauth2-provider ★ 517 ⧗ 3](https://github.com/nulab/scala-oauth2-provider)** - OAuth 2.0 server-side implementation written in Scala.
 * **[SecureSocial ★ 1195 ⧗ 44](https://github.com/jaliss/securesocial)** - A module that provides OAuth, OAuth2 and OpenID authentication for Play Framework applications.
 
 ## Authorization
@@ -466,7 +466,7 @@ Projects with over 500 stargazers are in bold.
 * [decline ★ 431 ⧗ 19](https://github.com/bkirwi/decline) - composable command-line parser for Scala, built on Cats
 * **[Fast Parse ★ 925 ⧗ 0](https://github.com/lihaoyi/fastparse)** - Fast to write, Fast running Parsers in Scala
 * **[Parboiled2 ★ 658 ⧗ 1](https://github.com/sirthias/parboiled2)** - A Fast Parser Generator for Scala 2.10.3+.
-* **[Scala Parser Combinators ★ 514 ⧗ 0](https://github.com/scala/scala-parser-combinators)** - Scala Standard Parser Combinator Library.
+* **[Scala Parser Combinators ★ 515 ⧗ 0](https://github.com/scala/scala-parser-combinators)** - Scala Standard Parser Combinator Library.
 * **[Scopt ★ 1257 ⧗ 1](https://github.com/scopt/scopt)** - Simple scala command line options parsing.
 
 ## Sbt plugins
@@ -592,7 +592,7 @@ Projects with over 500 stargazers are in bold.
 *DevOps related tools and libraries.*
 
 * [Orkestra ★ 104 ⧗ 60](https://github.com/Orkestra-Tech/orkestra) - Functional DevOps with Scala and Kubernetes
-* [Skuber ★ 282 ⧗ 3](https://github.com/doriordan/skuber) - Kubernetes client in Scala
+* [Skuber ★ 282 ⧗ 4](https://github.com/doriordan/skuber) - Kubernetes client in Scala
 
 # Resources
 
