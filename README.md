@@ -93,12 +93,12 @@ Projects with over 500 stargazers are in bold.
 * [Salat ★ 488 ⧗ 60](https://github.com/salat/salat/) - ORM for MongoDB. A related Play-plugin is also available.
 * [Scala ActiveRecord ★ 319 ⧗ 5](https://github.com/aselab/scala-activerecord) - ORM library for scala, inspired by ActiveRecord of Ruby on Rails.
 * [Scala-Forklift ★ 179 ⧗ 90](https://github.com/lastland/scala-forklift) - Type-safe database migration for Slick, Git, etc.
-* **[scala-redis ★ 983 ⧗ 0](https://github.com/debasishg/scala-redis)** - A Scala library for connecting to a redis server, with clustering support
+* **[scala-redis ★ 983 ⧗ 1](https://github.com/debasishg/scala-redis)** - A Scala library for connecting to a redis server, with clustering support
 * [scala-sql ★ 72 ⧗ 0](https://github.com/wangzaixiang/scala-sql) - Yet another SQL-based DB access library for scala language
 * [ScalaRelational ★ 55 ⧗ 195](https://github.com/outr/scalarelational) - Type-Safe framework for defining, modifying, and querying SQL databases.
 * **[ScalikeJDBC ★ 1132 ⧗ 1](https://github.com/scalikejdbc/scalikejdbc)** - A tidy SQL-based DB access library for Scala developers.
 * [Scanamo ★ 276 ⧗ 0](https://github.com/guardian/scanamo) - A library to make using DynamoDB with Scala simpler and less error-prone.
-* [Shade ★ 107 ⧗ 17](https://github.com/alexandru/shade) - Memcached client for Scala, based on Spymemcached
+* [Shade ★ 107 ⧗ 18](https://github.com/alexandru/shade) - Memcached client for Scala, based on Spymemcached
 * **[Slick ★ 2412 ⧗ 1](https://github.com/slick/slick)** - Modern database query and access library for Scala.
 * [Sorm ★ 238 ⧗ 66](https://github.com/sorm/sorm) - A functional boilerplate-free Scala ORM.
 * **[Squeryl ★ 551 ⧗ 4](https://github.com/squeryl/squeryl)** - A Scala DSL for talking with databases with minimum verbosity and maximum type safety.
@@ -164,7 +164,7 @@ Projects with over 500 stargazers are in bold.
 
 * [akka-http-session ★ 428 ⧗ 2](https://github.com/softwaremill/akka-http-session) - Web&mobile client-side sessions for akka-http based applications, with optional JWT support
 * [AWS Request Signer ★ 20 ⧗ 288](https://github.com/ticofab/aws-request-signer) - Helper to evaluate the signing headers for HTTP requests to Amazon Web Services.
-* [Play Google Auth Module ★ 33 ⧗ 14](https://github.com/guardian/play-googleauth) - A very simple implementation of Google OpenID Connect authentication for Play 2 applications.
+* [Play Google Auth Module ★ 33 ⧗ 15](https://github.com/guardian/play-googleauth) - A very simple implementation of Google OpenID Connect authentication for Play 2 applications.
 * [play-pac4j ★ 373 ⧗ 1](https://github.com/pac4j/play-pac4j) - Security library managing authentication (CAS, OAuth, OpenID, SAML, LDAP, SQL, JWT...), authorizations and logout for Play 2.x in Java and Scala.
 * **[play-silhouette ★ 825 ⧗ 1](https://github.com/mohiva/play-silhouette)** - Authentication library for Play Framework applications that supports several authentication methods, including OAuth1, OAuth2, OpenID, Credentials or custom authentication schemes.
 * **[play2-auth ★ 623 ⧗ 31](https://github.com/t2v/play2-auth)** - Play2.x Authentication and Authorization module.
@@ -191,13 +191,13 @@ Projects with over 500 stargazers are in bold.
 * [cornichon ★ 212 ⧗ 1](https://github.com/agourlay/cornichon) - Scala DSL for testing HTTP JSON API.
 * [Gatling](http://gatling.io) - Async Scala-Akka-Netty based Stress Tool.
 * [Minitest ★ 167 ⧗ 0](https://github.com/monix/minitest) - A testing framework with a focus on simplicity.
-* **[ScalaCheck ★ 1686 ⧗ 2](https://github.com/rickynils/scalacheck)** - Property-based testing for Scala.
+* **[ScalaCheck ★ 1686 ⧗ 0](https://github.com/rickynils/scalacheck)** - Property-based testing for Scala.
 * [ScalaMeter](https://scalameter.github.io/) - Performance &  memory footprint measuring, regression testing.
 * [ScalaMock](http://scalamock.org) - Scala native mocking framework
 * [scalaprops ★ 261 ⧗ 1](https://github.com/scalaprops/scalaprops) - Another property based testing library for Scala
 * **[ScalaTest ★ 937 ⧗ 3](https://github.com/scalatest/scalatest)** - A testing tool for Scala and Java developers.
 * [Scalive ★ 203 ⧗ 176](https://github.com/xitrum-framework/scalive) - Connect a Scala REPL to running JVM processes without any prior setup; this library is used for inspecting systems in production mode.
-* **[Specs2 ★ 690 ⧗ 1](https://github.com/etorreborre/specs2)** - Software Specifications for Scala.
+* **[Specs2 ★ 690 ⧗ 2](https://github.com/etorreborre/specs2)** - Software Specifications for Scala.
 * [Stryker4s ★ 107 ⧗ 1](https://github.com/stryker-mutator/stryker4s) - Test your tests with mutation testing.
 * [testcontainers-scala ★ 393 ⧗ 6](https://github.com/testcontainers/testcontainers-scala) - Docker containers for testing in Scala.
 * [µTest ★ 418 ⧗ 1](https://github.com/lihaoyi/utest) - A tiny, portable testing library for Scala.
@@ -262,7 +262,7 @@ Projects with over 500 stargazers are in bold.
 * [Chalk ★ 262 ⧗ 8](https://github.com/scalanlp/chalk) - Chalk is a natural language processing library.
 * [doddle-model ★ 142 ⧗ 70](https://github.com/picnicml/doddle-model) - An in-memory machine learning library built on top of Breeze. It provides immutable objects and exposes its functionality through a scikit-learn-like API.
 * **[FACTORIE ★ 556 ⧗ 40](https://github.com/factorie/factorie)** - A toolkit for deployable probabilistic modeling, implemented as a software library in Scala.
-* **[Figaro ★ 721 ⧗ 36](https://github.com/p2t2/figaro)** - Figaro is a probabilistic programming language that supports development of very rich probabilistic models.
+* **[Figaro ★ 721 ⧗ 37](https://github.com/p2t2/figaro)** - Figaro is a probabilistic programming language that supports development of very rich probabilistic models.
 * [Libra ★ 195 ⧗ 48](https://github.com/to-ithaca/libra) - Libra is a dimensional analysis library based on shapeless, spire and singleton-ops. It contains out of the box support for SI units for all numeric types.
 * [MGO ★ 62 ⧗ 17](https://github.com/openmole/mgo) - Modular multi-objective evolutionary algorithm optimization library enforcing immutability.
 * [MLLib](https://spark.apache.org/mllib/) - Machine Learning framework for Spark
@@ -328,7 +328,7 @@ Projects with over 500 stargazers are in bold.
 *Modularization of applications, dependency injection, etc.*
 
 * [Airframe ★ 436 ⧗ 0](https://github.com/wvlet/airframe) - Dependency injection library tailored to Scala.
-* [DIStage ★ 410 ⧗ 0](https://github.com/pshirshov/izumi-r2) - Staged Dependency Injection with higher-kinded polymorphism.
+* [DIStage ★ 410 ⧗ 1](https://github.com/pshirshov/izumi-r2) - Staged Dependency Injection with higher-kinded polymorphism.
 * [Grafter ★ 240 ⧗ 121](https://github.com/zalando/grafter) - Grafter is a library to configure and wire Scala applications.
 * **[MacWire ★ 1091 ⧗ 2](https://github.com/adamw/macwire)** - Scala Macro to generate wiring code for class instantiation. DI container replacement.
 * [Scala-Guice ★ 321 ⧗ 5](https://github.com/codingwell/scala-guice) - Scala extensions for Google Guice
@@ -364,12 +364,12 @@ Projects with over 500 stargazers are in bold.
 * **[Enumeratum ★ 995 ⧗ 4](https://github.com/lloydmeta/enumeratum)** - A macro to replace Scala enumerations with a sealed family of case objects. This allows additional checks for the compiler, e.g. for missing cases in a match statement. Has additinal support for Json libraries and the Play framework.
 * [Freasy-Monad ★ 112 ⧗ 80](https://github.com/Thangiee/Freasy-Monad) - Easy way to create Free Monad for Cats and Scalaz using Scala macros with first-class Intellij support.
 * **[Freestyle ★ 628 ⧗ 4](https://github.com/frees-io/freestyle)** - A cohesive & pragmatic framework of FP centric Scala libraries.
-* [Hamsters ★ 293 ⧗ 61](https://github.com/scala-hamsters/hamsters) - A mini Scala utility library. Compatible with functional programming beginners. Featuring validation, monad transformers, HLists, Union types.
+* [Hamsters ★ 293 ⧗ 62](https://github.com/scala-hamsters/hamsters) - A mini Scala utility library. Compatible with functional programming beginners. Featuring validation, monad transformers, HLists, Union types.
 * [idid ★ 14 ⧗ 227](https://github.com/lucastorri/idid) - A library to define common interfaces for different Id types.
 * [Lamma ★ 87 ⧗ 219](https://github.com/maxcellent/lamma) - A Scala date library for date and schedule generation.
 * [LArray ★ 367 ⧗ 7](https://github.com/xerial/larray) - Large off-heap arrays (> 2GB) and mmap files.
 * [Log4s](http://www.log4s.org/) - Fast, Scala-friendly logging bindings on top of [SLF4J](http://slf4j.org/). Uses macros for extreme performance.
-* [LogStage ★ 410 ⧗ 0](https://github.com/pshirshov/izumi-r2) - Zero-cost structural logger for Scala with [SLF4J] integration.
+* [LogStage ★ 410 ⧗ 1](https://github.com/pshirshov/izumi-r2) - Zero-cost structural logger for Scala with [SLF4J] integration.
 * **[Monocle ★ 1319 ⧗ 0](https://github.com/julien-truffaut/Monocle)** - An Optics/Lens library for purely functional manipulation of immutable objects.
 * **[n-scala ★ 829 ⧗ 3](https://github.com/nscala-time/nscala-time)** - Scala wrapper for Joda Time.
 * [Persist-Logging ★ 38 ⧗ 340](https://github.com/nestorpersist/logging) - Comprehensive logging library for Scala.
@@ -432,7 +432,7 @@ Projects with over 500 stargazers are in bold.
 
 * **[Akka HTTP ★ 1142 ⧗ 1](https://github.com/akka/akka-http)** - The Streaming-first HTTP server/module of [Akka](https://github.com/akka/akka).
 * [Dispatch ★ 436 ⧗ 11](https://github.com/dispatch/reboot) - Library for asynchronous HTTP interaction. It provides a Scala vocabulary for Java’s [async-http-client](https://github.com/AsyncHttpClient/async-http-client).
-* **[Finch.io ★ 1512 ⧗ 11](https://github.com/finagle/finch)** - Purely Functional REST API atop of [Finagle](https://github.com/twitter/finagle).
+* **[Finch.io ★ 1512 ⧗ 12](https://github.com/finagle/finch)** - Purely Functional REST API atop of [Finagle](https://github.com/twitter/finagle).
 * [Fintrospect ★ 37 ⧗ 0](http://fintrospect.io) - Implement fast, type-safe HTTP webservices for [Finagle](https://github.com/twitter/finagle).
 * **[Http4s ★ 1956 ⧗ 0](https://github.com/http4s/http4s)** - A minimal, idiomatic Scala interface for HTTP.
 * [jefe ★ 5 ⧗ 156](https://github.com/outr/jefe) - Manages installation, updating, downloading, launching, error reporting, proxying, multi-server management, and much more for your stand-alone and web applications.
@@ -480,7 +480,7 @@ Projects with over 500 stargazers are in bold.
 * **[sbt-docker ★ 684 ⧗ 0](https://github.com/marcuslonnberg/sbt-docker)** - Create Docker images directly from sbt
 * [sbt-doctest ★ 168 ⧗ 1](https://github.com/tkawachi/sbt-doctest) - Plugin for sbt that generates tests from examples in ScalaDoc.
 * [sbt-ensime ★ 244 ⧗ 8](https://github.com/ensime/ensime-sbt) - Generates .ensime config files for SBT projects [http://ensime.org/build_tools/sbt](http://ensime.org/build_tools/sbt)
-* [sbt-groll ★ 129 ⧗ 133](https://github.com/sbt/sbt-groll) - sbt plugin to roll the Git history.
+* [sbt-groll ★ 129 ⧗ 134](https://github.com/sbt/sbt-groll) - sbt plugin to roll the Git history.
 * [sbt-hepek ★ 16 ⧗ 309](https://github.com/sake92/sbt-hepek) - Make static websites in Scala code (render `object` to file!).
 * [sbt-ide-settings ★ 45 ⧗ 37](https://github.com/Jetbrains/sbt-ide-settings) - SBT plugin for tweaking various IDE settings
 * **[sbt-native-packager ★ 1413 ⧗ 4](https://github.com/sbt/sbt-native-packager)** - Bundle up Scala software for native packaging systems, like deb, rpm, homebrew, msi..
@@ -493,7 +493,7 @@ Projects with over 500 stargazers are in bold.
 * **[sbteclipse ★ 727 ⧗ 1](https://github.com/typesafehub/sbteclipse)** - Create Eclipse project definitions from sbt builds.
 * [scala-clippy ★ 311 ⧗ 23](https://github.com/softwaremill/scala-clippy) - Good advice and coloring for Scala compiler errors
 * [ScalaKata2 ★ 99 ⧗ 133](https://github.com/MasseGuillaume/ScalaKata2) - Scala playground & Documentation tool.
-* [splain ★ 350 ⧗ 29](https://github.com/tek/splain) - Better implicit errors for Scala.
+* [splain ★ 350 ⧗ 30](https://github.com/tek/splain) - Better implicit errors for Scala.
 * **[tut ★ 593 ⧗ 3](https://github.com/tpolecat/tut)** - Tool for writing documentation with typechecked examples.
 * [xsbt-web-plugin ★ 380 ⧗ 25](https://github.com/earldouglas/xsbt-web-plugin) - Build enterprise J2EE Web applications in Scala.
 
@@ -563,14 +563,14 @@ Projects with over 500 stargazers are in bold.
 * [Codacy](https://www.codacy.com/) - Automated Code Reviews for Scala
 * [fast-string-interpolator ★ 63 ⧗ 28](https://github.com/Sizmek/fast-string-interpolator) - Scala macro that generates ultra-fast string interpolators
 * [Fastring ★ 123 ⧗ 10](https://github.com/Atry/fastring) - Extremely fast string formatting
-* **[Gitbucket ★ 8250 ⧗ 0](https://github.com/gitbucket/gitbucket)** - The easily installable GitHub clone powered by Scala
+* **[Gitbucket ★ 8251 ⧗ 0](https://github.com/gitbucket/gitbucket)** - The easily installable GitHub clone powered by Scala
 * [Giter8](http://www.foundweekends.org/giter8/) - command line tool to generate files and directories from templates published on Github
 * [Hepek ★ 75 ⧗ 35](https://github.com/sake92/hepek) - Static content generator for developers. Intuitive, scalable, powerful. 
 * [Mill](http://www.lihaoyi.com/mill/) - A better Scala build tool
 * [sbt](http://www.scala-sbt.org/) ([repo](https://github.com/sbt/sbt)) - The interactive build tool for Scala
 * [Scala @LibHunt](https://scala.libhunt.com) - The go-to Scala Toolbox.
 * [scala-trace-debug ★ 110 ⧗ 66](https://github.com/JohnReedLOL/scala-trace-debug) - Multithreaded print debug tool
-* [Scalariform ★ 114 ⧗ 43](https://github.com/daniel-trinh/scalariform) - Scala source code formatter
+* [Scalariform ★ 114 ⧗ 44](https://github.com/daniel-trinh/scalariform) - Scala source code formatter
 * **[Scalastyle ★ 678 ⧗ 3](https://github.com/scalastyle/scalastyle)** - Scala style checker.
 * [Scalatex ★ 285 ⧗ 50](https://github.com/lihaoyi/Scalatex) - Programmable, Typesafe Document Generation
 * [Scapegoat ★ 409 ⧗ 1](https://github.com/sksamuel/scapegoat) - Scala compiler plugin for static code analysis
@@ -585,7 +585,7 @@ Projects with over 500 stargazers are in bold.
 * **[Geotrellis ★ 1114 ⧗ 1](https://github.com/locationtech/geotrellis)** - Scalable raster toolkit for GIS processing
 * [osm4scala ★ 46 ⧗ 45](https://github.com/angelcervera/osm4scala) - OpenStreetMap PBF2 file parser
 * [rtree2d ★ 91 ⧗ 7](https://github.com/Sizmek/rtree2d) - RTree2D is a 2D immutable R-tree with STR (Sort-Tile-Recursive) packing for ultra-fast nearest and intersection queries on plane and spherical surfaces
-* [sfcurve ★ 63 ⧗ 37](https://github.com/locationtech/sfcurve) - Space filling curves in Scala for geospatial indexing and query
+* [sfcurve ★ 63 ⧗ 38](https://github.com/locationtech/sfcurve) - Space filling curves in Scala for geospatial indexing and query
 
 ## Devops
 
