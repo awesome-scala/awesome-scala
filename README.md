@@ -194,7 +194,7 @@ Projects with over 500 stargazers are in bold.
 * **[ScalaCheck ★ 1686 ⧗ 2](https://github.com/rickynils/scalacheck)** - Property-based testing for Scala.
 * [ScalaMeter](https://scalameter.github.io/) - Performance &  memory footprint measuring, regression testing.
 * [ScalaMock](http://scalamock.org) - Scala native mocking framework
-* [scalaprops ★ 261 ⧗ 0](https://github.com/scalaprops/scalaprops) - Another property based testing library for Scala
+* [scalaprops ★ 261 ⧗ 1](https://github.com/scalaprops/scalaprops) - Another property based testing library for Scala
 * **[ScalaTest ★ 937 ⧗ 3](https://github.com/scalatest/scalatest)** - A testing tool for Scala and Java developers.
 * [Scalive ★ 203 ⧗ 176](https://github.com/xitrum-framework/scalive) - Connect a Scala REPL to running JVM processes without any prior setup; this library is used for inspecting systems in production mode.
 * **[Specs2 ★ 690 ⧗ 1](https://github.com/etorreborre/specs2)** - Software Specifications for Scala.
@@ -288,7 +288,7 @@ Projects with over 500 stargazers are in bold.
 * **[Flink ★ 15314 ⧗ 0](https://github.com/apache/flink)** - Processing framework with powerful stream- and batch-processing capabilities.
 * [Gearpump ★ 301 ⧗ 19](https://github.com/apache/incubator-gearpump) - Lightweight real-time big data streaming engine
 * [GridScale ★ 22 ⧗ 50](https://github.com/openmole/gridscale) - A Scala API for computing clusters and grids.
-* **[Kafka ★ 17850 ⧗ 0](https://github.com/apache/kafka)** - Kafka is a message broker project and aims to provide a unified, high-throughput, low-latency platform for handling real-time data feeds.
+* **[Kafka ★ 17852 ⧗ 0](https://github.com/apache/kafka)** - Kafka is a message broker project and aims to provide a unified, high-throughput, low-latency platform for handling real-time data feeds.
 * **[Reactive-kafka ★ 1285 ⧗ 4](https://github.com/akka/reactive-kafka)** - Reactive Streams API for Apache Kafka.
 * **[Scalding ★ 3278 ⧗ 5](https://github.com/twitter/scalding)** - A Scala binding for the Cascading abstraction of Hadoop MapReduce.
 * [Schemer ★ 95 ⧗ 51](https://github.com/indix/schemer) - Schema registry for CSV, TSV, JSON, AVRO and Parquet schema. Supports schema inference and GraphQL API.
@@ -305,7 +305,7 @@ Projects with over 500 stargazers are in bold.
 
 *2D and 3D image processing and image analysis*
 
-* [scalismo ★ 181 ⧗ 5](https://github.com/unibas-gravis/scalismo) - Shape modelling and  model-based image analysis.
+* [scalismo ★ 181 ⧗ 6](https://github.com/unibas-gravis/scalismo) - Shape modelling and  model-based image analysis.
 * **[scrimage ★ 782 ⧗ 0](https://github.com/sksamuel/scrimage)** - Image io, resize, manipulation and thumbnails.
 
 ## Sound processing and music
@@ -372,7 +372,7 @@ Projects with over 500 stargazers are in bold.
 * [LogStage ★ 410 ⧗ 0](https://github.com/pshirshov/izumi-r2) - Zero-cost structural logger for Scala with [SLF4J] integration.
 * **[Monocle ★ 1319 ⧗ 0](https://github.com/julien-truffaut/Monocle)** - An Optics/Lens library for purely functional manipulation of immutable objects.
 * **[n-scala ★ 829 ⧗ 3](https://github.com/nscala-time/nscala-time)** - Scala wrapper for Joda Time.
-* [Persist-Logging ★ 38 ⧗ 339](https://github.com/nestorpersist/logging) - Comprehensive logging library for Scala.
+* [Persist-Logging ★ 38 ⧗ 340](https://github.com/nestorpersist/logging) - Comprehensive logging library for Scala.
 * **[Quicklens ★ 634 ⧗ 4](https://github.com/adamw/quicklens)** - modify deeply nested case class fields with an elegant API
 * [Rapture](http://rapture.io/) ([repo](https://github.com/propensive/rapture)) - a collection of libraries for common, everyday programming tasks (I/O, JSON, i18n, etc.)
 * [Records for Scala ★ 159 ⧗ 92](https://github.com/scala-records/scala-records) - Labeled records for Scala based on structural refinement types and macros.
@@ -407,11 +407,11 @@ Projects with over 500 stargazers are in bold.
 * [Ostinato ★ 42 ⧗ 22](https://github.com/marianogappa/ostinato) - A chess library that runs on the server (Scala) and on the browser (ScalaJS)
 * [Play Swagger ★ 372 ⧗ 31](https://github.com/iheartradio/play-swagger) - Automatically create Swagger documentation for your Play REST API
 * [pprint ★ 124 ⧗ 56](https://github.com/lihaoyi/pprint) - Pretty-printer for Scala values and types for easier reading and debugging
-* **[Prisma ★ 7620 ⧗ 0](https://github.com/prisma/prisma)** - Prisma turns your database into a realtime GraphQL API 
+* **[Prisma ★ 7623 ⧗ 0](https://github.com/prisma/prisma)** - Prisma turns your database into a realtime GraphQL API 
 * **[PureConfig ★ 1082 ⧗ 1](https://github.com/melrief/pureconfig)** - A boilerplate-free Scala library for loading configuration files.
 * [REPLesent ★ 405 ⧗ 35](https://github.com/marconilanna/REPLesent) - A presentation tool built inside the Scala REPL. Runs code straight from your slides with a single keystroke.
 * [scala-debugger ★ 100 ⧗ 195](https://github.com/ensime/scala-debugger) - Scala libraries and tooling utilizing the Java Debugger Interface.
-* [scala-ssh ★ 231 ⧗ 1](https://github.com/sirthias/scala-ssh) - Remote shell access via SSH for your Scala applications
+* [scala-ssh ★ 231 ⧗ 2](https://github.com/sirthias/scala-ssh) - Remote shell access via SSH for your Scala applications
 * [Scalan ★ 94 ⧗ 11](https://github.com/scalan/scalan) - A framework for development of domain-specific compilers in Scala
 * [ScalaSTM](https://nbronson.github.io/scala-stm/) - Software Transaction Memory for Scala
 * [Scavenger](https://gitlab.com/aossie/Scavenger) - An experimental automated theorem prover.
@@ -424,7 +424,7 @@ Projects with over 500 stargazers are in bold.
 * **[Android SDK Plugin for SBT ★ 749 ⧗ 3](https://github.com/pfn/android-sdk-plugin)** - An sbt plugin that adds tasks for developing Android applications.
 * [Gradle Android Scala Plugin ★ 344 ⧗ 149](https://github.com/saturday06/gradle-android-scala-plugin) - A gradle plugin that allows you to use Scala with Android
 * **[Macroid ★ 540 ⧗ 4](https://github.com/47deg/macroid)** - A modular functional UI language for Android.
-* **[Scaloid ★ 2104 ⧗ 15](https://github.com/pocorall/scaloid)** - Less painful Android development with Scala.
+* **[Scaloid ★ 2104 ⧗ 16](https://github.com/pocorall/scaloid)** - Less painful Android development with Scala.
 
 ## HTTP
 
@@ -441,7 +441,7 @@ Projects with over 500 stargazers are in bold.
 * **[scalaj-http ★ 957 ⧗ 15](https://github.com/scalaj/scalaj-http)** - Simple scala wrapper for HttpURLConnection (including OAuth support).
 * [Scalaxb ★ 299 ⧗ 24](https://github.com/eed3si9n/scalaxb) - An XML data-binding tool for Scala that supports W3C XML Schema (xsd) and Web Services Description Language (wsdl) as the input file.
 * [Spray](http://spray.io/) - Actor-based library for http interaction.
-* **[sttp ★ 1045 ⧗ 0](https://github.com/softwaremill/sttp)** - The Scala HTTP client you always wanted!
+* **[sttp ★ 1046 ⧗ 0](https://github.com/softwaremill/sttp)** - The Scala HTTP client you always wanted!
 
 ## Semantic Web
 
@@ -485,7 +485,7 @@ Projects with over 500 stargazers are in bold.
 * [sbt-ide-settings ★ 45 ⧗ 37](https://github.com/Jetbrains/sbt-ide-settings) - SBT plugin for tweaking various IDE settings
 * **[sbt-native-packager ★ 1413 ⧗ 4](https://github.com/sbt/sbt-native-packager)** - Bundle up Scala software for native packaging systems, like deb, rpm, homebrew, msi..
 * [sbt-pack ★ 437 ⧗ 7](https://github.com/xerial/sbt-pack) - A sbt plugin for creating distributable Scala packages.
-* **[sbt-revolver ★ 761 ⧗ 1](https://github.com/spray/sbt-revolver)** - Fork & Stop processes from sbt.
+* **[sbt-revolver ★ 761 ⧗ 2](https://github.com/spray/sbt-revolver)** - Fork & Stop processes from sbt.
 * [sbt-robovm ★ 108 ⧗ 125](https://github.com/roboscala/sbt-robovm) - An sbt plugin for iOS development in Scala
 * [sbt-scala-js-map ★ 26 ⧗ 91](https://github.com/ThoughtWorksInc/sbt-scala-js-map) - A sbt plugin that configures source mapping for Scala.js projects hosted on Github
 * [sbt-sublime ★ 139 ⧗ 215](https://github.com/orrsella/sbt-sublime) - Create Sublime Text projects with library dependencies sources
@@ -583,7 +583,7 @@ Projects with over 500 stargazers are in bold.
 *Libraries to aid with geospatial calculations and artifacts.*
 
 * **[Geotrellis ★ 1114 ⧗ 0](https://github.com/locationtech/geotrellis)** - Scalable raster toolkit for GIS processing
-* [osm4scala ★ 46 ⧗ 44](https://github.com/angelcervera/osm4scala) - OpenStreetMap PBF2 file parser
+* [osm4scala ★ 46 ⧗ 45](https://github.com/angelcervera/osm4scala) - OpenStreetMap PBF2 file parser
 * [rtree2d ★ 91 ⧗ 7](https://github.com/Sizmek/rtree2d) - RTree2D is a 2D immutable R-tree with STR (Sort-Tile-Recursive) packing for ultra-fast nearest and intersection queries on plane and spherical surfaces
 * [sfcurve ★ 63 ⧗ 37](https://github.com/locationtech/sfcurve) - Space filling curves in Scala for geospatial indexing and query
 
