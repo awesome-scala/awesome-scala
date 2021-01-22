@@ -95,7 +95,7 @@ Projects with over 500 stargazers are in bold.
 * [Scala-Forklift ★ 179 ⧗ 90](https://github.com/lastland/scala-forklift) - Type-safe database migration for Slick, Git, etc.
 * **[scala-redis ★ 983 ⧗ 1](https://github.com/debasishg/scala-redis)** - A Scala library for connecting to a redis server, with clustering support
 * [scala-sql ★ 72 ⧗ 0](https://github.com/wangzaixiang/scala-sql) - Yet another SQL-based DB access library for scala language
-* [ScalaRelational ★ 55 ⧗ 195](https://github.com/outr/scalarelational) - Type-Safe framework for defining, modifying, and querying SQL databases.
+* [ScalaRelational ★ 55 ⧗ 196](https://github.com/outr/scalarelational) - Type-Safe framework for defining, modifying, and querying SQL databases.
 * **[ScalikeJDBC ★ 1132 ⧗ 1](https://github.com/scalikejdbc/scalikejdbc)** - A tidy SQL-based DB access library for Scala developers.
 * [Scanamo ★ 276 ⧗ 0](https://github.com/guardian/scanamo) - A library to make using DynamoDB with Scala simpler and less error-prone.
 * [Shade ★ 107 ⧗ 18](https://github.com/alexandru/shade) - Memcached client for Scala, based on Spymemcached
@@ -163,7 +163,7 @@ Projects with over 500 stargazers are in bold.
 *Libraries for implementing authentications schemes.*
 
 * [akka-http-session ★ 428 ⧗ 2](https://github.com/softwaremill/akka-http-session) - Web&mobile client-side sessions for akka-http based applications, with optional JWT support
-* [AWS Request Signer ★ 20 ⧗ 288](https://github.com/ticofab/aws-request-signer) - Helper to evaluate the signing headers for HTTP requests to Amazon Web Services.
+* [AWS Request Signer ★ 20 ⧗ 289](https://github.com/ticofab/aws-request-signer) - Helper to evaluate the signing headers for HTTP requests to Amazon Web Services.
 * [Play Google Auth Module ★ 33 ⧗ 15](https://github.com/guardian/play-googleauth) - A very simple implementation of Google OpenID Connect authentication for Play 2 applications.
 * [play-pac4j ★ 373 ⧗ 1](https://github.com/pac4j/play-pac4j) - Security library managing authentication (CAS, OAuth, OpenID, SAML, LDAP, SQL, JWT...), authorizations and logout for Play 2.x in Java and Scala.
 * **[play-silhouette ★ 825 ⧗ 1](https://github.com/mohiva/play-silhouette)** - Authentication library for Play Framework applications that supports several authentication methods, including OAuth1, OAuth2, OpenID, Credentials or custom authentication schemes.
@@ -198,7 +198,7 @@ Projects with over 500 stargazers are in bold.
 * **[ScalaTest ★ 937 ⧗ 3](https://github.com/scalatest/scalatest)** - A testing tool for Scala and Java developers.
 * [Scalive ★ 203 ⧗ 176](https://github.com/xitrum-framework/scalive) - Connect a Scala REPL to running JVM processes without any prior setup; this library is used for inspecting systems in production mode.
 * **[Specs2 ★ 690 ⧗ 2](https://github.com/etorreborre/specs2)** - Software Specifications for Scala.
-* [Stryker4s ★ 107 ⧗ 1](https://github.com/stryker-mutator/stryker4s) - Test your tests with mutation testing.
+* [Stryker4s ★ 107 ⧗ 2](https://github.com/stryker-mutator/stryker4s) - Test your tests with mutation testing.
 * [testcontainers-scala ★ 393 ⧗ 6](https://github.com/testcontainers/testcontainers-scala) - Docker containers for testing in Scala.
 * [µTest ★ 418 ⧗ 1](https://github.com/lihaoyi/utest) - A tiny, portable testing library for Scala.
 
@@ -357,7 +357,7 @@ Projects with over 500 stargazers are in bold.
 * **[Cassovary ★ 994 ⧗ 3](https://github.com/twitter/cassovary)** - A Scala library that is designed from the ground up for space efficiency, handling graphs with billions of nodes and edges.
 * **[cats ★ 4194 ⧗ 0](https://github.com/typelevel/cats)** - Lightweight, modular, and extensible library for functional programming.
 * **[Chimney ★ 713 ⧗ 1](https://github.com/scalalandio/chimney)** - Scala library for boilerplate-free data transformations.
-* [chronoscala ★ 61 ⧗ 44](https://github.com/opt-tech/chronoscala) - Scala wrapper for Java Date/Time API.
+* [chronoscala ★ 61 ⧗ 45](https://github.com/opt-tech/chronoscala) - Scala wrapper for Java Date/Time API.
 * [Each ★ 239 ⧗ 4](https://github.com/ThoughtWorksInc/each) - A macro library that converts native imperative syntax to [Scalaz](https://github.com/scalaz/scalaz)'s monadic expressions.
 * [Eff ★ 472 ⧗ 1](https://github.com/atnos-org/eff) - Extensible effects are an alternative to monad transformers for computing with effects in a functional way.
 * [enableIf.scala ★ 57 ⧗ 51](https://github.com/ThoughtWorksInc/enableIf.scala) - A library that switches Scala code at compile-time, like `#if` in C/C++.
@@ -376,7 +376,7 @@ Projects with over 500 stargazers are in bold.
 * **[Quicklens ★ 634 ⧗ 4](https://github.com/adamw/quicklens)** - modify deeply nested case class fields with an elegant API
 * [Rapture](http://rapture.io/) ([repo](https://github.com/propensive/rapture)) - a collection of libraries for common, everyday programming tasks (I/O, JSON, i18n, etc.)
 * [Records for Scala ★ 159 ⧗ 92](https://github.com/scala-records/scala-records) - Labeled records for Scala based on structural refinement types and macros.
-* **[refined ★ 1288 ⧗ 0](https://github.com/fthomas/refined)** - Simple refinement types with compile- and runtime checking
+* **[refined ★ 1289 ⧗ 0](https://github.com/fthomas/refined)** - Simple refinement types with compile- and runtime checking
 * **[Scala Async ★ 1075 ⧗ 0](https://github.com/scala/async)** - An asynchronous programming facility for Scala.
 * [Scala Graph](http://www.scala-graph.org/) - A Scala library with basic graph functionality that seamlessly fits into the Scala standard collections library.
 * [scala.meta](http://scalameta.org/) - A clean-room implementation of a metaprogramming toolkit for Scala.
@@ -407,7 +407,7 @@ Projects with over 500 stargazers are in bold.
 * [Ostinato ★ 42 ⧗ 22](https://github.com/marianogappa/ostinato) - A chess library that runs on the server (Scala) and on the browser (ScalaJS)
 * [Play Swagger ★ 372 ⧗ 31](https://github.com/iheartradio/play-swagger) - Automatically create Swagger documentation for your Play REST API
 * [pprint ★ 124 ⧗ 56](https://github.com/lihaoyi/pprint) - Pretty-printer for Scala values and types for easier reading and debugging
-* **[Prisma ★ 7625 ⧗ 0](https://github.com/prisma/prisma)** - Prisma turns your database into a realtime GraphQL API 
+* **[Prisma ★ 7626 ⧗ 0](https://github.com/prisma/prisma)** - Prisma turns your database into a realtime GraphQL API 
 * **[PureConfig ★ 1082 ⧗ 0](https://github.com/melrief/pureconfig)** - A boilerplate-free Scala library for loading configuration files.
 * [REPLesent ★ 405 ⧗ 35](https://github.com/marconilanna/REPLesent) - A presentation tool built inside the Scala REPL. Runs code straight from your slides with a single keystroke.
 * [scala-debugger ★ 100 ⧗ 195](https://github.com/ensime/scala-debugger) - Scala libraries and tooling utilizing the Java Debugger Interface.
@@ -464,7 +464,7 @@ Projects with over 500 stargazers are in bold.
 * [atto ★ 338 ⧗ 6](https://github.com/tpolecat/atto) - Pure functional incremental text parsing library for Scala, based on Attoparsec.
 * [CLIST ★ 100 ⧗ 84](https://github.com/backuity/clist) - Command Line Interface Scala Toolkit
 * [decline ★ 432 ⧗ 0](https://github.com/bkirwi/decline) - composable command-line parser for Scala, built on Cats
-* **[Fast Parse ★ 925 ⧗ 0](https://github.com/lihaoyi/fastparse)** - Fast to write, Fast running Parsers in Scala
+* **[Fast Parse ★ 925 ⧗ 1](https://github.com/lihaoyi/fastparse)** - Fast to write, Fast running Parsers in Scala
 * **[Parboiled2 ★ 658 ⧗ 1](https://github.com/sirthias/parboiled2)** - A Fast Parser Generator for Scala 2.10.3+.
 * **[Scala Parser Combinators ★ 515 ⧗ 0](https://github.com/scala/scala-parser-combinators)** - Scala Standard Parser Combinator Library.
 * **[Scopt ★ 1258 ⧗ 0](https://github.com/scopt/scopt)** - Simple scala command line options parsing.
@@ -561,7 +561,7 @@ Projects with over 500 stargazers are in bold.
 * [Scalafix]https://github.com/scalacenter/scalafix) - Refactoring and linting tool
 
 * [Codacy](https://www.codacy.com/) - Automated Code Reviews for Scala
-* [fast-string-interpolator ★ 63 ⧗ 28](https://github.com/Sizmek/fast-string-interpolator) - Scala macro that generates ultra-fast string interpolators
+* [fast-string-interpolator ★ 63 ⧗ 29](https://github.com/Sizmek/fast-string-interpolator) - Scala macro that generates ultra-fast string interpolators
 * [Fastring ★ 123 ⧗ 10](https://github.com/Atry/fastring) - Extremely fast string formatting
 * **[Gitbucket ★ 8251 ⧗ 0](https://github.com/gitbucket/gitbucket)** - The easily installable GitHub clone powered by Scala
 * [Giter8](http://www.foundweekends.org/giter8/) - command line tool to generate files and directories from templates published on Github
