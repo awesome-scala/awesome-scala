@@ -99,7 +99,7 @@ Projects with over 500 stargazers are in bold.
 * **[ScalikeJDBC ★ 1132 ⧗ 0](https://github.com/scalikejdbc/scalikejdbc)** - A tidy SQL-based DB access library for Scala developers.
 * [Scanamo ★ 276 ⧗ 0](https://github.com/guardian/scanamo) - A library to make using DynamoDB with Scala simpler and less error-prone.
 * [Shade ★ 107 ⧗ 17](https://github.com/alexandru/shade) - Memcached client for Scala, based on Spymemcached
-* **[Slick ★ 2412 ⧗ 0](https://github.com/slick/slick)** - Modern database query and access library for Scala.
+* **[Slick ★ 2412 ⧗ 1](https://github.com/slick/slick)** - Modern database query and access library for Scala.
 * [Sorm ★ 238 ⧗ 66](https://github.com/sorm/sorm) - A functional boilerplate-free Scala ORM.
 * **[Squeryl ★ 551 ⧗ 4](https://github.com/squeryl/squeryl)** - A Scala DSL for talking with databases with minimum verbosity and maximum type safety.
 * [Tepkin ★ 82 ⧗ 91](https://github.com/fehmicansaglam/tepkin) - Reactive MongoDB Driver for Scala built on top of Akka IO and Akka Streams.
@@ -148,7 +148,7 @@ Projects with over 500 stargazers are in bold.
 
 *Scala libraries for data binding and validation*
 
-* **[Accord ★ 516 ⧗ 3](https://github.com/wix/accord)** - A sane validation library for Scala
+* **[Accord ★ 516 ⧗ 4](https://github.com/wix/accord)** - A sane validation library for Scala
 * [Monkeytail ★ 87 ⧗ 91](https://github.com/sksamuel/monkeytail) - A set of validation macros and helpers for cats.Validated
 * [Octopus ★ 136 ⧗ 54](https://github.com/krzemin/octopus) - Scala library for boilerplate-free validation
 
@@ -182,7 +182,7 @@ Projects with over 500 stargazers are in bold.
 *Cryptography and Encryption Libraries.*
 
 * [Scrypto ★ 172 ⧗ 13](https://github.com/ScorexProject/scrypto) - All-purpose cryptographic framework.
-* [TSec ★ 333 ⧗ 7](https://github.com/jmcardon/tsec) - Type-safe, functional, general-cryptography library
+* [TSec ★ 333 ⧗ 8](https://github.com/jmcardon/tsec) - Type-safe, functional, general-cryptography library
 
 ## Testing
 
@@ -196,7 +196,7 @@ Projects with over 500 stargazers are in bold.
 * [ScalaMock](http://scalamock.org) - Scala native mocking framework
 * [scalaprops ★ 261 ⧗ 0](https://github.com/scalaprops/scalaprops) - Another property based testing library for Scala
 * **[ScalaTest ★ 937 ⧗ 3](https://github.com/scalatest/scalatest)** - A testing tool for Scala and Java developers.
-* [Scalive ★ 203 ⧗ 175](https://github.com/xitrum-framework/scalive) - Connect a Scala REPL to running JVM processes without any prior setup; this library is used for inspecting systems in production mode.
+* [Scalive ★ 203 ⧗ 176](https://github.com/xitrum-framework/scalive) - Connect a Scala REPL to running JVM processes without any prior setup; this library is used for inspecting systems in production mode.
 * **[Specs2 ★ 690 ⧗ 1](https://github.com/etorreborre/specs2)** - Software Specifications for Scala.
 * [Stryker4s ★ 107 ⧗ 1](https://github.com/stryker-mutator/stryker4s) - Test your tests with mutation testing.
 * [testcontainers-scala ★ 393 ⧗ 6](https://github.com/testcontainers/testcontainers-scala) - Docker containers for testing in Scala.
@@ -243,10 +243,10 @@ Projects with over 500 stargazers are in bold.
 * [avro-codegen](https://github.com/Nitro/avro-codegen) - Code generation from avro schemas to serialize/deserialize avro messages, no runtime reflection.
 * **[Chill ★ 558 ⧗ 5](https://github.com/twitter/chill)** - Extensions for the Kryo serialization library to ease configuration in systems like Hadoop and Storm.
 * [msgpack ★ 90 ⧗ 106](https://github.com/msgpack/msgpack-scala) - A efficient binary serialization library.
-* **[Pickling ★ 852 ⧗ 4](https://github.com/scala/pickling)** - Fast, customizable, boilerplate-free pickling support.
+* **[Pickling ★ 852 ⧗ 5](https://github.com/scala/pickling)** - Fast, customizable, boilerplate-free pickling support.
 * [ScalaBuff ★ 222 ⧗ 214](https://github.com/SandroGrzicic/ScalaBuff) - a Scala Protocol Buffers (protobuf) compiler
 * **[ScalaPB ★ 705 ⧗ 51](https://scalapb.github.io/)** - Protocol Buffers and gRPC support for Scala
-* **[scodec ★ 708 ⧗ 4](https://github.com/scodec/scodec)** - A combinator library for working with binary data.
+* **[scodec ★ 708 ⧗ 5](https://github.com/scodec/scodec)** - A combinator library for working with binary data.
 * [Scrooge](http://twitter.github.io/scrooge/) - An Apache Thrift code generator for Scala.
 * [validation ★ 195 ⧗ 43](https://github.com/jto/validation) - Advanced validation & serialization for JSON, HTML form data, etc, with no reflection at runtime.
 * [µPickle](http://lihaoyi.github.io/upickle/) - A lightweight serialization library for Scala that works in ScalaJS, allowing transfer of structured data between the JVM and JavaScript.
@@ -290,7 +290,7 @@ Projects with over 500 stargazers are in bold.
 * [GridScale ★ 22 ⧗ 50](https://github.com/openmole/gridscale) - A Scala API for computing clusters and grids.
 * **[Kafka ★ 17847 ⧗ 0](https://github.com/apache/kafka)** - Kafka is a message broker project and aims to provide a unified, high-throughput, low-latency platform for handling real-time data feeds.
 * **[Reactive-kafka ★ 1285 ⧗ 4](https://github.com/akka/reactive-kafka)** - Reactive Streams API for Apache Kafka.
-* **[Scalding ★ 3278 ⧗ 4](https://github.com/twitter/scalding)** - A Scala binding for the Cascading abstraction of Hadoop MapReduce.
+* **[Scalding ★ 3278 ⧗ 5](https://github.com/twitter/scalding)** - A Scala binding for the Cascading abstraction of Hadoop MapReduce.
 * [Schemer ★ 95 ⧗ 51](https://github.com/indix/schemer) - Schema registry for CSV, TSV, JSON, AVRO and Parquet schema. Supports schema inference and GraphQL API.
 * [Scio](https://github.com/spotify/scio) - A Scala API for [Apache Beam](https://beam.apache.org/) and [Google Cloud Dataflow](https://cloud.google.com/dataflow/) - None
 * [Scrunch](http://crunch.apache.org/scrunch.html) - A Scala wrapper for [Apache Crunch](http://crunch.apache.org/index.html) which provides a framework for writing, testing, and running MapReduce pipelines.
@@ -407,7 +407,7 @@ Projects with over 500 stargazers are in bold.
 * [Ostinato ★ 42 ⧗ 22](https://github.com/marianogappa/ostinato) - A chess library that runs on the server (Scala) and on the browser (ScalaJS)
 * [Play Swagger ★ 372 ⧗ 31](https://github.com/iheartradio/play-swagger) - Automatically create Swagger documentation for your Play REST API
 * [pprint ★ 124 ⧗ 56](https://github.com/lihaoyi/pprint) - Pretty-printer for Scala values and types for easier reading and debugging
-* **[Prisma ★ 7617 ⧗ 0](https://github.com/prisma/prisma)** - Prisma turns your database into a realtime GraphQL API 
+* **[Prisma ★ 7618 ⧗ 0](https://github.com/prisma/prisma)** - Prisma turns your database into a realtime GraphQL API 
 * **[PureConfig ★ 1082 ⧗ 1](https://github.com/melrief/pureconfig)** - A boilerplate-free Scala library for loading configuration files.
 * [REPLesent ★ 405 ⧗ 35](https://github.com/marconilanna/REPLesent) - A presentation tool built inside the Scala REPL. Runs code straight from your slides with a single keystroke.
 * [scala-debugger ★ 100 ⧗ 194](https://github.com/ensime/scala-debugger) - Scala libraries and tooling utilizing the Java Debugger Interface.
