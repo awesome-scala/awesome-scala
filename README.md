@@ -168,7 +168,7 @@ Projects with over 500 stargazers are in bold.
 * [play-pac4j ★ 373 ⧗ 1](https://github.com/pac4j/play-pac4j) - Security library managing authentication (CAS, OAuth, OpenID, SAML, LDAP, SQL, JWT...), authorizations and logout for Play 2.x in Java and Scala.
 * **[play-silhouette ★ 825 ⧗ 2](https://github.com/mohiva/play-silhouette)** - Authentication library for Play Framework applications that supports several authentication methods, including OAuth1, OAuth2, OpenID, Credentials or custom authentication schemes.
 * **[play2-auth ★ 623 ⧗ 32](https://github.com/t2v/play2-auth)** - Play2.x Authentication and Authorization module.
-* **[scala-oauth2-provider ★ 517 ⧗ 3](https://github.com/nulab/scala-oauth2-provider)** - OAuth 2.0 server-side implementation written in Scala.
+* **[scala-oauth2-provider ★ 517 ⧗ 4](https://github.com/nulab/scala-oauth2-provider)** - OAuth 2.0 server-side implementation written in Scala.
 * **[SecureSocial ★ 1195 ⧗ 45](https://github.com/jaliss/securesocial)** - A module that provides OAuth, OAuth2 and OpenID authentication for Play Framework applications.
 
 ## Authorization
@@ -255,7 +255,7 @@ Projects with over 500 stargazers are in bold.
 
 *Libraries for scientific computing, data analysis and numerical processing.*
 
-* **[Algebird ★ 2028 ⧗ 4](https://github.com/twitter/algebird)** - Abstract Algebra for Scala.
+* **[Algebird ★ 2029 ⧗ 0](https://github.com/twitter/algebird)** - Abstract Algebra for Scala.
 * [Axle ★ 63 ⧗ 22](https://github.com/axlelang/axle) - A Spire-based DSL for scientific cloud computing.
 * **[BigDL ★ 3695 ⧗ 1](https://github.com/intel-analytics/BigDL)** - BigDL is a distributed deep learning library for Apache Spark.
 * **[Breeze ★ 3205 ⧗ 1](https://github.com/scalanlp/breeze)** - Breeze is a numerical processing library for Scala.
@@ -288,7 +288,7 @@ Projects with over 500 stargazers are in bold.
 * **[Flink ★ 15320 ⧗ 0](https://github.com/apache/flink)** - Processing framework with powerful stream- and batch-processing capabilities.
 * [Gearpump ★ 301 ⧗ 19](https://github.com/apache/incubator-gearpump) - Lightweight real-time big data streaming engine
 * [GridScale ★ 23 ⧗ 0](https://github.com/openmole/gridscale) - A Scala API for computing clusters and grids.
-* **[Kafka ★ 17859 ⧗ 0](https://github.com/apache/kafka)** - Kafka is a message broker project and aims to provide a unified, high-throughput, low-latency platform for handling real-time data feeds.
+* **[Kafka ★ 17858 ⧗ 0](https://github.com/apache/kafka)** - Kafka is a message broker project and aims to provide a unified, high-throughput, low-latency platform for handling real-time data feeds.
 * **[Reactive-kafka ★ 1286 ⧗ 0](https://github.com/akka/reactive-kafka)** - Reactive Streams API for Apache Kafka.
 * **[Scalding ★ 3279 ⧗ 0](https://github.com/twitter/scalding)** - A Scala binding for the Cascading abstraction of Hadoop MapReduce.
 * [Schemer ★ 95 ⧗ 52](https://github.com/indix/schemer) - Schema registry for CSV, TSV, JSON, AVRO and Parquet schema. Supports schema inference and GraphQL API.
