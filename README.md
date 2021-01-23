@@ -91,7 +91,7 @@ Projects with over 500 stargazers are in bold.
 * **[rediscala ★ 794 ⧗ 2](https://github.com/etaty/rediscala)** - Non-blocking, Reactive Redis driver for Scala (with Sentinel support)
 * [Relate ★ 162 ⧗ 25](https://github.com/lucidsoftware/relate) - Lightweight, blazing-fast database access layer for Scala that abstracts the idiosyncricies of the JDBC while keeping complete control over the SQL.
 * [Salat ★ 488 ⧗ 61](https://github.com/salat/salat/) - ORM for MongoDB. A related Play-plugin is also available.
-* [Scala ActiveRecord ★ 319 ⧗ 5](https://github.com/aselab/scala-activerecord) - ORM library for scala, inspired by ActiveRecord of Ruby on Rails.
+* [Scala ActiveRecord ★ 319 ⧗ 6](https://github.com/aselab/scala-activerecord) - ORM library for scala, inspired by ActiveRecord of Ruby on Rails.
 * [Scala-Forklift ★ 179 ⧗ 91](https://github.com/lastland/scala-forklift) - Type-safe database migration for Slick, Git, etc.
 * **[scala-redis ★ 983 ⧗ 1](https://github.com/debasishg/scala-redis)** - A Scala library for connecting to a redis server, with clustering support
 * [scala-sql ★ 72 ⧗ 0](https://github.com/wangzaixiang/scala-sql) - Yet another SQL-based DB access library for scala language
@@ -169,7 +169,7 @@ Projects with over 500 stargazers are in bold.
 * **[play-silhouette ★ 825 ⧗ 1](https://github.com/mohiva/play-silhouette)** - Authentication library for Play Framework applications that supports several authentication methods, including OAuth1, OAuth2, OpenID, Credentials or custom authentication schemes.
 * **[play2-auth ★ 623 ⧗ 31](https://github.com/t2v/play2-auth)** - Play2.x Authentication and Authorization module.
 * **[scala-oauth2-provider ★ 517 ⧗ 3](https://github.com/nulab/scala-oauth2-provider)** - OAuth 2.0 server-side implementation written in Scala.
-* **[SecureSocial ★ 1195 ⧗ 44](https://github.com/jaliss/securesocial)** - A module that provides OAuth, OAuth2 and OpenID authentication for Play Framework applications.
+* **[SecureSocial ★ 1195 ⧗ 45](https://github.com/jaliss/securesocial)** - A module that provides OAuth, OAuth2 and OpenID authentication for Play Framework applications.
 
 ## Authorization
 
@@ -248,7 +248,7 @@ Projects with over 500 stargazers are in bold.
 * **[ScalaPB ★ 705 ⧗ 51](https://scalapb.github.io/)** - Protocol Buffers and gRPC support for Scala
 * **[scodec ★ 708 ⧗ 6](https://github.com/scodec/scodec)** - A combinator library for working with binary data.
 * [Scrooge](http://twitter.github.io/scrooge/) - An Apache Thrift code generator for Scala.
-* [validation ★ 195 ⧗ 44](https://github.com/jto/validation) - Advanced validation & serialization for JSON, HTML form data, etc, with no reflection at runtime.
+* [validation ★ 195 ⧗ 45](https://github.com/jto/validation) - Advanced validation & serialization for JSON, HTML form data, etc, with no reflection at runtime.
 * [µPickle](http://lihaoyi.github.io/upickle/) - A lightweight serialization library for Scala that works in ScalaJS, allowing transfer of structured data between the JVM and JavaScript.
 
 ## Science and Data Analysis
@@ -306,7 +306,7 @@ Projects with over 500 stargazers are in bold.
 *2D and 3D image processing and image analysis*
 
 * [scalismo ★ 181 ⧗ 6](https://github.com/unibas-gravis/scalismo) - Shape modelling and  model-based image analysis.
-* **[scrimage ★ 782 ⧗ 0](https://github.com/sksamuel/scrimage)** - Image io, resize, manipulation and thumbnails.
+* **[scrimage ★ 782 ⧗ 1](https://github.com/sksamuel/scrimage)** - Image io, resize, manipulation and thumbnails.
 
 ## Sound processing and music
 
@@ -381,7 +381,7 @@ Projects with over 500 stargazers are in bold.
 * [Scala Graph](http://www.scala-graph.org/) - A Scala library with basic graph functionality that seamlessly fits into the Scala standard collections library.
 * [scala.meta](http://scalameta.org/) - A clean-room implementation of a metaprogramming toolkit for Scala.
 * [Scalactic](http://www.scalactic.org/) - Small library of utilities related to quality that helps keeping code clear and correct.
-* **[Scalaz ★ 4422 ⧗ 0](https://github.com/scalaz/scalaz)** - An extension to the core Scala library for functional programming.
+* **[Scalaz ★ 4421 ⧗ 0](https://github.com/scalaz/scalaz)** - An extension to the core Scala library for functional programming.
 * [scribe ★ 288 ⧗ 1](https://github.com/outr/scribe) - Practical logging framework that doesn't depend on any other logging framework and can be completely configured programmatically.
 * **[Shapeless ★ 3110 ⧗ 3](https://github.com/milessabin/shapeless)** - A type class and dependent type based generic programming library for Scala.
 * **[Simulacrum ★ 907 ⧗ 4](https://github.com/mpilquist/simulacrum)** - First class syntax support for type classes in Scala.
@@ -430,7 +430,7 @@ Projects with over 500 stargazers are in bold.
 
 *Scala libraries and wrappers for HTTP clients.*
 
-* **[Akka HTTP ★ 1143 ⧗ 0](https://github.com/akka/akka-http)** - The Streaming-first HTTP server/module of [Akka](https://github.com/akka/akka).
+* **[Akka HTTP ★ 1144 ⧗ 0](https://github.com/akka/akka-http)** - The Streaming-first HTTP server/module of [Akka](https://github.com/akka/akka).
 * [Dispatch ★ 436 ⧗ 12](https://github.com/dispatch/reboot) - Library for asynchronous HTTP interaction. It provides a Scala vocabulary for Java’s [async-http-client](https://github.com/AsyncHttpClient/async-http-client).
 * **[Finch.io ★ 1512 ⧗ 12](https://github.com/finagle/finch)** - Purely Functional REST API atop of [Finagle](https://github.com/twitter/finagle).
 * [Fintrospect ★ 37 ⧗ 0](http://fintrospect.io) - Implement fast, type-safe HTTP webservices for [Finagle](https://github.com/twitter/finagle).
@@ -448,7 +448,7 @@ Projects with over 500 stargazers are in bold.
 *Scala libraries for interactions with the Web of Data, and other RDF tools.*
 
 * [Banana-RDF ★ 261 ⧗ 40](https://github.com/banana-rdf/banana-rdf) - Scala-friendly abstractions for RDF and Linked Data technologies. Supports Jena, Sesame and native Scala.
-* [Scowl ★ 43 ⧗ 65](https://github.com/phenoscape/scowl) - Scala DSL allowing a declarative approach to composing OWL expressions and axioms using the OWL API.
+* [Scowl ★ 43 ⧗ 66](https://github.com/phenoscape/scowl) - Scala DSL allowing a declarative approach to composing OWL expressions and axioms using the OWL API.
 
 ## Metrics and Monitoring
 
