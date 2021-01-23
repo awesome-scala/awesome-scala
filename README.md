@@ -200,7 +200,7 @@ Projects with over 500 stargazers are in bold.
 * **[Specs2 ★ 691 ⧗ 0](https://github.com/etorreborre/specs2)** - Software Specifications for Scala.
 * [Stryker4s ★ 107 ⧗ 2](https://github.com/stryker-mutator/stryker4s) - Test your tests with mutation testing.
 * [testcontainers-scala ★ 393 ⧗ 7](https://github.com/testcontainers/testcontainers-scala) - Docker containers for testing in Scala.
-* [µTest ★ 418 ⧗ 1](https://github.com/lihaoyi/utest) - A tiny, portable testing library for Scala.
+* [µTest ★ 418 ⧗ 2](https://github.com/lihaoyi/utest) - A tiny, portable testing library for Scala.
 
 ## JSON
 
@@ -285,7 +285,7 @@ Projects with over 500 stargazers are in bold.
 ## Big Data
 
 * **[BIDMach ★ 908 ⧗ 14](https://github.com/BIDData/BIDMach)** - CPU and GPU machine learning library, using JNI for GPU computation.
-* **[Flink ★ 15318 ⧗ 0](https://github.com/apache/flink)** - Processing framework with powerful stream- and batch-processing capabilities.
+* **[Flink ★ 15320 ⧗ 0](https://github.com/apache/flink)** - Processing framework with powerful stream- and batch-processing capabilities.
 * [Gearpump ★ 301 ⧗ 19](https://github.com/apache/incubator-gearpump) - Lightweight real-time big data streaming engine
 * [GridScale ★ 23 ⧗ 0](https://github.com/openmole/gridscale) - A Scala API for computing clusters and grids.
 * **[Kafka ★ 17860 ⧗ 0](https://github.com/apache/kafka)** - Kafka is a message broker project and aims to provide a unified, high-throughput, low-latency platform for handling real-time data feeds.
@@ -576,7 +576,7 @@ Projects with over 500 stargazers are in bold.
 * [Scapegoat ★ 409 ⧗ 2](https://github.com/sksamuel/scapegoat) - Scala compiler plugin for static code analysis
 * [Scaps](http://scala-search.org/) ([repo](https://github.com/scala-search/scaps)) - A search engine for Scala libraries
 * [Scoverage](https://github.com/scoverage) - Scala Code Coverage tool
-* **[Wartremover ★ 944 ⧗ 7](https://github.com/puffnfresh/wartremover)** - Wartremover a flexible Scala code linting tool
+* **[Wartremover ★ 945 ⧗ 0](https://github.com/puffnfresh/wartremover)** - Wartremover a flexible Scala code linting tool
 
 ## Geospatial
 
