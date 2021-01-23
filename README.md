@@ -75,11 +75,11 @@ Projects with over 500 stargazers are in bold.
 
 * [Anorm ★ 205 ⧗ 2](https://github.com/playframework/anorm) - Simple SQL data access.
 * [Casbah](http://mongodb.github.io/casbah/) ([repo](https://github.com/mongodb/casbah)) - Officially supported Scala driver for MongoDB
-* **[doobie ★ 1762 ⧗ 0](https://github.com/tpolecat/doobie)** - Pure functional JDBC layer for Scala.
+* **[doobie ★ 1762 ⧗ 1](https://github.com/tpolecat/doobie)** - Pure functional JDBC layer for Scala.
 * **[Elastic4s ★ 1531 ⧗ 1](https://github.com/sksamuel/elastic4s)** - A scala DSL / reactive client for Elasticsearch
 * [Finagle ★ 72 ⧗ 2](https://github.com/finagle/finagle-postgres) - PostgreSQL protocol support for Finagle
 * [longevity ★ 101 ⧗ 92](https://github.com/longevityframework/longevity) - A Persistence Framework for Scala and NoSQL with a Domain Driven Design Orientation
-* [lucene4s ★ 41 ⧗ 71](https://github.com/outr/lucene4s) - Light-weight convenience wrapper around Lucene to simplify complex tasks and add Scala sugar.
+* [lucene4s ★ 41 ⧗ 72](https://github.com/outr/lucene4s) - Light-weight convenience wrapper around Lucene to simplify complex tasks and add Scala sugar.
 * [Memcontinuationed ★ 50 ⧗ 92](https://github.com/Atry/memcontinuationed) - Memcached client for Scala.
 * [Morpheus ★ 102 ⧗ 310](https://github.com/outworkers/morpheus) - Reactive type safe Scala Driver for MySQL/Postgres.
 * **[Phantom ★ 1047 ⧗ 2](https://github.com/outworkers/phantom)** - Reactive typed Scala driver for Apache Cassandra.
@@ -106,7 +106,7 @@ Projects with over 500 stargazers are in bold.
 
 ## Messaging
 
-* [Op-Rabbit ★ 236 ⧗ 55](https://github.com/SpinGo/op-rabbit) - High-level messaging library for Akka and Op-Rabbit.
+* [Op-Rabbit ★ 236 ⧗ 56](https://github.com/SpinGo/op-rabbit) - High-level messaging library for Akka and Op-Rabbit.
 
 ## Graphical User Interfaces
 
@@ -127,8 +127,8 @@ Projects with over 500 stargazers are in bold.
 * **[Play ★ 11783 ⧗ 0](https://github.com/playframework/playframework)** - Makes it easy to build scalable, fast and real-time web applications with Java & Scala.
 * [Play Pagelets ★ 75 ⧗ 58](https://github.com/splink/pagelets) - A Module for the Play Framework to build resilient and modular Play applications in an elegant and concise manner.
 * [Reactive ★ 213 ⧗ 10](https://github.com/nafg/reactive) - FRP and web abstractions, which can be plugged into any web framework (currently only has bindings for Lift).
-* **[Scalatra ★ 2485 ⧗ 1](https://github.com/scalatra/scalatra)** - Tiny Scala high-performance, async web framework, inspired by Sinatra.
-* **[Skinny Framework ★ 719 ⧗ 3](https://github.com/skinny-framework/skinny-framework)** - A full-stack web app framework upon Scalatra for rapid Development in Scala.
+* **[Scalatra ★ 2485 ⧗ 2](https://github.com/scalatra/scalatra)** - Tiny Scala high-performance, async web framework, inspired by Sinatra.
+* **[Skinny Framework ★ 719 ⧗ 4](https://github.com/skinny-framework/skinny-framework)** - A full-stack web app framework upon Scalatra for rapid Development in Scala.
 * [suzaku ★ 108 ⧗ 58](https://github.com/suzaku-io/suzaku) - Suzaku web UI framework for Scala
 * **[Unfiltered ★ 710 ⧗ 4](https://github.com/unfiltered/unfiltered)** - A modular set of unopinionated primitives for servicing HTTP and WebSocket requests in Scala.
 * [Xitrum](http://xitrum-framework.github.io/) - An async and clustered Scala web framework and HTTP(S) server fusion on top of Netty, Akka, and Hazelcast.
@@ -148,7 +148,7 @@ Projects with over 500 stargazers are in bold.
 
 *Scala libraries for data binding and validation*
 
-* **[Accord ★ 516 ⧗ 4](https://github.com/wix/accord)** - A sane validation library for Scala
+* **[Accord ★ 516 ⧗ 5](https://github.com/wix/accord)** - A sane validation library for Scala
 * [Monkeytail ★ 87 ⧗ 92](https://github.com/sksamuel/monkeytail) - A set of validation macros and helpers for cats.Validated
 * [Octopus ★ 136 ⧗ 55](https://github.com/krzemin/octopus) - Scala library for boilerplate-free validation
 
@@ -241,7 +241,7 @@ Projects with over 500 stargazers are in bold.
 *Libraries for serializing and deserializing data for storage or transport.*
 
 * [avro-codegen](https://github.com/Nitro/avro-codegen) - Code generation from avro schemas to serialize/deserialize avro messages, no runtime reflection.
-* **[Chill ★ 558 ⧗ 5](https://github.com/twitter/chill)** - Extensions for the Kryo serialization library to ease configuration in systems like Hadoop and Storm.
+* **[Chill ★ 558 ⧗ 6](https://github.com/twitter/chill)** - Extensions for the Kryo serialization library to ease configuration in systems like Hadoop and Storm.
 * [msgpack ★ 90 ⧗ 107](https://github.com/msgpack/msgpack-scala) - A efficient binary serialization library.
 * **[Pickling ★ 852 ⧗ 5](https://github.com/scala/pickling)** - Fast, customizable, boilerplate-free pickling support.
 * [ScalaBuff ★ 222 ⧗ 215](https://github.com/SandroGrzicic/ScalaBuff) - a Scala Protocol Buffers (protobuf) compiler
@@ -255,7 +255,7 @@ Projects with over 500 stargazers are in bold.
 
 *Libraries for scientific computing, data analysis and numerical processing.*
 
-* **[Algebird ★ 2028 ⧗ 3](https://github.com/twitter/algebird)** - Abstract Algebra for Scala.
+* **[Algebird ★ 2028 ⧗ 4](https://github.com/twitter/algebird)** - Abstract Algebra for Scala.
 * [Axle ★ 63 ⧗ 22](https://github.com/axlelang/axle) - A Spire-based DSL for scientific cloud computing.
 * **[BigDL ★ 3695 ⧗ 1](https://github.com/intel-analytics/BigDL)** - BigDL is a distributed deep learning library for Apache Spark.
 * **[Breeze ★ 3205 ⧗ 1](https://github.com/scalanlp/breeze)** - Breeze is a numerical processing library for Scala.
@@ -298,8 +298,8 @@ Projects with over 500 stargazers are in bold.
 * [spark-deployer ★ 76 ⧗ 142](https://github.com/KKBOX/spark-deployer) - A sbt plugin which helps deploying Apache Spark stand-alone cluster and submitting job on cloud system like AWS EC2.
 * [Sparkplug ★ 23 ⧗ 130](https://github.com/indix/sparkplug) - Spark package to "plug" holes in data using SQL based rules
 * **[Sparkta ★ 514 ⧗ 3](https://github.com/Stratio/sparkta)** - Real Time Aggregation based on Spark Streaming.
-* **[Summingbird ★ 2089 ⧗ 5](https://github.com/twitter/summingbird)** - An implementation of the “lambda architecture” as a software abstraction — a single API for Hadoop and Storm.
-* **[Vegas ★ 706 ⧗ 3](https://github.com/vegas-viz/Vegas)** - The missing MatPlotLib for Scala + Spark
+* **[Summingbird ★ 2089 ⧗ 6](https://github.com/twitter/summingbird)** - An implementation of the “lambda architecture” as a software abstraction — a single API for Hadoop and Storm.
+* **[Vegas ★ 706 ⧗ 4](https://github.com/vegas-viz/Vegas)** - The missing MatPlotLib for Scala + Spark
 
 ## Image processing and image analysis
 
@@ -340,7 +340,7 @@ Projects with over 500 stargazers are in bold.
 *Libraries and frameworks for writing distributed applications.*
 
 * [Akka](http://akka.io/) - A toolkit and runtime for building highly concurrent, distributed, and fault tolerant event-driven applications.
-* [Akka-tracing ★ 316 ⧗ 55](https://github.com/levkhomich/akka-tracing) - A distributed tracing extension for Akka. Provides integration with Play framework, Spray and Akka HTTP.
+* [Akka-tracing ★ 316 ⧗ 56](https://github.com/levkhomich/akka-tracing) - A distributed tracing extension for Akka. Provides integration with Play framework, Spray and Akka HTTP.
 * [Clump](http://getclump.io) - A library for expressive and efficient service composition
 * **[CurioDB ★ 511 ⧗ 58](https://github.com/stephenmcd/curiodb)** - Distributed & Persistent Redis Clone built with Scala & Akka.
 * [Finagle](https://twitter.github.io/finagle/) - An extensible, protocol-agnostic RPC system designed for high performance and concurrency.
@@ -431,7 +431,7 @@ Projects with over 500 stargazers are in bold.
 *Scala libraries and wrappers for HTTP clients.*
 
 * **[Akka HTTP ★ 1143 ⧗ 0](https://github.com/akka/akka-http)** - The Streaming-first HTTP server/module of [Akka](https://github.com/akka/akka).
-* [Dispatch ★ 436 ⧗ 11](https://github.com/dispatch/reboot) - Library for asynchronous HTTP interaction. It provides a Scala vocabulary for Java’s [async-http-client](https://github.com/AsyncHttpClient/async-http-client).
+* [Dispatch ★ 436 ⧗ 12](https://github.com/dispatch/reboot) - Library for asynchronous HTTP interaction. It provides a Scala vocabulary for Java’s [async-http-client](https://github.com/AsyncHttpClient/async-http-client).
 * **[Finch.io ★ 1512 ⧗ 12](https://github.com/finagle/finch)** - Purely Functional REST API atop of [Finagle](https://github.com/twitter/finagle).
 * [Fintrospect ★ 37 ⧗ 0](http://fintrospect.io) - Implement fast, type-safe HTTP webservices for [Finagle](https://github.com/twitter/finagle).
 * **[Http4s ★ 1956 ⧗ 0](https://github.com/http4s/http4s)** - A minimal, idiomatic Scala interface for HTTP.
@@ -473,7 +473,7 @@ Projects with over 500 stargazers are in bold.
 
 *Sbt plugins to make your life easier.*
 
-* [coursier ★ 2 ⧗ 23](https://github.com/alexarchambault/coursier) - A Scala library to fetch dependencies from Maven / Ivy repositories
+* [coursier ★ 2 ⧗ 24](https://github.com/alexarchambault/coursier) - A Scala library to fetch dependencies from Maven / Ivy repositories
 * [sbt-api-mappings ★ 76 ⧗ 151](https://github.com/ThoughtWorksInc/sbt-api-mappings) - A Sbt plugin that resolves external API links to common Scala libraries.
 * [sbt-buildinfo ★ 479 ⧗ 5](https://github.com/sbt/sbt-buildinfo) - Generates Scala source from build definition.
 * **[sbt-dependency-graph ★ 1215 ⧗ 2](https://github.com/jrudolph/sbt-dependency-graph)** - Create a dependency graph for your project.
@@ -563,7 +563,7 @@ Projects with over 500 stargazers are in bold.
 * [Codacy](https://www.codacy.com/) - Automated Code Reviews for Scala
 * [fast-string-interpolator ★ 63 ⧗ 29](https://github.com/Sizmek/fast-string-interpolator) - Scala macro that generates ultra-fast string interpolators
 * [Fastring ★ 123 ⧗ 11](https://github.com/Atry/fastring) - Extremely fast string formatting
-* **[Gitbucket ★ 8250 ⧗ 0](https://github.com/gitbucket/gitbucket)** - The easily installable GitHub clone powered by Scala
+* **[Gitbucket ★ 8251 ⧗ 0](https://github.com/gitbucket/gitbucket)** - The easily installable GitHub clone powered by Scala
 * [Giter8](http://www.foundweekends.org/giter8/) - command line tool to generate files and directories from templates published on Github
 * [Hepek ★ 75 ⧗ 36](https://github.com/sake92/hepek) - Static content generator for developers. Intuitive, scalable, powerful. 
 * [Mill](http://www.lihaoyi.com/mill/) - A better Scala build tool
