@@ -288,7 +288,7 @@ Projects with over 500 stargazers are in bold.
 * **[Flink ★ 15318 ⧗ 0](https://github.com/apache/flink)** - Processing framework with powerful stream- and batch-processing capabilities.
 * [Gearpump ★ 301 ⧗ 19](https://github.com/apache/incubator-gearpump) - Lightweight real-time big data streaming engine
 * [GridScale ★ 23 ⧗ 0](https://github.com/openmole/gridscale) - A Scala API for computing clusters and grids.
-* **[Kafka ★ 17860 ⧗ 0](https://github.com/apache/kafka)** - Kafka is a message broker project and aims to provide a unified, high-throughput, low-latency platform for handling real-time data feeds.
+* **[Kafka ★ 17861 ⧗ 0](https://github.com/apache/kafka)** - Kafka is a message broker project and aims to provide a unified, high-throughput, low-latency platform for handling real-time data feeds.
 * **[Reactive-kafka ★ 1286 ⧗ 0](https://github.com/akka/reactive-kafka)** - Reactive Streams API for Apache Kafka.
 * **[Scalding ★ 3279 ⧗ 0](https://github.com/twitter/scalding)** - A Scala binding for the Cascading abstraction of Hadoop MapReduce.
 * [Schemer ★ 95 ⧗ 52](https://github.com/indix/schemer) - Schema registry for CSV, TSV, JSON, AVRO and Parquet schema. Supports schema inference and GraphQL API.
@@ -365,7 +365,7 @@ Projects with over 500 stargazers are in bold.
 * [Freasy-Monad ★ 112 ⧗ 80](https://github.com/Thangiee/Freasy-Monad) - Easy way to create Free Monad for Cats and Scalaz using Scala macros with first-class Intellij support.
 * **[Freestyle ★ 628 ⧗ 5](https://github.com/frees-io/freestyle)** - A cohesive & pragmatic framework of FP centric Scala libraries.
 * [Hamsters ★ 293 ⧗ 62](https://github.com/scala-hamsters/hamsters) - A mini Scala utility library. Compatible with functional programming beginners. Featuring validation, monad transformers, HLists, Union types.
-* [idid ★ 14 ⧗ 227](https://github.com/lucastorri/idid) - A library to define common interfaces for different Id types.
+* [idid ★ 14 ⧗ 228](https://github.com/lucastorri/idid) - A library to define common interfaces for different Id types.
 * [Lamma ★ 87 ⧗ 220](https://github.com/maxcellent/lamma) - A Scala date library for date and schedule generation.
 * [LArray ★ 367 ⧗ 8](https://github.com/xerial/larray) - Large off-heap arrays (> 2GB) and mmap files.
 * [Log4s](http://www.log4s.org/) - Fast, Scala-friendly logging bindings on top of [SLF4J](http://slf4j.org/). Uses macros for extreme performance.
@@ -407,7 +407,7 @@ Projects with over 500 stargazers are in bold.
 * [Ostinato ★ 42 ⧗ 23](https://github.com/marianogappa/ostinato) - A chess library that runs on the server (Scala) and on the browser (ScalaJS)
 * [Play Swagger ★ 373 ⧗ 0](https://github.com/iheartradio/play-swagger) - Automatically create Swagger documentation for your Play REST API
 * [pprint ★ 124 ⧗ 57](https://github.com/lihaoyi/pprint) - Pretty-printer for Scala values and types for easier reading and debugging
-* **[Prisma ★ 7628 ⧗ 0](https://github.com/prisma/prisma)** - Prisma turns your database into a realtime GraphQL API 
+* **[Prisma ★ 7629 ⧗ 0](https://github.com/prisma/prisma)** - Prisma turns your database into a realtime GraphQL API 
 * **[PureConfig ★ 1082 ⧗ 0](https://github.com/melrief/pureconfig)** - A boilerplate-free Scala library for loading configuration files.
 * [REPLesent ★ 405 ⧗ 36](https://github.com/marconilanna/REPLesent) - A presentation tool built inside the Scala REPL. Runs code straight from your slides with a single keystroke.
 * [scala-debugger ★ 100 ⧗ 195](https://github.com/ensime/scala-debugger) - Scala libraries and tooling utilizing the Java Debugger Interface.
@@ -422,7 +422,7 @@ Projects with over 500 stargazers are in bold.
 *Scala libraries and wrappers for Android development.*
 
 * **[Android SDK Plugin for SBT ★ 749 ⧗ 4](https://github.com/pfn/android-sdk-plugin)** - An sbt plugin that adds tasks for developing Android applications.
-* [Gradle Android Scala Plugin ★ 344 ⧗ 150](https://github.com/saturday06/gradle-android-scala-plugin) - A gradle plugin that allows you to use Scala with Android
+* [Gradle Android Scala Plugin ★ 345 ⧗ 0](https://github.com/saturday06/gradle-android-scala-plugin) - A gradle plugin that allows you to use Scala with Android
 * **[Macroid ★ 540 ⧗ 5](https://github.com/47deg/macroid)** - A modular functional UI language for Android.
 * **[Scaloid ★ 2104 ⧗ 16](https://github.com/pocorall/scaloid)** - Less painful Android development with Scala.
 
