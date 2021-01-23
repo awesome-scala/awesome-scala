@@ -96,7 +96,7 @@ Projects with over 500 stargazers are in bold.
 * **[scala-redis ★ 983 ⧗ 1](https://github.com/debasishg/scala-redis)** - A Scala library for connecting to a redis server, with clustering support
 * [scala-sql ★ 72 ⧗ 1](https://github.com/wangzaixiang/scala-sql) - Yet another SQL-based DB access library for scala language
 * [ScalaRelational ★ 55 ⧗ 196](https://github.com/outr/scalarelational) - Type-Safe framework for defining, modifying, and querying SQL databases.
-* **[ScalikeJDBC ★ 1132 ⧗ 1](https://github.com/scalikejdbc/scalikejdbc)** - A tidy SQL-based DB access library for Scala developers.
+* **[ScalikeJDBC ★ 1132 ⧗ 2](https://github.com/scalikejdbc/scalikejdbc)** - A tidy SQL-based DB access library for Scala developers.
 * [Scanamo ★ 277 ⧗ 0](https://github.com/guardian/scanamo) - A library to make using DynamoDB with Scala simpler and less error-prone.
 * [Shade ★ 107 ⧗ 18](https://github.com/alexandru/shade) - Memcached client for Scala, based on Spymemcached
 * **[Slick ★ 2413 ⧗ 0](https://github.com/slick/slick)** - Modern database query and access library for Scala.
@@ -285,7 +285,7 @@ Projects with over 500 stargazers are in bold.
 ## Big Data
 
 * **[BIDMach ★ 908 ⧗ 14](https://github.com/BIDData/BIDMach)** - CPU and GPU machine learning library, using JNI for GPU computation.
-* **[Flink ★ 15320 ⧗ 0](https://github.com/apache/flink)** - Processing framework with powerful stream- and batch-processing capabilities.
+* **[Flink ★ 15322 ⧗ 0](https://github.com/apache/flink)** - Processing framework with powerful stream- and batch-processing capabilities.
 * [Gearpump ★ 301 ⧗ 19](https://github.com/apache/incubator-gearpump) - Lightweight real-time big data streaming engine
 * [GridScale ★ 23 ⧗ 0](https://github.com/openmole/gridscale) - A Scala API for computing clusters and grids.
 * **[Kafka ★ 17858 ⧗ 0](https://github.com/apache/kafka)** - Kafka is a message broker project and aims to provide a unified, high-throughput, low-latency platform for handling real-time data feeds.
@@ -592,7 +592,7 @@ Projects with over 500 stargazers are in bold.
 *DevOps related tools and libraries.*
 
 * [Orkestra ★ 104 ⧗ 61](https://github.com/Orkestra-Tech/orkestra) - Functional DevOps with Scala and Kubernetes
-* [Skuber ★ 282 ⧗ 4](https://github.com/doriordan/skuber) - Kubernetes client in Scala
+* [Skuber ★ 282 ⧗ 5](https://github.com/doriordan/skuber) - Kubernetes client in Scala
 
 # Resources
 
