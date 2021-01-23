@@ -94,7 +94,7 @@ Projects with over 500 stargazers are in bold.
 * [Scala ActiveRecord ★ 319 ⧗ 6](https://github.com/aselab/scala-activerecord) - ORM library for scala, inspired by ActiveRecord of Ruby on Rails.
 * [Scala-Forklift ★ 179 ⧗ 91](https://github.com/lastland/scala-forklift) - Type-safe database migration for Slick, Git, etc.
 * **[scala-redis ★ 983 ⧗ 1](https://github.com/debasishg/scala-redis)** - A Scala library for connecting to a redis server, with clustering support
-* [scala-sql ★ 72 ⧗ 0](https://github.com/wangzaixiang/scala-sql) - Yet another SQL-based DB access library for scala language
+* [scala-sql ★ 72 ⧗ 1](https://github.com/wangzaixiang/scala-sql) - Yet another SQL-based DB access library for scala language
 * [ScalaRelational ★ 55 ⧗ 196](https://github.com/outr/scalarelational) - Type-Safe framework for defining, modifying, and querying SQL databases.
 * **[ScalikeJDBC ★ 1132 ⧗ 1](https://github.com/scalikejdbc/scalikejdbc)** - A tidy SQL-based DB access library for Scala developers.
 * [Scanamo ★ 277 ⧗ 0](https://github.com/guardian/scanamo) - A library to make using DynamoDB with Scala simpler and less error-prone.
@@ -166,7 +166,7 @@ Projects with over 500 stargazers are in bold.
 * [AWS Request Signer ★ 20 ⧗ 289](https://github.com/ticofab/aws-request-signer) - Helper to evaluate the signing headers for HTTP requests to Amazon Web Services.
 * [Play Google Auth Module ★ 33 ⧗ 15](https://github.com/guardian/play-googleauth) - A very simple implementation of Google OpenID Connect authentication for Play 2 applications.
 * [play-pac4j ★ 373 ⧗ 1](https://github.com/pac4j/play-pac4j) - Security library managing authentication (CAS, OAuth, OpenID, SAML, LDAP, SQL, JWT...), authorizations and logout for Play 2.x in Java and Scala.
-* **[play-silhouette ★ 825 ⧗ 1](https://github.com/mohiva/play-silhouette)** - Authentication library for Play Framework applications that supports several authentication methods, including OAuth1, OAuth2, OpenID, Credentials or custom authentication schemes.
+* **[play-silhouette ★ 825 ⧗ 2](https://github.com/mohiva/play-silhouette)** - Authentication library for Play Framework applications that supports several authentication methods, including OAuth1, OAuth2, OpenID, Credentials or custom authentication schemes.
 * **[play2-auth ★ 623 ⧗ 32](https://github.com/t2v/play2-auth)** - Play2.x Authentication and Authorization module.
 * **[scala-oauth2-provider ★ 517 ⧗ 3](https://github.com/nulab/scala-oauth2-provider)** - OAuth 2.0 server-side implementation written in Scala.
 * **[SecureSocial ★ 1195 ⧗ 45](https://github.com/jaliss/securesocial)** - A module that provides OAuth, OAuth2 and OpenID authentication for Play Framework applications.
@@ -288,7 +288,7 @@ Projects with over 500 stargazers are in bold.
 * **[Flink ★ 15320 ⧗ 0](https://github.com/apache/flink)** - Processing framework with powerful stream- and batch-processing capabilities.
 * [Gearpump ★ 301 ⧗ 19](https://github.com/apache/incubator-gearpump) - Lightweight real-time big data streaming engine
 * [GridScale ★ 23 ⧗ 0](https://github.com/openmole/gridscale) - A Scala API for computing clusters and grids.
-* **[Kafka ★ 17860 ⧗ 0](https://github.com/apache/kafka)** - Kafka is a message broker project and aims to provide a unified, high-throughput, low-latency platform for handling real-time data feeds.
+* **[Kafka ★ 17859 ⧗ 0](https://github.com/apache/kafka)** - Kafka is a message broker project and aims to provide a unified, high-throughput, low-latency platform for handling real-time data feeds.
 * **[Reactive-kafka ★ 1286 ⧗ 0](https://github.com/akka/reactive-kafka)** - Reactive Streams API for Apache Kafka.
 * **[Scalding ★ 3279 ⧗ 0](https://github.com/twitter/scalding)** - A Scala binding for the Cascading abstraction of Hadoop MapReduce.
 * [Schemer ★ 95 ⧗ 52](https://github.com/indix/schemer) - Schema registry for CSV, TSV, JSON, AVRO and Parquet schema. Supports schema inference and GraphQL API.
@@ -407,7 +407,7 @@ Projects with over 500 stargazers are in bold.
 * [Ostinato ★ 42 ⧗ 23](https://github.com/marianogappa/ostinato) - A chess library that runs on the server (Scala) and on the browser (ScalaJS)
 * [Play Swagger ★ 373 ⧗ 0](https://github.com/iheartradio/play-swagger) - Automatically create Swagger documentation for your Play REST API
 * [pprint ★ 124 ⧗ 57](https://github.com/lihaoyi/pprint) - Pretty-printer for Scala values and types for easier reading and debugging
-* **[Prisma ★ 7629 ⧗ 0](https://github.com/prisma/prisma)** - Prisma turns your database into a realtime GraphQL API 
+* **[Prisma ★ 7630 ⧗ 0](https://github.com/prisma/prisma)** - Prisma turns your database into a realtime GraphQL API 
 * **[PureConfig ★ 1082 ⧗ 0](https://github.com/melrief/pureconfig)** - A boilerplate-free Scala library for loading configuration files.
 * [REPLesent ★ 405 ⧗ 36](https://github.com/marconilanna/REPLesent) - A presentation tool built inside the Scala REPL. Runs code straight from your slides with a single keystroke.
 * [scala-debugger ★ 100 ⧗ 195](https://github.com/ensime/scala-debugger) - Scala libraries and tooling utilizing the Java Debugger Interface.
@@ -465,7 +465,7 @@ Projects with over 500 stargazers are in bold.
 * [CLIST ★ 100 ⧗ 85](https://github.com/backuity/clist) - Command Line Interface Scala Toolkit
 * [decline ★ 432 ⧗ 0](https://github.com/bkirwi/decline) - composable command-line parser for Scala, built on Cats
 * **[Fast Parse ★ 925 ⧗ 1](https://github.com/lihaoyi/fastparse)** - Fast to write, Fast running Parsers in Scala
-* **[Parboiled2 ★ 658 ⧗ 1](https://github.com/sirthias/parboiled2)** - A Fast Parser Generator for Scala 2.10.3+.
+* **[Parboiled2 ★ 658 ⧗ 2](https://github.com/sirthias/parboiled2)** - A Fast Parser Generator for Scala 2.10.3+.
 * **[Scala Parser Combinators ★ 516 ⧗ 0](https://github.com/scala/scala-parser-combinators)** - Scala Standard Parser Combinator Library.
 * **[Scopt ★ 1258 ⧗ 0](https://github.com/scopt/scopt)** - Simple scala command line options parsing.
 
@@ -563,7 +563,7 @@ Projects with over 500 stargazers are in bold.
 * [Codacy](https://www.codacy.com/) - Automated Code Reviews for Scala
 * [fast-string-interpolator ★ 63 ⧗ 29](https://github.com/Sizmek/fast-string-interpolator) - Scala macro that generates ultra-fast string interpolators
 * [Fastring ★ 123 ⧗ 11](https://github.com/Atry/fastring) - Extremely fast string formatting
-* **[Gitbucket ★ 8251 ⧗ 0](https://github.com/gitbucket/gitbucket)** - The easily installable GitHub clone powered by Scala
+* **[Gitbucket ★ 8252 ⧗ 0](https://github.com/gitbucket/gitbucket)** - The easily installable GitHub clone powered by Scala
 * [Giter8](http://www.foundweekends.org/giter8/) - command line tool to generate files and directories from templates published on Github
 * [Hepek ★ 75 ⧗ 36](https://github.com/sake92/hepek) - Static content generator for developers. Intuitive, scalable, powerful. 
 * [Mill](http://www.lihaoyi.com/mill/) - A better Scala build tool
@@ -582,7 +582,7 @@ Projects with over 500 stargazers are in bold.
 
 *Libraries to aid with geospatial calculations and artifacts.*
 
-* **[Geotrellis ★ 1116 ⧗ 0](https://github.com/locationtech/geotrellis)** - Scalable raster toolkit for GIS processing
+* **[Geotrellis ★ 1115 ⧗ 0](https://github.com/locationtech/geotrellis)** - Scalable raster toolkit for GIS processing
 * [osm4scala ★ 46 ⧗ 45](https://github.com/angelcervera/osm4scala) - OpenStreetMap PBF2 file parser
 * [rtree2d ★ 91 ⧗ 7](https://github.com/Sizmek/rtree2d) - RTree2D is a 2D immutable R-tree with STR (Sort-Tile-Recursive) packing for ultra-fast nearest and intersection queries on plane and spherical surfaces
 * [sfcurve ★ 63 ⧗ 38](https://github.com/locationtech/sfcurve) - Space filling curves in Scala for geospatial indexing and query
