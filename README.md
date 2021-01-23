@@ -182,7 +182,7 @@ Projects with over 500 stargazers are in bold.
 *Cryptography and Encryption Libraries.*
 
 * [Scrypto ★ 172 ⧗ 14](https://github.com/ScorexProject/scrypto) - All-purpose cryptographic framework.
-* [TSec ★ 333 ⧗ 8](https://github.com/jmcardon/tsec) - Type-safe, functional, general-cryptography library
+* [TSec ★ 333 ⧗ 9](https://github.com/jmcardon/tsec) - Type-safe, functional, general-cryptography library
 
 ## Testing
 
@@ -196,7 +196,7 @@ Projects with over 500 stargazers are in bold.
 * [ScalaMock](http://scalamock.org) - Scala native mocking framework
 * [scalaprops ★ 261 ⧗ 0](https://github.com/scalaprops/scalaprops) - Another property based testing library for Scala
 * **[ScalaTest ★ 937 ⧗ 0](https://github.com/scalatest/scalatest)** - A testing tool for Scala and Java developers.
-* [Scalive ★ 203 ⧗ 176](https://github.com/xitrum-framework/scalive) - Connect a Scala REPL to running JVM processes without any prior setup; this library is used for inspecting systems in production mode.
+* [Scalive ★ 203 ⧗ 177](https://github.com/xitrum-framework/scalive) - Connect a Scala REPL to running JVM processes without any prior setup; this library is used for inspecting systems in production mode.
 * **[Specs2 ★ 691 ⧗ 0](https://github.com/etorreborre/specs2)** - Software Specifications for Scala.
 * [Stryker4s ★ 107 ⧗ 2](https://github.com/stryker-mutator/stryker4s) - Test your tests with mutation testing.
 * [testcontainers-scala ★ 393 ⧗ 7](https://github.com/testcontainers/testcontainers-scala) - Docker containers for testing in Scala.
@@ -243,10 +243,10 @@ Projects with over 500 stargazers are in bold.
 * [avro-codegen](https://github.com/Nitro/avro-codegen) - Code generation from avro schemas to serialize/deserialize avro messages, no runtime reflection.
 * **[Chill ★ 558 ⧗ 6](https://github.com/twitter/chill)** - Extensions for the Kryo serialization library to ease configuration in systems like Hadoop and Storm.
 * [msgpack ★ 90 ⧗ 107](https://github.com/msgpack/msgpack-scala) - A efficient binary serialization library.
-* **[Pickling ★ 852 ⧗ 5](https://github.com/scala/pickling)** - Fast, customizable, boilerplate-free pickling support.
+* **[Pickling ★ 852 ⧗ 6](https://github.com/scala/pickling)** - Fast, customizable, boilerplate-free pickling support.
 * [ScalaBuff ★ 222 ⧗ 215](https://github.com/SandroGrzicic/ScalaBuff) - a Scala Protocol Buffers (protobuf) compiler
 * **[ScalaPB ★ 705 ⧗ 51](https://scalapb.github.io/)** - Protocol Buffers and gRPC support for Scala
-* **[scodec ★ 708 ⧗ 5](https://github.com/scodec/scodec)** - A combinator library for working with binary data.
+* **[scodec ★ 708 ⧗ 6](https://github.com/scodec/scodec)** - A combinator library for working with binary data.
 * [Scrooge](http://twitter.github.io/scrooge/) - An Apache Thrift code generator for Scala.
 * [validation ★ 195 ⧗ 44](https://github.com/jto/validation) - Advanced validation & serialization for JSON, HTML form data, etc, with no reflection at runtime.
 * [µPickle](http://lihaoyi.github.io/upickle/) - A lightweight serialization library for Scala that works in ScalaJS, allowing transfer of structured data between the JVM and JavaScript.
@@ -285,7 +285,7 @@ Projects with over 500 stargazers are in bold.
 ## Big Data
 
 * **[BIDMach ★ 908 ⧗ 14](https://github.com/BIDData/BIDMach)** - CPU and GPU machine learning library, using JNI for GPU computation.
-* **[Flink ★ 15317 ⧗ 0](https://github.com/apache/flink)** - Processing framework with powerful stream- and batch-processing capabilities.
+* **[Flink ★ 15318 ⧗ 0](https://github.com/apache/flink)** - Processing framework with powerful stream- and batch-processing capabilities.
 * [Gearpump ★ 301 ⧗ 19](https://github.com/apache/incubator-gearpump) - Lightweight real-time big data streaming engine
 * [GridScale ★ 23 ⧗ 0](https://github.com/openmole/gridscale) - A Scala API for computing clusters and grids.
 * **[Kafka ★ 17860 ⧗ 0](https://github.com/apache/kafka)** - Kafka is a message broker project and aims to provide a unified, high-throughput, low-latency platform for handling real-time data feeds.
@@ -387,7 +387,7 @@ Projects with over 500 stargazers are in bold.
 * **[Simulacrum ★ 907 ⧗ 4](https://github.com/mpilquist/simulacrum)** - First class syntax support for type classes in Scala.
 * [Squid ★ 172 ⧗ 58](https://github.com/epfldata/squid) - Type-safe metaprogramming framework with typed, hygienic quasiquotes.
 * [Stateless Future ★ 178 ⧗ 218](https://github.com/qifun/stateless-future) - Asynchronous programming in fully featured Scala syntax.
-* **[Twitter Util ★ 2422 ⧗ 3](https://github.com/twitter/util)** - General-purpose Scala libraries, including a future implementation and other concurrency tools.
+* **[Twitter Util ★ 2422 ⧗ 0](https://github.com/twitter/util)** - General-purpose Scala libraries, including a future implementation and other concurrency tools.
 
 ## Misc
 
